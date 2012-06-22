@@ -1,0 +1,1 @@
+g++ -o class_struct class_struct.cpp class_struct.hpp -std=c++0x
