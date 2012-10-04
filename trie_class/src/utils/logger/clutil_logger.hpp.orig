@@ -1,0 +1,204 @@
+#ifndef HNMAV_UTIL_CLUTIL_LOGGER_HPP
+#define HNMAV_UTIL_CLUTIL_LOGGER_HPP
+
+/*          Title 																						Name 								    date
+ *- Init Class logging for project ( Logging version not includes log level.)
+ * 		    																								  Chatsiri.rat            26/02/2012
+ */
+
+#include <iostream>
+#include <string>
+
+#include <boost/shared_ptr.hpp>
+#include <boost/make_shared.hpp>
+
+#include <boost/log/common.hpp>
+#include <boost/log/formatters.hpp>
+#include <boost/log/filters.hpp>
+#include <boost/log/attributes/timer.hpp>
+#include <boost/log/trivial.hpp>
+#include <boost/log/core.hpp>
+
+#include <boost/log/utility/init/to_file.hpp>
+#include <boost/log/utility/init/to_console.hpp>
+#include <boost/log/utility/init/common_attributes.hpp>
+
+#include <boost/log/sinks/sync_frontend.hpp>
+#include <boost/log/sinks/text_multifile_backend.hpp>
+#include <boost/log/sinks/syslog_backend.hpp>
+
+#include <boost/date_time/posix_time/posix_time_types.hpp>
+
+namespace  hnmav_util
+{
+    namespace logging = boost::log;
+    namespace fmt			= boost::log::formatters;
+    namespace flt 		= boost::log::filters;
+    namespace sinks		= boost::log::sinks;
+    namespace attrs		= boost::log::attributes;
+    namespace src			= boost::log::sources;
+    namespace keywords = boost::log::keywords;
+    using namespace boost;
+
+    enum severity_level {
+        normal,
+        warning,
+        error
+    };
+
+    template<typename CONT = std::string,  typename CONT1 =  int  >
+    class clutil_logging
+    {
+        public:
+            void init_backend();
+            void init_frontend();
+            void formatter();
+            void write_log(std::string const& write_str);
+            static clutil_logging<CONT, CONT1> &  get_instance();
+						void add_logger(CONT const&);
+        private:
+            CONT  file_path_;
+            CONT1 log_level_;
+            bool isInt_;
+
+            clutil_logging();
+            ~clutil_logging();
+
+            // back end
+            typedef shared_ptr<sinks::text_multifile_backend > backend;
+            std::vector<shared_ptr<sinks::text_multifile_backend> >  backend_vec;
+
+            typedef sinks::synchronous_sink< sinks::text_multifile_backend >  file_sinks_backend;
+            typedef shared_ptr<sinks::synchronous_sink< sinks::text_multifile_backend> >  sinks_backend_ptr;
+            std::vector<shared_ptr<sinks::synchronous_sink< sinks::text_multifile_backend> > >  sinks_vec;
+
+            // front end
+            typedef shared_ptr<logging::core>   core_ptr;
+            std::vector<shared_ptr<logging::core> > frontend_core_vec;
+
+            //log level
+            src::severity_logger< severity_level> *level_log;
+
+						std::vector<std::string> logger_file_path;
+
+    };
+
+		template<typename CONT, typename CONT1>
+		void clutil_logging<CONT, CONT1>::add_logger(CONT const&  logger_file)
+		{
+					logger_file_path.push_back(logger_file);
+		}
+
+    template<typename CONT, typename CONT1>
+    clutil_logging<CONT,CONT1> & clutil_logging<CONT, CONT1>::get_instance()
+    {
+        static clutil_logging<CONT, CONT1>  instance;
+        return instance;
+    }
+    template<typename CONT, typename CONT1>
+    clutil_logging<CONT, CONT1>::clutil_logging()
+    {
+        //backend
+    }
+
+    template<typename CONT, typename CONT1>
+    clutil_logging<CONT, CONT1>::~clutil_logging()
+    {
+/*        for(std::vector<shared_ptr<sinks::synchronous_sink< sinks::text_multifile_backend> >*>::iterator iter =
+                sinks_vec.begin();
+                iter != sinks_vec.end();
+                ++iter) {
+//            shared_ptr<sinks::synchronous_sink< sinks::text_multifile_backend> > backend_ptr = *iter;
+//            backend_ptr.reset();
+        }
+*/
+/*        for(std::vector<shared_ptr<logging::core> >::iterator  iter = frontend_core_vec.begin();
+                iter != frontend_core_vec.end();
+                ++iter) {
+            shared_ptr<logging::core> fronend_ptr = *iter;
+            fronend_ptr.reset();
+        }
+*/
+    }
+
+    template<typename CONT, typename CONT1>
+    void clutil_logging<CONT, CONT1>::write_log(std::string  const& write_data)
+    {
+				
+        BOOST_LOG_TRIVIAL(trace)<< write_data;
+    }
+
+    template<typename CONT, typename CONT1>
+    void clutil_logging<CONT, CONT1>::formatter()
+    {
+				sinks_backend_ptr * sinks_ptr = sinks_vec.back();
+        sinks_ptr->get()->locked_backend()->set_formatter(
+                fmt::format("%1%: [%2%] - <%3%> %4%")
+                % fmt::attr<unsigned int>("Line #")
+                % fmt::date_time<boost::posix_time::ptime>("TimeStamp")
+                %	fmt::attr<severity_level>("Serverity", std::nothrow)
+                % fmt::message());
+    }
+
+    template<typename CONT, typename CONT1>
+    void clutil_logging<CONT, CONT1>::init_backend()
+    {
+        std::cout<<" Init logging backend()... " <<std::endl;
+        backend backend_ptr = make_shared<sinks::text_multifile_backend>();
+			  for(std::vector<std::string>::iterator  iter = logger_file_path.begin();
+							iter != logger_file_path.end();
+							++iter)
+				{
+						std::cout<< "Logger path = " << *iter <<std::endl;
+		        backend_ptr->set_file_name_composer(   fmt::stream<< *iter  << ".log" );
+				}	
+
+        backend_vec.push_back(backend_ptr);
+
+
+        sinks_backend_ptr sinks_ptr  = shared_ptr<sinks::synchronous_sink
+                < sinks::text_multifile_backend> >(new file_sinks_backend(backend_ptr));
+
+        sinks_vec.push_back(sinks_ptr);
+
+    }
+
+    template<typename CONT, typename CONT1>
+    void clutil_logging<CONT, CONT1>::init_frontend()
+    {
+        std::cout<<" Init logging frontend()..." <<std::endl;
+        core_ptr core = logging::core::get();
+ 
+        shared_ptr<logging::attribute> attr(new attrs::local_clock);
+        core->get()->add_global_attribute("TimeStamp", attr);
+        attr.reset(new attrs::counter<unsigned  int>);
+        core->get()->add_global_attribute("Line #", attr);
+        core->get()->set_filter( flt::attr<logging::trivial::severity_level>("Severity")>= logging::trivial::info );
+
+	      core->get()->add_sink(sinks_vec.back());
+
+        frontend_core_vec.push_back(core);
+    }
+
+
+
+
+/*
+#define STRINGIFY(x) #x
+#define TOSTRING(x) STRINGIFY(x)
+#define AT __FILE__ ":" TOSTRING(__LINE__)
+#define TID pthread_self()
+#define PID getpid()
+
+#define CLLOG_TRACE(str) 	{BOOST_LOG_SEV(getlogger::get(),clutil_logging::logger::trace) 	<<"CLAMAV_TRACE  = " << AT << "|" << TID << "|-" << str;}
+#define CLLOG_DEBUG(str) 	{BOOST_LOG_SEV(getlogger::get(),clutil_logging::logger::debug) 	<<"CLAMAV_DEBUG  = " << AT << "|" << TID << "|-" << str;}
+#define CLLOG_INFO(str) 	{BOOST_LOG_SEV(getlogger::get(),clutil_logging::logger::info) 	<<"CLAMAV_INFO   = " << AT << "|" << TID << "|-" << str;}
+#define CLLOG_WARN(str) 	{BOOST_LOG_SEV(getlogger::get(),clutil_logging::logger::warn)		<<"CLAMAV_WRAN   = " << AT << "|" << TID << "|-" << str;}
+#define CLLOG_ERROR(str) 	{BOOST_LOG_SEV(getlogger::get(),clutil_logging::logger::error)	<<"CLAMAV_ERROR  = " << AT << "|" << TID << "|-" << str;}
+*/
+}
+
+#endif /* HNMAV_UTIL_CLUTIL_LOGGER_HPP */
+
+
+

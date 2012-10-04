@@ -1,0 +1,5 @@
+list.cpp: In function ‘int main()’:
+list.cpp:266:17: error: expected primary-expression before ‘<’ token
+list.cpp:266:18: error: expected primary-expression before ‘int’
+list.cpp:266:18: error: expected ‘;’ before ‘int’
+list.cpp:266:67: error: ‘c_iter’ was not declared in this scope

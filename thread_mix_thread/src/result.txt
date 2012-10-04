@@ -1,0 +1,37 @@
+Base_Clutil create instance
+Base_Clutil create instance
+Base_Clutil create instance
+Base_Clutil create instance
+Start address  number_platforms = 0x1be1c70
+ Platform info : Advanced Micro Devices, Inc.
+
+----------------------------------Num Devices-------------------------------------------
+Address num_devices = 0x1be1c74, device_type 4294967295
+Value num_devices = 1
+----------------------------------------------------------------------------------------
+
+ CL_CONTEXT_PLATFORM = 4228, Properties = 140241122144576
+Start address properties = 0x7fff8f92e980
+Devices [0] = 4228
+Devices [1] = 140241122144576
+Devices [2] = 0
+Start address program = 0x1be4090, source = __kernel void square(__global * buffer)
+{
+	size_t id = get_global_id(0);
+	buffer[id] = buffer[id] * buffer[id];
+}
+
+Program = 0x1be4090, num_devices = 1
+Num_devices = 1
+--------------------------Address of Util_Platform----------------------------------
+ util_platform num_devives = 0
+------------------------------------------------------------------------------------
+
+-----------------------Memroy Address Base_Util  & Util_memory----------------------
+ Address of num_devices = 0
+------------------------------------------------------------------------------------
+
+ load database 
+ virus name : Trojan.Beast-server 2.02 (JS)
+ sig   name : 8078FC6540EDEA0672E42DD850B52AB02F660F89D24F600CC344149241CFBE3C98A93419264018FF34B88885010BA17485ABAAD98500DD6A3A652003622B6C280DAB2A5706EA2FA30B56184ECC5540EB4E250FAB6040987498748B6411420C3B13CBA609E8EA57BC078907C844C61158187B1130C88A7446831172494F0DFD
+ Close file success 

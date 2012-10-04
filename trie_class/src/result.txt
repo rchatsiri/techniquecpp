@@ -1,0 +1,6 @@
+### Shared_ptr Init paltdevices_info  = 1
+ Init logging backend()...
+ logger path = /home/chatsiri/workspacecpp/techniquecpp/trie_class/src/logs/logger_main
+ Init logging frontend()...
+		CL_DEVICE_TYPE:	CL_DEVICE_TYPE_CPU
+ Close file success 

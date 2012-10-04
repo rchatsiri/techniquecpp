@@ -1,0 +1,509 @@
+test
+0:- [2012-Oct-03 08:23:33.818253] :-   inject string  
+0:- [2012-Oct-03 08:24:27.598418] :- hello world logging... 
+0:- [2012-Oct-03 08:39:02.616873] :- hello world logging... 
+0:- [2012-Oct-03 08:40:39.764437] :- hello world logging... 
+0:- [2012-Oct-03 08:42:08.892885] :- hello world logging... 
+0:- [2012-Oct-03 08:43:43.151665] :- hello world logging... 
+1:- [2012-Oct-03 08:43:43.354414] :- Start cl_create_buffer  
+0:- [2012-Oct-03 15:47:18.703297] :- hello world logging... 
+1:- [2012-Oct-03 15:47:19.094744] :- Start cl_create_buffer  
+0:- [2012-Oct-03 15:49:25.609595] :- hello world logging... 
+1:- [2012-Oct-03 15:49:25.815914] :- Start cl_create_buffer  
+2:- [2012-Oct-03 15:49:25.816822] :- Start cl_check buffer size ...  
+3:- [2012-Oct-03 15:49:25.817025] :- ### buffer size =  
+0:- [2012-Oct-03 16:16:57.299081] :- hello world logging... 
+1:- [2012-Oct-03 16:16:57.668298] :- Start cl_create_buffer  
+2:- [2012-Oct-03 16:16:57.669086] :- Start cl_check buffer size ...  
+3:- [2012-Oct-03 16:16:57.669249] :- ### buffer size =  : 0 
+0:- [2012-Oct-03 16:21:24.879227] :- hello world logging... 
+1:- [2012-Oct-03 16:21:25.084280] :- Start cl_create_buffer  
+2:- [2012-Oct-03 16:21:25.085017] :- -- Convert String to float -- 
+3:- [2012-Oct-03 16:21:25.085197] :- -- Size of num_devices =  : 1 
+4:- [2012-Oct-03 16:21:25.085479] :- -- Initial buffer input completed, Address =  : 0x307bcf0 
+5:- [2012-Oct-03 16:21:25.085676] :- -- Initial buffer output  completed, Address =  : 0x3091b80 
+6:- [2012-Oct-03 16:21:25.086193] :- Start cl_check buffer size ...  
+7:- [2012-Oct-03 16:21:25.086394] :- ### buffer size =  : 0 
+0:- [2012-Oct-03 17:02:56.309954] :- hello world logging... 
+1:- [2012-Oct-03 17:02:56.675619] :- Start cl_create_buffer  
+2:- [2012-Oct-03 17:02:56.676752] :- -- Convert String to float -- 
+3:- [2012-Oct-03 17:02:56.676992] :- -- Size of num_devices =  : 1 
+4:- [2012-Oct-03 17:02:56.677262] :- -- Initial buffer input completed, Address =  : 0x45bfcf0 
+5:- [2012-Oct-03 17:02:56.677445] :- -- Initial buffer output  completed, Address =  : 0x45d5b80 
+6:- [2012-Oct-03 17:02:56.677602] :- ### Start cl_create_command_queue 
+7:- [2012-Oct-03 17:02:56.677881] :- Address of command queue =  : 0x45d6458 
+8:- [2012-Oct-03 17:02:56.678033] :- Count_queue =  : 0 
+9:- [2012-Oct-03 17:02:56.678242] :- --Create kernel success-- 
+10:- [2012-Oct-03 17:02:56.678384] :- --Address of mem_input_buffer =  : 0x45bfcf0 
+11:- [2012-Oct-03 17:02:56.678519] :- --Address of mem_output_buffer =  : 0x45d5b80 
+12:- [2012-Oct-03 17:02:56.678650] :- --Input set completed  
+13:- [2012-Oct-03 17:02:56.678782] :- --Output set completed  
+14:- [2012-Oct-03 17:02:56.678919] :- Start cl_check buffer size ...  
+15:- [2012-Oct-03 17:02:56.679056] :- ### buffer size =  : 0 
+16:- [2012-Oct-03 17:02:56.679186] :- ### Start cl_call_kernel  
+17:- [2012-Oct-03 17:02:56.680287] :- Start cl_enqueue_task ...  
+18:- [2012-Oct-03 17:02:56.680571] :- Start enqueue copy buffer  
+19:- [2012-Oct-03 17:02:56.680667] :- Start enqueue map buffer  
+20:- [2012-Oct-03 17:02:56.680732] :- Buffer input =  : 46 
+21:- [2012-Oct-03 17:02:56.680797] :- Mem copy check size :  : 46 
+22:- [2012-Oct-03 17:02:56.680889] :- Queue size =  : 0x45d6458 
+23:- [2012-Oct-03 17:02:56.681057] :- ### Map memory complete ### 
+24:- [2012-Oct-03 17:02:56.681158] :- Start Unmap buffer  
+25:- [2012-Oct-03 17:02:56.681278] :- ### Unmap memory complete ### 
+0:- [2012-Oct-03 17:03:05.850504] :- hello world logging... 
+1:- [2012-Oct-03 17:03:06.062892] :- Start cl_create_buffer  
+2:- [2012-Oct-03 17:03:06.063267] :- -- Convert String to float -- 
+3:- [2012-Oct-03 17:03:06.063422] :- -- Size of num_devices =  : 1 
+4:- [2012-Oct-03 17:03:06.063667] :- -- Initial buffer input completed, Address =  : 0x4c78cf0 
+5:- [2012-Oct-03 17:03:06.063838] :- -- Initial buffer output  completed, Address =  : 0x4c8eb80 
+6:- [2012-Oct-03 17:03:06.063987] :- ### Start cl_create_command_queue 
+7:- [2012-Oct-03 17:03:06.064405] :- Address of command queue =  : 0x4c8f458 
+8:- [2012-Oct-03 17:03:06.064569] :- Count_queue =  : 0 
+9:- [2012-Oct-03 17:03:06.064801] :- --Create kernel success-- 
+10:- [2012-Oct-03 17:03:06.064941] :- --Address of mem_input_buffer =  : 0x4c78cf0 
+11:- [2012-Oct-03 17:03:06.065066] :- --Address of mem_output_buffer =  : 0x4c8eb80 
+12:- [2012-Oct-03 17:03:06.065187] :- --Input set completed  
+13:- [2012-Oct-03 17:03:06.065306] :- --Output set completed  
+14:- [2012-Oct-03 17:03:06.065432] :- Start cl_check buffer size ...  
+15:- [2012-Oct-03 17:03:06.065560] :- ### buffer size =  : 0 
+16:- [2012-Oct-03 17:03:06.065682] :- ### Start cl_call_kernel  
+17:- [2012-Oct-03 17:03:06.066827] :- Start cl_enqueue_task ...  
+18:- [2012-Oct-03 17:03:06.067358] :- Start enqueue copy buffer  
+19:- [2012-Oct-03 17:03:06.067556] :- Start enqueue map buffer  
+20:- [2012-Oct-03 17:03:06.067691] :- Buffer input =  : 46 
+21:- [2012-Oct-03 17:03:06.067811] :- Mem copy check size :  : 46 
+22:- [2012-Oct-03 17:03:06.067938] :- Queue size =  : 0x4c8f458 
+23:- [2012-Oct-03 17:03:06.068235] :- ### Map memory complete ### 
+24:- [2012-Oct-03 17:03:06.068340] :- Start Unmap buffer  
+25:- [2012-Oct-03 17:03:06.068449] :- ### Unmap memory complete ### 
+0:- [2012-Oct-03 17:03:28.524425] :- hello world logging... 
+1:- [2012-Oct-03 17:03:28.732205] :- Start cl_create_buffer  
+2:- [2012-Oct-03 17:03:28.732570] :- -- Convert String to float -- 
+3:- [2012-Oct-03 17:03:28.732722] :- -- Size of num_devices =  : 1 
+4:- [2012-Oct-03 17:03:28.732963] :- -- Initial buffer input completed, Address =  : 0x44aacf0 
+5:- [2012-Oct-03 17:03:28.733132] :- -- Initial buffer output  completed, Address =  : 0x44c0b80 
+6:- [2012-Oct-03 17:03:28.733275] :- ### Start cl_create_command_queue 
+7:- [2012-Oct-03 17:03:28.733536] :- Address of command queue =  : 0x44c1458 
+8:- [2012-Oct-03 17:03:28.733682] :- Count_queue =  : 0 
+9:- [2012-Oct-03 17:03:28.733889] :- --Create kernel success-- 
+10:- [2012-Oct-03 17:03:28.734026] :- --Address of mem_input_buffer =  : 0x44aacf0 
+11:- [2012-Oct-03 17:03:28.734151] :- --Address of mem_output_buffer =  : 0x44c0b80 
+12:- [2012-Oct-03 17:03:28.734275] :- --Input set completed  
+13:- [2012-Oct-03 17:03:28.734400] :- --Output set completed  
+14:- [2012-Oct-03 17:03:28.734529] :- Start cl_check buffer size ...  
+15:- [2012-Oct-03 17:03:28.734658] :- ### buffer size =  : 0 
+16:- [2012-Oct-03 17:03:28.734780] :- ### Start cl_call_kernel  
+17:- [2012-Oct-03 17:03:28.735822] :- Start cl_enqueue_task ...  
+18:- [2012-Oct-03 17:03:28.735994] :- Start enqueue copy buffer  
+19:- [2012-Oct-03 17:03:28.736225] :- Start enqueue map buffer  
+20:- [2012-Oct-03 17:03:28.736371] :- Buffer input =  : 46 
+21:- [2012-Oct-03 17:03:28.736496] :- Mem copy check size :  : 46 
+22:- [2012-Oct-03 17:03:28.736625] :- Queue size =  : 0x44c1458 
+23:- [2012-Oct-03 17:03:28.736896] :- ### Map memory complete ### 
+24:- [2012-Oct-03 17:03:28.737026] :- Start Unmap buffer  
+25:- [2012-Oct-03 17:03:28.737135] :- ### Unmap memory complete ### 
+0:- [2012-Oct-03 17:19:15.902967] :- hello world logging... 
+1:- [2012-Oct-03 17:19:15.903302] :- ### Start get_platforms_info  
+2:- [2012-Oct-03 17:19:15.903385] :- ### Start get_devices_ids  
+3:- [2012-Oct-03 17:19:15.903448] :- ### Start context_properties  
+4:- [2012-Oct-03 17:19:15.903507] :- ### Start  cl_create_contxt  
+5:- [2012-Oct-03 17:19:16.132852] :- Start cl_create_buffer  
+6:- [2012-Oct-03 17:19:16.133184] :- -- Convert String to float -- 
+7:- [2012-Oct-03 17:19:16.133335] :- -- Size of num_devices =  : 1 
+8:- [2012-Oct-03 17:19:16.133576] :- -- Initial buffer input completed, Address =  : 0x3b2cd70 
+9:- [2012-Oct-03 17:19:16.133747] :- -- Initial buffer output  completed, Address =  : 0x3b42c30 
+10:- [2012-Oct-03 17:19:16.133897] :- ### Start cl_create_command_queue 
+11:- [2012-Oct-03 17:19:16.134148] :- Address of command queue =  : 0x3b43508 
+12:- [2012-Oct-03 17:19:16.134291] :- Count_queue =  : 0 
+13:- [2012-Oct-03 17:19:16.134497] :- --Create kernel success-- 
+14:- [2012-Oct-03 17:19:16.134636] :- --Address of mem_input_buffer =  : 0x3b2cd70 
+15:- [2012-Oct-03 17:19:16.134761] :- --Address of mem_output_buffer =  : 0x3b42c30 
+16:- [2012-Oct-03 17:19:16.134913] :- --Input set completed  
+17:- [2012-Oct-03 17:19:16.135039] :- --Output set completed  
+18:- [2012-Oct-03 17:19:16.135166] :- Start cl_check buffer size ...  
+19:- [2012-Oct-03 17:19:16.135294] :- ### buffer size =  : 0 
+20:- [2012-Oct-03 17:19:16.135419] :- ### Start cl_call_kernel  
+21:- [2012-Oct-03 17:19:16.136515] :- Start cl_enqueue_task ...  
+22:- [2012-Oct-03 17:19:16.136663] :- Start enqueue copy buffer  
+23:- [2012-Oct-03 17:19:16.136734] :- Start enqueue map buffer  
+24:- [2012-Oct-03 17:19:16.136789] :- Buffer input =  : 46 
+25:- [2012-Oct-03 17:19:16.136844] :- Mem copy check size :  : 46 
+26:- [2012-Oct-03 17:19:16.136898] :- Queue size =  : 0x3b43508 
+27:- [2012-Oct-03 17:19:16.137009] :- ### Map memory complete ### 
+28:- [2012-Oct-03 17:19:16.137071] :- Start Unmap buffer  
+29:- [2012-Oct-03 17:19:16.137131] :- ### Unmap memory complete ### 
+0:- [2012-Oct-03 17:23:51.486923] :- ### Start get_platforms_info  
+1:- [2012-Oct-03 17:23:51.487138] :- --- Platform info :  : Intel(R) Corporation 
+2:- [2012-Oct-03 17:23:51.487186] :- ### Start get_devices_ids  
+3:- [2012-Oct-03 17:23:51.487238] :- ### Start context_properties  
+4:- [2012-Oct-03 17:23:51.487286] :- ### Start  cl_create_contxt  
+5:- [2012-Oct-03 17:23:51.690109] :- ############### LOAD SIGNATURE BASED ##################  
+6:- [2012-Oct-03 17:23:51.690570] :- ------------------------------------Virus Type --------------------------------- 
+7:- [2012-Oct-03 17:23:51.690706] :-  virus name :  : Trojan.Beast-server 2.02 (JS) 
+8:- [2012-Oct-03 17:23:51.690749] :-  sig   name :  : 8078FC6540EDEA0672E42DD850B52AB02F660F89D24F60 
+9:- [2012-Oct-03 17:23:51.690792] :- -------------------------------------------------------------------------------- 
+10:- [2012-Oct-03 17:23:51.690844] :- Start cl_create_buffer  
+11:- [2012-Oct-03 17:23:51.690901] :- -- Convert String to float -- 
+12:- [2012-Oct-03 17:23:51.690945] :- -- Size of num_devices =  : 1 
+13:- [2012-Oct-03 17:23:51.691039] :- -- Initial buffer input completed, Address =  : 0x4251cf0 
+14:- [2012-Oct-03 17:23:51.691092] :- -- Initial buffer output  completed, Address =  : 0x4267a80 
+15:- [2012-Oct-03 17:23:51.691141] :- ### Start cl_create_command_queue 
+16:- [2012-Oct-03 17:23:51.691240] :- Address of command queue =  : 0x4268428 
+17:- [2012-Oct-03 17:23:51.691285] :- Count_queue =  : 0 
+18:- [2012-Oct-03 17:23:51.691360] :- --Create kernel success-- 
+19:- [2012-Oct-03 17:23:51.691406] :- --Address of mem_input_buffer =  : 0x4251cf0 
+20:- [2012-Oct-03 17:23:51.691448] :- --Address of mem_output_buffer =  : 0x4267a80 
+21:- [2012-Oct-03 17:23:51.691491] :- --Input set completed  
+22:- [2012-Oct-03 17:23:51.691532] :- --Output set completed  
+23:- [2012-Oct-03 17:23:51.691579] :- Start cl_check buffer size ...  
+24:- [2012-Oct-03 17:23:51.691623] :- ### buffer size =  : 0 
+25:- [2012-Oct-03 17:23:51.691663] :- ### Start cl_call_kernel  
+26:- [2012-Oct-03 17:23:51.691815] :- Start cl_enqueue_task ...  
+27:- [2012-Oct-03 17:23:51.691888] :- Start enqueue copy buffer  
+28:- [2012-Oct-03 17:23:51.691950] :- Start enqueue map buffer  
+29:- [2012-Oct-03 17:23:51.691991] :- Buffer input =  : 46 
+30:- [2012-Oct-03 17:23:51.692087] :- Mem copy check size :  : 46 
+31:- [2012-Oct-03 17:23:51.692214] :- Queue size =  : 0x4268428 
+32:- [2012-Oct-03 17:23:51.692300] :- ### Map memory complete ### 
+33:- [2012-Oct-03 17:23:51.692358] :- Start Unmap buffer  
+34:- [2012-Oct-03 17:23:51.692415] :- ### Unmap memory complete ### 
+0:- [2012-Oct-04 00:13:10.652217] :- ### Start get_platforms_info  
+1:- [2012-Oct-04 00:13:10.654120] :- --- Platform info :  : Intel(R) Corporation 
+2:- [2012-Oct-04 00:13:10.654354] :- ### Start get_devices_ids  
+3:- [2012-Oct-04 00:13:10.654586] :- ### Start context_properties  
+4:- [2012-Oct-04 00:13:10.654881] :- ### Start  cl_create_contxt  
+5:- [2012-Oct-04 00:13:11.035507] :- ------------------------------------Virus Type --------------------------------- 
+6:- [2012-Oct-04 00:13:11.036354] :-  virus name :  : Trojan.Beast-server 2.02 (JS) 
+7:- [2012-Oct-04 00:13:11.036656] :-  sig   name :  : 8078FC6540EDEA0672E42DD850B52AB02F660F89D24F60 
+8:- [2012-Oct-04 00:13:11.036959] :- -------------------------------------------------------------------------------- 
+9:- [2012-Oct-04 00:13:11.037273] :- Start cl_create_buffer  
+10:- [2012-Oct-04 00:13:11.037599] :- -- Convert String to float -- 
+11:- [2012-Oct-04 00:13:11.038012] :- -- Size of num_devices =  : 1 
+12:- [2012-Oct-04 00:13:11.038818] :- -- Initial buffer input completed, Address =  : 0x4caacf0 
+13:- [2012-Oct-04 00:13:11.039176] :- -- Initial buffer output  completed, Address =  : 0x4cc0bb0 
+14:- [2012-Oct-04 00:13:11.039538] :- ### Start cl_create_command_queue 
+15:- [2012-Oct-04 00:13:11.039990] :- Address of command queue =  : 0x4cc1498 
+16:- [2012-Oct-04 00:13:11.040343] :- Count_queue =  : 0 
+17:- [2012-Oct-04 00:13:11.040875] :- --Create kernel success-- 
+18:- [2012-Oct-04 00:13:11.041183] :- --Address of mem_input_buffer =  : 0x4caacf0 
+19:- [2012-Oct-04 00:13:11.041580] :- --Address of mem_output_buffer =  : 0x4cc0bb0 
+20:- [2012-Oct-04 00:13:11.041831] :- --Input set completed  
+21:- [2012-Oct-04 00:13:11.041910] :- --Output set completed  
+22:- [2012-Oct-04 00:13:11.042044] :- Start cl_check buffer size ...  
+23:- [2012-Oct-04 00:13:11.042227] :- ### buffer size =  : 0 
+24:- [2012-Oct-04 00:13:11.042502] :- ### Start cl_call_kernel  
+25:- [2012-Oct-04 00:13:11.043167] :- Start cl_enqueue_task ...  
+26:- [2012-Oct-04 00:13:11.043401] :- Start enqueue copy buffer  
+27:- [2012-Oct-04 00:13:11.043737] :- Start enqueue map buffer  
+28:- [2012-Oct-04 00:13:11.044021] :- Buffer input =  : 46 
+29:- [2012-Oct-04 00:13:11.044322] :- Mem copy check size :  : 46 
+30:- [2012-Oct-04 00:13:11.044399] :- Queue size =  : 0x4cc1498 
+31:- [2012-Oct-04 00:13:11.044524] :- ### Map memory complete ### 
+32:- [2012-Oct-04 00:13:11.044631] :- Start Unmap buffer  
+33:- [2012-Oct-04 00:13:11.044713] :- ### Unmap memory complete ### 
+0:- [2012-Oct-04 00:13:28.823001] :- ### Start get_platforms_info  
+1:- [2012-Oct-04 00:13:28.823483] :- --- Platform info :  : Intel(R) Corporation 
+2:- [2012-Oct-04 00:13:28.823565] :- ### Start get_devices_ids  
+3:- [2012-Oct-04 00:13:28.823644] :- ### Start context_properties  
+4:- [2012-Oct-04 00:13:28.823739] :- ### Start  cl_create_contxt  
+5:- [2012-Oct-04 00:13:29.034198] :- ------------------------------------Virus Type --------------------------------- 
+6:- [2012-Oct-04 00:13:29.034814] :-  virus name :  : Trojan.Beast-server 2.02 (JS) 
+7:- [2012-Oct-04 00:13:29.034993] :-  sig   name :  : 8078FC6540EDEA0672E42DD850B52AB02F660F89D24F60 
+8:- [2012-Oct-04 00:13:29.035067] :- -------------------------------------------------------------------------------- 
+9:- [2012-Oct-04 00:13:29.035156] :- Start cl_create_buffer  
+10:- [2012-Oct-04 00:13:29.035249] :- -- Convert String to float -- 
+11:- [2012-Oct-04 00:13:29.035332] :- -- Size of num_devices =  : 1 
+12:- [2012-Oct-04 00:13:29.035460] :- -- Initial buffer input completed, Address =  : 0x3eface0 
+13:- [2012-Oct-04 00:13:29.035549] :- -- Initial buffer output  completed, Address =  : 0x3f10ba0 
+14:- [2012-Oct-04 00:13:29.035653] :- ### Start cl_create_command_queue 
+15:- [2012-Oct-04 00:13:29.035792] :- Address of command queue =  : 0x3f11488 
+16:- [2012-Oct-04 00:13:29.035873] :- Count_queue =  : 0 
+17:- [2012-Oct-04 00:13:29.036001] :- --Create kernel success-- 
+18:- [2012-Oct-04 00:13:29.036084] :- --Address of mem_input_buffer =  : 0x3eface0 
+19:- [2012-Oct-04 00:13:29.036192] :- --Address of mem_output_buffer =  : 0x3f10ba0 
+20:- [2012-Oct-04 00:13:29.036269] :- --Input set completed  
+21:- [2012-Oct-04 00:13:29.036343] :- --Output set completed  
+22:- [2012-Oct-04 00:13:29.036439] :- Start cl_check buffer size ...  
+23:- [2012-Oct-04 00:13:29.036521] :- ### buffer size =  : 0 
+24:- [2012-Oct-04 00:13:29.036595] :- ### Start cl_call_kernel  
+25:- [2012-Oct-04 00:13:29.036808] :- Start cl_enqueue_task ...  
+26:- [2012-Oct-04 00:13:29.036937] :- Start enqueue copy buffer  
+27:- [2012-Oct-04 00:13:29.037035] :- Start enqueue map buffer  
+28:- [2012-Oct-04 00:13:29.037158] :- Buffer input =  : 46 
+29:- [2012-Oct-04 00:13:29.037285] :- Mem copy check size :  : 46 
+30:- [2012-Oct-04 00:13:29.037390] :- Queue size =  : 0x3f11488 
+31:- [2012-Oct-04 00:13:29.037526] :- ### Map memory complete ### 
+32:- [2012-Oct-04 00:13:29.037633] :- Start Unmap buffer  
+33:- [2012-Oct-04 00:13:29.037717] :- ### Unmap memory complete ### 
+0:- [2012-Oct-04 00:32:08.803888] :- ### Start get_platforms_info  
+1:- [2012-Oct-04 00:32:08.804963] :- --- Platform info :  : Intel(R) Corporation 
+2:- [2012-Oct-04 00:32:08.805175] :- ### Start get_devices_ids  
+3:- [2012-Oct-04 00:32:08.805379] :- ### Start context_properties  
+4:- [2012-Oct-04 00:32:08.805607] :- ### Start  cl_create_contxt  
+5:- [2012-Oct-04 00:32:09.036249] :- ------------------------------------Virus Type --------------------------------- 
+6:- [2012-Oct-04 00:32:09.037060] :-  virus name :  : Trojan.Beast-server 2.02 (JS) 
+7:- [2012-Oct-04 00:32:09.037391] :-  sig   name :  : 8078FC6540EDEA0672E42DD850B52AB02F660F89D24F60 
+8:- [2012-Oct-04 00:32:09.037564] :- -------------------------------------------------------------------------------- 
+9:- [2012-Oct-04 00:32:09.037757] :- Start cl_create_buffer  
+10:- [2012-Oct-04 00:32:09.037964] :- -- Convert String to float -- 
+11:- [2012-Oct-04 00:32:09.038134] :- -- Size of num_devices =  : 1 
+12:- [2012-Oct-04 00:32:09.038621] :- -- Initial buffer input completed, Address =  : 0x2f87ce0 
+13:- [2012-Oct-04 00:32:09.039001] :- -- Initial buffer output  completed, Address =  : 0x2f9dba0 
+14:- [2012-Oct-04 00:32:09.039406] :- ### Start cl_create_command_queue 
+15:- [2012-Oct-04 00:32:09.039999] :- Address of command queue =  : 0x2f9e488 
+16:- [2012-Oct-04 00:32:09.040224] :- Count_queue =  : 0 
+17:- [2012-Oct-04 00:32:09.040369] :- --Create kernel success-- 
+18:- [2012-Oct-04 00:32:09.040464] :- --Address of mem_input_buffer =  : 0x2f87ce0 
+19:- [2012-Oct-04 00:32:09.040548] :- --Address of mem_output_buffer =  : 0x2f9dba0 
+20:- [2012-Oct-04 00:32:09.040631] :- --Input set completed  
+21:- [2012-Oct-04 00:32:09.040715] :- --Output set completed  
+22:- [2012-Oct-04 00:32:09.040821] :- Start cl_check buffer size ...  
+23:- [2012-Oct-04 00:32:09.040910] :- ### buffer size =  : 0 
+24:- [2012-Oct-04 00:32:09.041027] :- ### Start cl_call_kernel  
+25:- [2012-Oct-04 00:32:09.041355] :- Start cl_enqueue_task ...  
+26:- [2012-Oct-04 00:32:09.041470] :- Start enqueue copy buffer  
+27:- [2012-Oct-04 00:32:09.041571] :- Start enqueue map buffer  
+28:- [2012-Oct-04 00:32:09.041657] :- Buffer input =  : 46 
+29:- [2012-Oct-04 00:32:09.041739] :- Mem copy check size :  : 46 
+30:- [2012-Oct-04 00:32:09.041822] :- Queue size =  : 0x2f9e488 
+31:- [2012-Oct-04 00:32:09.042031] :- ### Map memory complete ### 
+32:- [2012-Oct-04 00:32:09.042123] :- Start Unmap buffer  
+33:- [2012-Oct-04 00:32:09.042213] :- ### Unmap memory complete ### 
+0:- [2012-Oct-04 01:32:56.215688] :- ### Start get_platforms_info  
+1:- [2012-Oct-04 01:32:57.507794] :- --- Platform info :  : Intel(R) Corporation 
+2:- [2012-Oct-04 01:32:59.207755] :- ### Start get_devices_ids  
+3:- [2012-Oct-04 01:33:01.218226] :- ### Start context_properties  
+4:- [2012-Oct-04 01:33:01.997815] :- ### Start  cl_create_contxt  
+5:- [2012-Oct-04 01:33:14.628162] :- ------------------------------------Virus Type --------------------------------- 
+6:- [2012-Oct-04 01:33:16.182054] :-  virus name :  : Trojan.Beast-server 2.02 (JS) 
+7:- [2012-Oct-04 01:33:17.021528] :-  sig   name :  : 8078FC6540EDEA0672E42DD850B52AB02F660F89D24F60 
+8:- [2012-Oct-04 01:33:17.915749] :- -------------------------------------------------------------------------------- 
+9:- [2012-Oct-04 01:33:26.216205] :- Start cl_create_buffer  
+10:- [2012-Oct-04 01:33:26.216460] :- -- Convert String to float -- 
+11:- [2012-Oct-04 01:33:26.216606] :- -- Size of num_devices =  : 1 
+12:- [2012-Oct-04 01:33:26.217159] :- -- Initial buffer input completed, Address =  : 0x2eb2cf0 
+13:- [2012-Oct-04 01:33:26.217340] :- -- Initial buffer output  completed, Address =  : 0x2ec8bb0 
+14:- [2012-Oct-04 01:33:29.793871] :- ### Start cl_create_command_queue 
+15:- [2012-Oct-04 01:33:29.794791] :- Address of command queue =  : 0x2ec9498 
+16:- [2012-Oct-04 01:33:29.795299] :- Count_queue =  : 0 
+17:- [2012-Oct-04 01:33:29.795987] :- --Create kernel success-- 
+18:- [2012-Oct-04 01:33:29.796556] :- --Address of mem_input_buffer =  : 0x2eb2cf0 
+19:- [2012-Oct-04 01:33:29.797001] :- --Address of mem_output_buffer =  : 0x2ec8bb0 
+20:- [2012-Oct-04 01:33:29.797445] :- --Input set completed  
+21:- [2012-Oct-04 01:33:29.797895] :- --Output set completed  
+22:- [2012-Oct-04 01:33:31.855301] :- Start cl_check buffer size ...  
+23:- [2012-Oct-04 01:33:31.855868] :- ### buffer size =  : 0 
+24:- [2012-Oct-04 01:33:33.212321] :- ### Start cl_call_kernel  
+25:- [2012-Oct-04 01:33:33.739987] :- Start cl_enqueue_task ...  
+26:- [2012-Oct-04 01:33:34.176750] :- Start enqueue copy buffer  
+27:- [2012-Oct-04 01:33:34.502268] :- Start enqueue map buffer  
+28:- [2012-Oct-04 01:33:34.502834] :- Buffer input =  : 46 
+29:- [2012-Oct-04 01:33:34.503141] :- Mem copy check size :  : 46 
+30:- [2012-Oct-04 01:33:34.503498] :- Queue size =  : 0x2ec9498 
+31:- [2012-Oct-04 01:33:34.504406] :- ### Map memory complete ### 
+32:- [2012-Oct-04 01:33:34.772916] :- Start Unmap buffer  
+33:- [2012-Oct-04 01:33:34.773536] :- ### Unmap memory complete ### 
+0:- [2012-Oct-04 01:34:10.384350] :- ### Start get_platforms_info  
+1:- [2012-Oct-04 01:34:10.386193] :- --- Platform info :  : Intel(R) Corporation 
+2:- [2012-Oct-04 01:34:10.386524] :- ### Start get_devices_ids  
+3:- [2012-Oct-04 01:34:10.386811] :- ### Start context_properties  
+4:- [2012-Oct-04 01:34:10.387367] :- ### Start  cl_create_contxt  
+5:- [2012-Oct-04 01:34:10.768706] :- ------------------------------------Virus Type --------------------------------- 
+6:- [2012-Oct-04 01:34:10.769069] :-  virus name :  : Trojan.Beast-server 2.02 (JS) 
+7:- [2012-Oct-04 01:34:10.769212] :-  sig   name :  : 8078FC6540EDEA0672E42DD850B52AB02F660F89D24F60 
+8:- [2012-Oct-04 01:34:10.769312] :- -------------------------------------------------------------------------------- 
+9:- [2012-Oct-04 01:34:10.769444] :- Start cl_create_buffer  
+10:- [2012-Oct-04 01:34:10.769595] :- -- Convert String to float -- 
+11:- [2012-Oct-04 01:34:10.769713] :- -- Size of num_devices =  : 1 
+12:- [2012-Oct-04 01:34:10.769933] :- -- Initial buffer input completed, Address =  : 0x2eb2cf0 
+13:- [2012-Oct-04 01:34:10.770069] :- -- Initial buffer output  completed, Address =  : 0x2ec8bb0 
+14:- [2012-Oct-04 01:34:10.770212] :- ### Start cl_create_command_queue 
+15:- [2012-Oct-04 01:34:10.770458] :- Address of command queue =  : 0x2ec9498 
+16:- [2012-Oct-04 01:34:10.770583] :- Count_queue =  : 0 
+17:- [2012-Oct-04 01:34:10.770758] :- --Create kernel success-- 
+18:- [2012-Oct-04 01:34:10.770873] :- --Address of mem_input_buffer =  : 0x2eb2cf0 
+19:- [2012-Oct-04 01:34:10.770971] :- --Address of mem_output_buffer =  : 0x2ec8bb0 
+20:- [2012-Oct-04 01:34:10.771065] :- --Input set completed  
+21:- [2012-Oct-04 01:34:10.771159] :- --Output set completed  
+22:- [2012-Oct-04 01:34:10.771315] :- Start cl_check buffer size ...  
+23:- [2012-Oct-04 01:34:10.771431] :- ### buffer size =  : 0 
+24:- [2012-Oct-04 01:34:10.771523] :- ### Start cl_call_kernel  
+25:- [2012-Oct-04 01:34:10.771955] :- Start cl_enqueue_task ...  
+26:- [2012-Oct-04 01:34:10.772178] :- Start enqueue copy buffer  
+27:- [2012-Oct-04 01:34:10.772399] :- Start enqueue map buffer  
+28:- [2012-Oct-04 01:34:10.772818] :- Buffer input =  : 46 
+29:- [2012-Oct-04 01:34:10.773048] :- Mem copy check size :  : 46 
+30:- [2012-Oct-04 01:34:10.773196] :- Queue size =  : 0x2ec9498 
+31:- [2012-Oct-04 01:34:10.773713] :- ### Map memory complete ### 
+32:- [2012-Oct-04 01:34:10.774032] :- Start Unmap buffer  
+33:- [2012-Oct-04 01:34:10.774326] :- ### Unmap memory complete ### 
+0:- [2012-Oct-04 01:36:54.518980] :- ### Start get_platforms_info  
+1:- [2012-Oct-04 01:36:54.521128] :- --- Platform info :  : Intel(R) Corporation 
+2:- [2012-Oct-04 01:36:54.522002] :- ### Start get_devices_ids  
+3:- [2012-Oct-04 01:36:54.522256] :- ### Start context_properties  
+4:- [2012-Oct-04 01:36:54.522427] :- ### Start  cl_create_contxt  
+5:- [2012-Oct-04 01:36:54.921951] :- ------------------------------------Virus Type --------------------------------- 
+6:- [2012-Oct-04 01:36:54.922289] :-  virus name :  : Trojan.Beast-server 2.02 (JS) 
+7:- [2012-Oct-04 01:36:54.922463] :-  sig   name :  : 8078FC6540EDEA0672E42DD850B52AB02F660F89D24F60 
+8:- [2012-Oct-04 01:36:54.922643] :- -------------------------------------------------------------------------------- 
+9:- [2012-Oct-04 01:36:54.922852] :- Start cl_create_buffer  
+10:- [2012-Oct-04 01:36:54.923079] :- -- Convert String to float -- 
+11:- [2012-Oct-04 01:36:54.923311] :- -- Size of num_devices =  : 1 
+12:- [2012-Oct-04 01:36:54.923672] :- -- Initial buffer input completed, Address =  : 0x2eb2cf0 
+13:- [2012-Oct-04 01:36:54.923968] :- -- Initial buffer output  completed, Address =  : 0x2ec8bb0 
+14:- [2012-Oct-04 01:36:54.924318] :- ### Start cl_create_command_queue 
+15:- [2012-Oct-04 01:36:54.924815] :- Address of command queue =  : 0x2ec9498 
+16:- [2012-Oct-04 01:36:54.925135] :- Count_queue =  : 0 
+17:- [2012-Oct-04 01:36:54.925559] :- --Create kernel success-- 
+18:- [2012-Oct-04 01:36:54.926400] :- --Address of mem_input_buffer =  : 0x2eb2cf0 
+19:- [2012-Oct-04 01:36:54.926628] :- --Address of mem_output_buffer =  : 0x2ec8bb0 
+20:- [2012-Oct-04 01:36:54.926813] :- --Input set completed  
+21:- [2012-Oct-04 01:36:54.926929] :- --Output set completed  
+22:- [2012-Oct-04 01:36:54.927080] :- Start cl_check buffer size ...  
+23:- [2012-Oct-04 01:36:54.927217] :- ### buffer size =  : 0 
+24:- [2012-Oct-04 01:36:54.927329] :- ### Start cl_call_kernel  
+25:- [2012-Oct-04 01:36:54.927654] :- Start cl_enqueue_task ...  
+26:- [2012-Oct-04 01:36:54.927818] :- Start enqueue copy buffer  
+27:- [2012-Oct-04 01:36:54.927951] :- Start enqueue map buffer  
+28:- [2012-Oct-04 01:36:54.928103] :- Buffer input =  : 46 
+29:- [2012-Oct-04 01:36:54.928270] :- Mem copy check size :  : 46 
+30:- [2012-Oct-04 01:36:54.928388] :- Queue size =  : 0x2ec9498 
+31:- [2012-Oct-04 01:36:54.928622] :- ### Map memory complete ### 
+32:- [2012-Oct-04 01:36:54.928751] :- Start Unmap buffer  
+33:- [2012-Oct-04 01:36:54.928871] :- ### Unmap memory complete ### 
+0:- [2012-Oct-04 02:21:01.693211] :- ### Start get_platforms_info  
+1:- [2012-Oct-04 02:21:03.080539] :- --- Platform info :  : Intel(R) Corporation 
+2:- [2012-Oct-04 02:21:05.460187] :- ### Start get_devices_ids  
+3:- [2012-Oct-04 02:21:06.168650] :- ### Start context_properties  
+4:- [2012-Oct-04 02:21:07.580812] :- ### Start  cl_create_contxt  
+5:- [2012-Oct-04 02:21:24.458330] :- ------------------------------------Virus Type --------------------------------- 
+6:- [2012-Oct-04 02:21:24.917838] :-  virus name :  : Trojan.Beast-server 2.02 (JS) 
+7:- [2012-Oct-04 02:21:25.450218] :-  sig   name :  : 8078FC6540EDEA0672E42DD850B52AB02F660F89D24F60 
+8:- [2012-Oct-04 02:21:26.281888] :- -------------------------------------------------------------------------------- 
+9:- [2012-Oct-04 02:21:33.956608] :- Start cl_create_buffer  
+10:- [2012-Oct-04 02:21:33.956853] :- -- Convert String to float -- 
+11:- [2012-Oct-04 02:21:33.957253] :- -- Size of num_devices =  : 1 
+12:- [2012-Oct-04 02:21:33.957441] :- -- Initial buffer input completed, Address =  : 0x2eb2cf0 
+13:- [2012-Oct-04 02:21:33.957536] :- -- Initial buffer output  completed, Address =  : 0x2ec8bb0 
+14:- [2012-Oct-04 02:22:29.333119] :- ### Start cl_create_command_queue 
+15:- [2012-Oct-04 02:22:29.334097] :- Address of command queue =  : 0x2ec9498 
+16:- [2012-Oct-04 02:22:29.334518] :- Count_queue =  : 0 
+17:- [2012-Oct-04 02:22:29.334973] :- --Create kernel success-- 
+18:- [2012-Oct-04 02:22:29.335556] :- --Address of mem_input_buffer =  : 0x2eb2cf0 
+19:- [2012-Oct-04 02:22:29.335926] :- --Address of mem_output_buffer =  : 0x2ec8bb0 
+20:- [2012-Oct-04 02:22:29.336319] :- --Input set completed  
+21:- [2012-Oct-04 02:22:29.337027] :- --Output set completed  
+22:- [2012-Oct-04 02:22:30.963123] :- Start cl_check buffer size ...  
+23:- [2012-Oct-04 02:22:30.963394] :- ### buffer size =  : 0 
+24:- [2012-Oct-04 02:22:31.134470] :- ### Start cl_call_kernel  
+25:- [2012-Oct-04 02:22:32.015245] :- Start cl_enqueue_task ...  
+26:- [2012-Oct-04 02:22:32.337197] :- Start enqueue copy buffer  
+27:- [2012-Oct-04 02:22:32.475600] :- Start enqueue map buffer  
+28:- [2012-Oct-04 02:22:32.476222] :- Buffer input =  : 46 
+29:- [2012-Oct-04 02:22:32.476565] :- Mem copy check size :  : 46 
+30:- [2012-Oct-04 02:22:32.476900] :- Queue size =  : 0x2ec9498 
+31:- [2012-Oct-04 02:22:32.477465] :- ### Map memory complete ### 
+32:- [2012-Oct-04 02:22:32.761171] :- Start Unmap buffer  
+33:- [2012-Oct-04 02:22:32.761988] :- ### Unmap memory complete ### 
+0:- [2012-Oct-04 02:23:56.513609] :- ### Start get_platforms_info  
+1:- [2012-Oct-04 02:23:56.515147] :- --- Platform info :  : Intel(R) Corporation 
+2:- [2012-Oct-04 02:23:56.515322] :- ### Start get_devices_ids  
+3:- [2012-Oct-04 02:23:56.515404] :- ### Start context_properties  
+4:- [2012-Oct-04 02:23:56.515499] :- ### Start  cl_create_contxt  
+5:- [2012-Oct-04 02:23:57.030113] :- ------------------------------------Virus Type --------------------------------- 
+6:- [2012-Oct-04 02:23:57.031371] :-  virus name :  : Trojan.Beast-server 2.02 (JS) 
+7:- [2012-Oct-04 02:23:57.031695] :-  sig   name :  : 8078FC6540EDEA0672E42DD850B52AB02F660F89D24F60 
+8:- [2012-Oct-04 02:23:57.032005] :- -------------------------------------------------------------------------------- 
+9:- [2012-Oct-04 02:23:57.032356] :- Start cl_create_buffer  
+10:- [2012-Oct-04 02:23:57.032486] :- -- Convert String to float -- 
+11:- [2012-Oct-04 02:23:57.032605] :- -- Size of num_devices =  : 1 
+12:- [2012-Oct-04 02:23:57.033057] :- -- Initial buffer input completed, Address =  : 0x2eb2cf0 
+13:- [2012-Oct-04 02:23:57.033344] :- -- Initial buffer output  completed, Address =  : 0x2ec8bb0 
+14:- [2012-Oct-04 02:23:57.033704] :- ### Start cl_create_command_queue 
+15:- [2012-Oct-04 02:23:57.034333] :- Address of command queue =  : 0x2ec9498 
+16:- [2012-Oct-04 02:23:57.034669] :- Count_queue =  : 0 
+17:- [2012-Oct-04 02:23:57.035107] :- --Create kernel success-- 
+18:- [2012-Oct-04 02:23:57.035435] :- --Address of mem_input_buffer =  : 0x2eb2cf0 
+19:- [2012-Oct-04 02:23:57.035742] :- --Address of mem_output_buffer =  : 0x2ec8bb0 
+20:- [2012-Oct-04 02:23:57.036075] :- --Input set completed  
+21:- [2012-Oct-04 02:23:57.036455] :- --Output set completed  
+22:- [2012-Oct-04 02:23:57.036867] :- Start cl_check buffer size ...  
+23:- [2012-Oct-04 02:23:57.037027] :- ### buffer size =  : 0 
+24:- [2012-Oct-04 02:23:57.037148] :- ### Start cl_call_kernel  
+25:- [2012-Oct-04 02:23:57.037711] :- Start cl_enqueue_task ...  
+26:- [2012-Oct-04 02:23:57.038049] :- Start enqueue copy buffer  
+27:- [2012-Oct-04 02:23:57.038225] :- Start enqueue map buffer  
+28:- [2012-Oct-04 02:23:57.038368] :- Buffer input =  : 46 
+29:- [2012-Oct-04 02:23:57.038502] :- Mem copy check size :  : 46 
+30:- [2012-Oct-04 02:23:57.038640] :- Queue size =  : 0x2ec9498 
+31:- [2012-Oct-04 02:23:57.038979] :- ### Map memory complete ### 
+32:- [2012-Oct-04 02:23:57.039147] :- Start Unmap buffer  
+33:- [2012-Oct-04 02:23:57.039378] :- ### Unmap memory complete ### 
+0:- [2012-Oct-04 02:25:56.762537] :- ### Start get_platforms_info  
+1:- [2012-Oct-04 02:25:56.764259] :- --- Platform info :  : Intel(R) Corporation 
+2:- [2012-Oct-04 02:25:56.764385] :- ### Start get_devices_ids  
+3:- [2012-Oct-04 02:25:56.764465] :- ### Start context_properties  
+4:- [2012-Oct-04 02:25:56.764561] :- ### Start  cl_create_contxt  
+5:- [2012-Oct-04 02:25:57.155598] :- ------------------------------------Virus Type --------------------------------- 
+6:- [2012-Oct-04 02:25:57.155825] :-  virus name :  : Trojan.Beast-server 2.02 (JS) 
+7:- [2012-Oct-04 02:25:57.155904] :-  sig   name :  : 8078FC6540EDEA0672E42DD850B52AB02F660F89D24F60 
+8:- [2012-Oct-04 02:25:57.155980] :- -------------------------------------------------------------------------------- 
+9:- [2012-Oct-04 02:25:57.156069] :- Start cl_create_buffer  
+10:- [2012-Oct-04 02:25:57.156199] :- -- Convert String to float -- 
+11:- [2012-Oct-04 02:25:57.156300] :- -- Size of num_devices =  : 1 
+12:- [2012-Oct-04 02:25:57.156519] :- -- Initial buffer input completed, Address =  : 0x2eb2cf0 
+13:- [2012-Oct-04 02:25:57.156689] :- -- Initial buffer output  completed, Address =  : 0x2ec8bb0 
+14:- [2012-Oct-04 02:25:57.156868] :- ### Start cl_create_command_queue 
+15:- [2012-Oct-04 02:25:57.157122] :- Address of command queue =  : 0x2ec9498 
+16:- [2012-Oct-04 02:25:57.157285] :- Count_queue =  : 0 
+17:- [2012-Oct-04 02:25:57.157485] :- --Create kernel success-- 
+18:- [2012-Oct-04 02:25:57.157620] :- --Address of mem_input_buffer =  : 0x2eb2cf0 
+19:- [2012-Oct-04 02:25:57.157745] :- --Address of mem_output_buffer =  : 0x2ec8bb0 
+20:- [2012-Oct-04 02:25:57.157855] :- --Input set completed  
+21:- [2012-Oct-04 02:25:57.157961] :- --Output set completed  
+22:- [2012-Oct-04 02:25:57.158102] :- Start cl_check buffer size ...  
+23:- [2012-Oct-04 02:25:57.158229] :- ### buffer size =  : 0 
+24:- [2012-Oct-04 02:25:57.158347] :- ### Start cl_call_kernel  
+25:- [2012-Oct-04 02:25:57.158713] :- Start cl_enqueue_task ...  
+26:- [2012-Oct-04 02:25:57.158910] :- Start enqueue copy buffer  
+27:- [2012-Oct-04 02:25:57.159053] :- Start enqueue map buffer  
+28:- [2012-Oct-04 02:25:57.159159] :- Buffer input =  : 46 
+29:- [2012-Oct-04 02:25:57.159263] :- Mem copy check size :  : 46 
+30:- [2012-Oct-04 02:25:57.159370] :- Queue size =  : 0x2ec9498 
+31:- [2012-Oct-04 02:25:57.159588] :- ### Map memory complete ### 
+32:- [2012-Oct-04 02:25:57.159730] :- Start Unmap buffer  
+33:- [2012-Oct-04 02:25:57.159857] :- ### Unmap memory complete ### 
+0:- [2012-Oct-04 02:27:09.791981] :- ### Start get_platforms_info  
+1:- [2012-Oct-04 02:27:09.793797] :- --- Platform info :  : Intel(R) Corporation 
+2:- [2012-Oct-04 02:27:09.794118] :- ### Start get_devices_ids  
+3:- [2012-Oct-04 02:27:09.794319] :- ### Start context_properties  
+4:- [2012-Oct-04 02:27:09.795080] :- ### Start  cl_create_contxt  
+5:- [2012-Oct-04 02:27:10.177105] :- ------------------------------------Virus Type --------------------------------- 
+6:- [2012-Oct-04 02:27:10.177802] :-  virus name :  : Trojan.Beast-server 2.02 (JS) 
+7:- [2012-Oct-04 02:27:10.178096] :-  sig   name :  : 8078FC6540EDEA0672E42DD850B52AB02F660F89D24F60 
+8:- [2012-Oct-04 02:27:10.178649] :- -------------------------------------------------------------------------------- 
+9:- [2012-Oct-04 02:27:10.178816] :- Start cl_create_buffer  
+10:- [2012-Oct-04 02:27:10.179142] :- -- Convert String to float -- 
+11:- [2012-Oct-04 02:27:10.179440] :- -- Size of num_devices =  : 1 
+12:- [2012-Oct-04 02:27:10.179856] :- -- Initial buffer input completed, Address =  : 0x2eb2cf0 
+13:- [2012-Oct-04 02:27:10.180263] :- -- Initial buffer output  completed, Address =  : 0x2ec8bb0 
+14:- [2012-Oct-04 02:27:10.180643] :- ### Start cl_create_command_queue 
+15:- [2012-Oct-04 02:27:10.181154] :- Address of command queue =  : 0x2ec9498 
+16:- [2012-Oct-04 02:27:10.181464] :- Count_queue =  : 0 
+17:- [2012-Oct-04 02:27:10.181883] :- --Create kernel success-- 
+18:- [2012-Oct-04 02:27:10.182182] :- --Address of mem_input_buffer =  : 0x2eb2cf0 
+19:- [2012-Oct-04 02:27:10.182460] :- --Address of mem_output_buffer =  : 0x2ec8bb0 
+20:- [2012-Oct-04 02:27:10.182736] :- --Input set completed  
+21:- [2012-Oct-04 02:27:10.183021] :- --Output set completed  
+22:- [2012-Oct-04 02:27:10.183135] :- Start cl_check buffer size ...  
+23:- [2012-Oct-04 02:27:10.183223] :- ### buffer size =  : 0 
+24:- [2012-Oct-04 02:27:10.183305] :- ### Start cl_call_kernel  
+25:- [2012-Oct-04 02:27:10.184412] :- Start cl_enqueue_task ...  
+26:- [2012-Oct-04 02:27:10.184762] :- Start enqueue copy buffer  
+27:- [2012-Oct-04 02:27:10.184893] :- Start enqueue map buffer  
+28:- [2012-Oct-04 02:27:10.185002] :- Buffer input =  : 46 
+29:- [2012-Oct-04 02:27:10.185103] :- Mem copy check size :  : 46 
+30:- [2012-Oct-04 02:27:10.185201] :- Queue size =  : 0x2ec9498 
+31:- [2012-Oct-04 02:27:10.185381] :- ### Map memory complete ### 
+32:- [2012-Oct-04 02:27:10.185495] :- Start Unmap buffer  
+33:- [2012-Oct-04 02:27:10.185605] :- ### Unmap memory complete ### 
