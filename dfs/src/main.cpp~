@@ -1,0 +1,12 @@
+#include <iostream>
+#include <tire.hpp>
+
+int main()
+{
+
+tire<std::string> tire_node;
+std::string str_test = "ABCDEFAB";
+tire_node.add_node(str_test);
+
+}
+
