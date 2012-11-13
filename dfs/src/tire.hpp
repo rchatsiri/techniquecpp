@@ -50,13 +50,15 @@ class tire
 
         node_tire<TypeTire, TypeNode>   *node_data;
 
-        std::vector<node_tire<TypeTire, TypeNode>* > node_root_vec;
+        // Root node of tire
+        std::vector<node_tire<TypeTire, TypeNode>* >  node_root_vec;
+        std::deque<node_tire<TypeTire, TypeNode> >    deque_node;
 
-        tuple<node_tire<TypeTire, TypeNode>, node_tire<TypeTire, TypeNode> > *node_compare;
-        // handling node
+        // Handling node
         std::vector<shared_ptr<node_tire<TypeTire, TypeNode> > > node_root_shared_ptr;
-        typedef shared_ptr<node_tire<TypeTire, TypeNode> > node_ptr;
+        typedef shared_ptr<node_tire<TypeTire, TypeNode> >       node_ptr;
 
+        // Handleing logger
         shared_ptr<util::clutil_logging<std::string, int> > *logger_ptr;
         util::clutil_logging<std::string, int> *logger;
 
@@ -96,13 +98,13 @@ node_tire<TypeTire, TypeNode> *tire<TypeTire, TypeNode>::check_root_node(node_ti
     for(typename std::vector<node_tire<TypeTire, TypeNode>* >::iterator iter_root = node_root_vec.begin();
             iter_root != node_root_vec.end();
             ++iter_root, ++index_root_node) {
-        node_tire<TypeTire, TypeNode> *node_in_vec = *iter_root;
+
+        node_tire<TypeTire, TypeNode>   *node_in_vec = *iter_root;
 
         TypeNode const *data = node_in_vec->data;
 
         if( *data == *node.data) {
-            node_tire<TypeTire, TypeNode>   *node_in_root = node_root_vec[index_root_node];
-            root_vertex = node_root_vec[index_root_node];
+            root_vertex = node_root_vec.at(index_root_node);
         }
     }
 
@@ -116,124 +118,123 @@ bool tire<TypeTire, TypeNode>::add_node(TypeTire const& input_data)
     node_tire<TypeTire, TypeNode> *vertex_root = NULL;
     node_tire<TypeTire, TypeNode> *node_temp = NULL;
 
-    for(typename TypeTire::const_iterator iter_input = input_data.begin(); iter_input != input_data.end(); ++iter_input) {
+    const char *input_str = input_data.c_str();
+
+    while(*input_str != '\0') {
 
         if(node_data->data == NULL) {
-            node_data->data = &(*iter_input);
+            node_data->data = &(*input_str);
 
             vertex_root = check_root_node(*node_data);
 
             if(vertex_root == NULL) {
                 node_root_vec.push_back(node_data);
 
+                logger->write_info("Create root element ", node_data->data);
             } else {
                 node_temp = node_data;
+
+                logger->write_info("Create temp element ", node_data->data);
             }
 
+            input_str = input_str + 1;
             continue;
         }
 
         // Child node creates in addr_next_node
         node_tire<TypeTire, TypeNode> *child_node = new node_tire<TypeTire, TypeNode>();
-        child_node->data = &(*iter_input);
+        child_node->data = &(*input_str);
+
+        logger->write_info("@@@ Create Child node ", child_node->data);
 
         node_data->addr_next_node.push_back(*child_node);
         // next node
         node_data = &node_data->addr_next_node.back();
+
+        input_str = input_str + 1;
     }
 
     if(vertex_root  != NULL) {
         // Next from root vertex
-        node_temp = &node_temp->addr_next_node.back();
-        vertex_root = &vertex_root->addr_next_node.back();
-
         vertex_root = recursive_node(*vertex_root, *node_temp);
-
     }
 
     return true;
 }
-/*                      [root_node1...]
- *                  [A root]<- Node root checked by for loops           [ B root]
- *                /                            													/
- *               [B]                                                  [B]
- *               /                                                     /
- *             [B] <--Check Branch                                    [B]
- *           /    \                                                   /
- *        [C]      [D]                                              [E]
- *       /   \         \
- *    [E]     [F]      [E]
- *
- *    ABCE, ABDE
- */
 
 template<typename TypeTire, typename TypeNode>
 node_tire<TypeTire, TypeNode> *tire<TypeTire, TypeNode>::recursive_node(node_tire<TypeTire, TypeNode>& vertex_root, node_tire<TypeTire, TypeNode>& node_data)
 {
-    logger->write_info("   ----Start recursive  ");
-    logger->write_info("   ---- Start recursive node with data input ", node_data.data);
-    logger->write_info("   ---- Start recursive node with Vertex input ", vertex_root.data);
-    logger->write_info("   ---- Vertex root size ", std::to_string(vertex_root.addr_next_node.size()) );
+    logger->write_info("### ---- Start recursive ---- ###");
+    logger->write_info("---- Start recursive node with Vertex input ", vertex_root.data);
+    logger->write_info("---- Start recursive node with Data input ", node_data.data);
 
-    std::deque<node_tire<TypeTire, TypeNode> > deque_node;
     node_tire<TypeTire, TypeNode> temp_vertex_root = vertex_root;
+    node_tire<TypeTire, TypeNode> *vertex_branch  = &vertex_root;
+    node_ptr vertex_ptr(vertex_branch);
 
-  while(&vertex_root != NULL) {
+
+    while(vertex_branch->data != NULL) {
+
         // Vertex
-        if(*(vertex_root.data) == *(node_data.data)) {
+        if( *(vertex_branch->data) == *(node_data.data)) {
 
-            deque_node.push_back(vertex_root);
+            deque_node.push_back(*vertex_branch);
 
-            node_data = node_data.addr_next_node.back();
-						vertex_root = vertex_root.addr_next_node.back();
-        }
+            // compare in branch of vertex
+            for(typename std::vector<node_tire<TypeTire, TypeNode> >::iterator iter_node = vertex_branch->addr_next_node.begin();
+                    iter_node != vertex_branch->addr_next_node.end();
+                    ++iter_node ) {
 
-
-        // compare in branch of vertex
-        for(typename std::vector<node_tire<TypeTire, TypeNode> >::iterator iter_node = vertex_root.addr_next_node.begin();
-                iter_node != vertex_root.addr_next_node.end();
-                ++iter_node ) {
-
-            node_tire<TypeTire, TypeNode>& node_branch = *iter_node;
-
-            if(*(node_branch.data) == *(node_data.data)) {
-
-                deque_node.push_back(node_branch);
+                node_tire<TypeTire, TypeNode>& node_branch = *iter_node;
                 node_data = node_data.addr_next_node.back();
 
-                logger->write_info("--- Node Branch Data ", node_branch.data);
-                logger->write_info("--- Node Data ", node_data.data);
+                logger->write_info("### Node Branch Data ", node_branch.data);
+                logger->write_info("### Node Data ", node_data.data);
+
+                if(*(node_branch.data) == *(node_data.data)) {
+            				deque_node.push_back(node_branch); 
+                    logger->write_info("--- Node Branch Data ", node_branch.data);
+                    logger->write_info("--- Node Data ", node_data.data);
+                }
+								else
+								{
+									  if(node_branch.addr_next_node.size() != 0)
+										{
+												
+										}
+								}
 
             }
 
-        }
-
-        std::vector< node_tire<TypeTire, TypeNode> > vec_in_node = vertex_root.addr_next_node;
-
-        if(vec_in_node.size() == 0) {
-            break;
         } else {
-            vertex_root = vec_in_node.back();
+
+            if(vertex_branch->addr_next_node.size() != 0 )
+                break;
+
+            // Next vertex root
+            std::vector<node_tire<TypeTire, TypeNode> >  node_vec = vertex_branch->addr_next_node;
+            vertex_branch = &node_vec.back();
+            // Next temp check
+            node_data = node_data.addr_next_node.back();
+
         }
     }
 
-    logger->write_info("--- Deque ---");
-
     if(deque_node.size() != 0) {
-        node_tire<TypeTire, TypeNode>  node_last = deque_node.back();
+
+
+        node_tire<TypeTire, TypeNode> node_last = deque_node.back();
 
         node_last.addr_next_node.push_back(node_data);
 
         logger->write_info("*** Node last contain data ", node_last.data);
-				logger->write_info("*** Node last contain data in size ", std::to_string(node_last.addr_next_node.size()));
+        logger->write_info("*** Node last contain data in size ", std::to_string(node_last.addr_next_node.size()));
         logger->write_info("*** Node data add to tail ", node_data.data);
 
-        deque_node.clear();
     }
 
     vertex_root = temp_vertex_root;
     logger->write_info("###----End of recursive add node----### ");
-
-    return &vertex_root;
 
 }

@@ -23158,3 +23158,2112 @@
 15:- [2012-Nov-12 12:25:46.945837] :- *** Node last contain data in size  : 2 
 16:- [2012-Nov-12 12:25:46.945922] :- *** Node data add to tail  : EG 
 17:- [2012-Nov-12 12:25:46.946009] :- ###----End of recursive add node----###  
+0:- [2012-Nov-12 17:40:05.258884] :-    ----Start recursive   
+1:- [2012-Nov-12 17:40:05.259161] :-    ---- Start recursive node with data input  : BEF 
+2:- [2012-Nov-12 17:40:05.259225] :-    ---- Start recursive node with Vertex input  : BCD 
+3:- [2012-Nov-12 17:40:05.259294] :-    ---- Vertex root size  : 1 
+4:- [2012-Nov-12 17:40:05.259358] :- --- Deque --- 
+5:- [2012-Nov-12 17:40:05.259417] :- *** Node last contain data  : BCD 
+6:- [2012-Nov-12 17:40:05.259474] :- *** Node last contain data in size  : 2 
+7:- [2012-Nov-12 17:40:05.259536] :- *** Node data add to tail  : EF 
+8:- [2012-Nov-12 17:40:05.259594] :- ###----End of recursive add node----###  
+9:- [2012-Nov-12 17:40:05.259666] :-    ----Start recursive   
+10:- [2012-Nov-12 17:40:05.259734] :-    ---- Start recursive node with data input  : BEG 
+11:- [2012-Nov-12 17:40:05.259790] :-    ---- Start recursive node with Vertex input  : BCD 
+12:- [2012-Nov-12 17:40:05.259855] :-    ---- Vertex root size  : 1 
+13:- [2012-Nov-12 17:40:05.259920] :- --- Deque --- 
+14:- [2012-Nov-12 17:40:05.259977] :- *** Node last contain data  : BCD 
+15:- [2012-Nov-12 17:40:05.260033] :- *** Node last contain data in size  : 2 
+16:- [2012-Nov-12 17:40:05.260087] :- *** Node data add to tail  : EG 
+17:- [2012-Nov-12 17:40:05.260142] :- ###----End of recursive add node----###  
+0:- [2012-Nov-12 17:46:21.913310] :-    ----Start recursive   
+1:- [2012-Nov-12 17:46:21.913559] :-    ---- Start recursive node with data input  : BEF 
+2:- [2012-Nov-12 17:46:21.913624] :-    ---- Start recursive node with Vertex input  : BCD 
+3:- [2012-Nov-12 17:46:21.913691] :-    ---- Vertex root size  : 1 
+4:- [2012-Nov-12 17:46:21.913755] :- --- Deque --- 
+5:- [2012-Nov-12 17:46:21.913817] :- *** Node last contain data  : BCD 
+6:- [2012-Nov-12 17:46:21.913876] :- *** Node last contain data in size  : 2 
+7:- [2012-Nov-12 17:46:21.913938] :- *** Node data add to tail  : EF 
+8:- [2012-Nov-12 17:46:21.913997] :- ###----End of recursive add node----###  
+9:- [2012-Nov-12 17:46:21.914073] :-    ----Start recursive   
+10:- [2012-Nov-12 17:46:21.914156] :-    ---- Start recursive node with data input  : BEG 
+11:- [2012-Nov-12 17:46:21.914227] :-    ---- Start recursive node with Vertex input  : BCD 
+12:- [2012-Nov-12 17:46:21.914285] :-    ---- Vertex root size  : 1 
+13:- [2012-Nov-12 17:46:21.914345] :- --- Deque --- 
+14:- [2012-Nov-12 17:46:21.914404] :- *** Node last contain data  : BCD 
+15:- [2012-Nov-12 17:46:21.914461] :- *** Node last contain data in size  : 2 
+16:- [2012-Nov-12 17:46:21.914517] :- *** Node data add to tail  : EG 
+17:- [2012-Nov-12 17:46:21.914574] :- ###----End of recursive add node----###  
+0:- [2012-Nov-12 21:36:55.614476] :-    ----Start recursive   
+1:- [2012-Nov-12 21:36:55.614719] :-    ---- Start recursive node with data input  : BEF 
+2:- [2012-Nov-12 21:36:55.614793] :-    ---- Start recursive node with Vertex input  : BCD 
+3:- [2012-Nov-12 21:36:55.614869] :-    ---- Vertex root size  : 1 
+4:- [2012-Nov-12 21:36:55.614939] :- --- Deque --- 
+5:- [2012-Nov-12 21:36:55.615008] :- *** Node last contain data  : BCD 
+6:- [2012-Nov-12 21:36:55.615073] :- *** Node last contain data in size  : 2 
+7:- [2012-Nov-12 21:36:55.615145] :- *** Node data add to tail  : EF 
+8:- [2012-Nov-12 21:36:55.615211] :- ###----End of recursive add node----###  
+9:- [2012-Nov-12 21:36:55.615298] :-    ----Start recursive   
+10:- [2012-Nov-12 21:36:55.615368] :-    ---- Start recursive node with data input  : BEG 
+11:- [2012-Nov-12 21:36:55.615430] :-    ---- Start recursive node with Vertex input  : BCD 
+12:- [2012-Nov-12 21:36:55.615493] :-    ---- Vertex root size  : 1 
+13:- [2012-Nov-12 21:36:55.615559] :- --- Deque --- 
+14:- [2012-Nov-12 21:36:55.615623] :- *** Node last contain data  : BCD 
+15:- [2012-Nov-12 21:36:55.615685] :- *** Node last contain data in size  : 2 
+16:- [2012-Nov-12 21:36:55.615745] :- *** Node data add to tail  : EG 
+17:- [2012-Nov-12 21:36:55.615811] :- ###----End of recursive add node----###  
+0:- [2012-Nov-12 22:05:04.736510] :-    ----Start recursive   
+1:- [2012-Nov-12 22:05:04.736746] :-    ---- Start recursive node with data input  : ABEF 
+2:- [2012-Nov-12 22:05:04.736812] :-    ---- Start recursive node with Vertex input  : ABCD 
+3:- [2012-Nov-12 22:05:04.736878] :-    ---- Vertex root size  : 1 
+4:- [2012-Nov-12 22:05:04.736943] :- --- Deque --- 
+5:- [2012-Nov-12 22:05:04.737013] :- *** Node last contain data  : ABCD 
+6:- [2012-Nov-12 22:05:04.737093] :- *** Node last contain data in size  : 2 
+7:- [2012-Nov-12 22:05:04.737159] :- *** Node data add to tail  : BEF 
+8:- [2012-Nov-12 22:05:04.737228] :- ###----End of recursive add node----###  
+0:- [2012-Nov-12 22:06:43.351093] :-    ----Start recursive   
+1:- [2012-Nov-12 22:06:43.351333] :-    ---- Start recursive node with data input  : ABEF 
+2:- [2012-Nov-12 22:06:43.351449] :-    ---- Start recursive node with Vertex input  : ABCD 
+3:- [2012-Nov-12 22:06:43.351561] :-    ---- Vertex root size  : 1 
+4:- [2012-Nov-12 22:06:43.351671] :- --- Deque --- 
+5:- [2012-Nov-12 22:06:43.351780] :- *** Node last contain data  : ABCD 
+6:- [2012-Nov-12 22:06:43.351887] :- *** Node last contain data in size  : 2 
+7:- [2012-Nov-12 22:06:43.351988] :- *** Node data add to tail  : BEF 
+8:- [2012-Nov-12 22:06:43.352082] :- ###----End of recursive add node----###  
+9:- [2012-Nov-12 22:06:43.352187] :-    ----Start recursive   
+10:- [2012-Nov-12 22:06:43.352309] :-    ---- Start recursive node with data input  : ABEG 
+11:- [2012-Nov-12 22:06:43.352397] :-    ---- Start recursive node with Vertex input  : ABCD 
+12:- [2012-Nov-12 22:06:43.352485] :-    ---- Vertex root size  : 1 
+13:- [2012-Nov-12 22:06:43.352585] :- --- Deque --- 
+14:- [2012-Nov-12 22:06:43.352676] :- *** Node last contain data  : ABCD 
+15:- [2012-Nov-12 22:06:43.352770] :- *** Node last contain data in size  : 2 
+16:- [2012-Nov-12 22:06:43.352865] :- *** Node data add to tail  : BEG 
+17:- [2012-Nov-12 22:06:43.352967] :- ###----End of recursive add node----###  
+0:- [2012-Nov-12 22:14:26.015937] :- --- Child node  : ABCD 
+1:- [2012-Nov-12 22:14:26.016180] :- --- Child node  : BCD 
+2:- [2012-Nov-12 22:14:26.016246] :- --- Child node  : CD 
+3:- [2012-Nov-12 22:14:26.016308] :- --- Child node  : D 
+4:- [2012-Nov-12 22:14:26.016368] :- --- Child node  : ABEF 
+5:- [2012-Nov-12 22:14:26.016428] :- --- Child node  : BEF 
+6:- [2012-Nov-12 22:14:26.016486] :- --- Child node  : EF 
+7:- [2012-Nov-12 22:14:26.016543] :- --- Child node  : F 
+8:- [2012-Nov-12 22:14:26.016601] :-    ----Start recursive   
+9:- [2012-Nov-12 22:14:26.016657] :-    ---- Start recursive node with data input  : ABEF 
+10:- [2012-Nov-12 22:14:26.016714] :-    ---- Start recursive node with Vertex input  : ABCD 
+11:- [2012-Nov-12 22:14:26.016778] :-    ---- Vertex root size  : 1 
+12:- [2012-Nov-12 22:14:26.016844] :- *** Node last contain data  : ABCD 
+13:- [2012-Nov-12 22:14:26.016915] :- *** Node last contain data in size  : 2 
+14:- [2012-Nov-12 22:14:26.016977] :- *** Node data add to tail  : BEF 
+15:- [2012-Nov-12 22:14:26.017036] :- ###----End of recursive add node----###  
+16:- [2012-Nov-12 22:14:26.017095] :- --- Child node  : ABEG 
+17:- [2012-Nov-12 22:14:26.017152] :- --- Child node  : BEG 
+18:- [2012-Nov-12 22:14:26.017209] :- --- Child node  : EG 
+19:- [2012-Nov-12 22:14:26.017267] :- --- Child node  : G 
+20:- [2012-Nov-12 22:14:26.017324] :-    ----Start recursive   
+21:- [2012-Nov-12 22:14:26.017380] :-    ---- Start recursive node with data input  : ABEG 
+22:- [2012-Nov-12 22:14:26.017436] :-    ---- Start recursive node with Vertex input  : ABCD 
+23:- [2012-Nov-12 22:14:26.017495] :-    ---- Vertex root size  : 1 
+24:- [2012-Nov-12 22:14:26.017580] :- *** Node last contain data  : ABCD 
+25:- [2012-Nov-12 22:14:26.017639] :- *** Node last contain data in size  : 2 
+26:- [2012-Nov-12 22:14:26.017696] :- *** Node data add to tail  : BEG 
+27:- [2012-Nov-12 22:14:26.017754] :- ###----End of recursive add node----###  
+0:- [2012-Nov-12 22:18:13.634420] :- --- Child node  : BCD 
+1:- [2012-Nov-12 22:18:13.634707] :- --- Child node  : CD 
+2:- [2012-Nov-12 22:18:13.634797] :- --- Child node  : D 
+3:- [2012-Nov-12 22:18:13.634871] :- --- Child node  : BEF 
+4:- [2012-Nov-12 22:18:13.634942] :- --- Child node  : EF 
+5:- [2012-Nov-12 22:18:13.635014] :- --- Child node  : F 
+6:- [2012-Nov-12 22:18:13.635082] :-    ----Start recursive   
+7:- [2012-Nov-12 22:18:13.635150] :-    ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-12 22:18:13.635219] :-    ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-12 22:18:13.635297] :-    ---- Vertex root size  : 1 
+10:- [2012-Nov-12 22:18:13.635388] :- *** Node last contain data  : BCD 
+11:- [2012-Nov-12 22:18:13.635462] :- *** Node last contain data in size  : 2 
+12:- [2012-Nov-12 22:18:13.635528] :- *** Node data add to tail  : EF 
+13:- [2012-Nov-12 22:18:13.635598] :- ###----End of recursive add node----###  
+14:- [2012-Nov-12 22:18:13.635678] :- --- Child node  : BEG 
+15:- [2012-Nov-12 22:18:13.635748] :- --- Child node  : EG 
+16:- [2012-Nov-12 22:18:13.635816] :- --- Child node  : G 
+17:- [2012-Nov-12 22:18:13.635885] :-    ----Start recursive   
+18:- [2012-Nov-12 22:18:13.635957] :-    ---- Start recursive node with data input  : BEG 
+19:- [2012-Nov-12 22:18:13.636025] :-    ---- Start recursive node with Vertex input  : BCD 
+20:- [2012-Nov-12 22:18:13.636095] :-    ---- Vertex root size  : 1 
+21:- [2012-Nov-12 22:18:13.636169] :- *** Node last contain data  : BCD 
+22:- [2012-Nov-12 22:18:13.636237] :- *** Node last contain data in size  : 2 
+23:- [2012-Nov-12 22:18:13.636304] :- *** Node data add to tail  : EG 
+24:- [2012-Nov-12 22:18:13.636373] :- ###----End of recursive add node----###  
+0:- [2012-Nov-12 22:18:42.743834] :- --- Child node  : BCD 
+1:- [2012-Nov-12 22:18:42.744072] :- --- Child node  : CD 
+2:- [2012-Nov-12 22:18:42.744141] :- --- Child node  : D 
+3:- [2012-Nov-12 22:18:42.744205] :- --- Child node  : BEF 
+4:- [2012-Nov-12 22:18:42.744265] :- --- Child node  : EF 
+5:- [2012-Nov-12 22:18:42.744326] :- --- Child node  : F 
+6:- [2012-Nov-12 22:18:42.744385] :-    ----Start recursive   
+7:- [2012-Nov-12 22:18:42.744447] :-    ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-12 22:18:42.744505] :-    ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-12 22:18:42.744569] :-    ---- Vertex root size  : 1 
+10:- [2012-Nov-12 22:18:42.744634] :- *** Node last contain data  : BCD 
+11:- [2012-Nov-12 22:18:42.744699] :- *** Node last contain data in size  : 2 
+12:- [2012-Nov-12 22:18:42.744767] :- *** Node data add to tail  : EF 
+13:- [2012-Nov-12 22:18:42.744840] :- ###----End of recursive add node----###  
+14:- [2012-Nov-12 22:18:42.744909] :- --- Child node  : BEG 
+15:- [2012-Nov-12 22:18:42.744968] :- --- Child node  : EG 
+16:- [2012-Nov-12 22:18:42.745027] :- --- Child node  : G 
+17:- [2012-Nov-12 22:18:42.745086] :-    ----Start recursive   
+18:- [2012-Nov-12 22:18:42.745143] :-    ---- Start recursive node with data input  : BEG 
+19:- [2012-Nov-12 22:18:42.745200] :-    ---- Start recursive node with Vertex input  : BCD 
+20:- [2012-Nov-12 22:18:42.745260] :-    ---- Vertex root size  : 1 
+21:- [2012-Nov-12 22:18:42.745323] :- *** Node last contain data  : BCD 
+22:- [2012-Nov-12 22:18:42.745382] :- *** Node last contain data in size  : 2 
+23:- [2012-Nov-12 22:18:42.745441] :- *** Node data add to tail  : EG 
+24:- [2012-Nov-12 22:18:42.745500] :- ###----End of recursive add node----###  
+0:- [2012-Nov-12 22:23:12.224802] :- --- Child node  : BCD 
+1:- [2012-Nov-12 22:23:12.225044] :- --- Child node  : CD 
+2:- [2012-Nov-12 22:23:12.225111] :- --- Child node  : D 
+3:- [2012-Nov-12 22:23:12.225172] :- --- Child node  : BEF 
+4:- [2012-Nov-12 22:23:12.225230] :- --- Child node  : EF 
+5:- [2012-Nov-12 22:23:12.225288] :- --- Child node  : F 
+6:- [2012-Nov-12 22:23:12.225345] :- ---- Start recursive   
+7:- [2012-Nov-12 22:23:12.225401] :- ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-12 22:23:12.225457] :- ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-12 22:23:12.225531] :- ---- Vertex root size  : 1 
+0:- [2012-Nov-12 22:23:21.406006] :- --- Child node  : BCD 
+1:- [2012-Nov-12 22:23:21.406249] :- --- Child node  : CD 
+2:- [2012-Nov-12 22:23:21.406373] :- --- Child node  : D 
+3:- [2012-Nov-12 22:23:21.406486] :- --- Child node  : BEF 
+4:- [2012-Nov-12 22:23:21.406592] :- --- Child node  : EF 
+5:- [2012-Nov-12 22:23:21.406684] :- --- Child node  : F 
+6:- [2012-Nov-12 22:23:21.406776] :- ---- Start recursive   
+7:- [2012-Nov-12 22:23:21.406865] :- ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-12 22:23:21.406954] :- ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-12 22:23:21.407050] :- ---- Vertex root size  : 1 
+0:- [2012-Nov-12 23:16:36.592123] :- --- Child node  : BCD 
+1:- [2012-Nov-12 23:16:36.592363] :- --- Child node  : CD 
+2:- [2012-Nov-12 23:16:36.592430] :- --- Child node  : D 
+3:- [2012-Nov-12 23:16:36.592501] :- --- Child node  : BEF 
+4:- [2012-Nov-12 23:16:36.592561] :- --- Child node  : EF 
+5:- [2012-Nov-12 23:16:36.592619] :- --- Child node  : F 
+6:- [2012-Nov-12 23:16:36.592677] :- ---- Start recursive   
+7:- [2012-Nov-12 23:16:36.592734] :- ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-12 23:16:36.592790] :- ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-12 23:16:36.592854] :- ---- Vertex root size  : 1 
+0:- [2012-Nov-12 23:19:17.800089] :- --- Child node  : BCD 
+1:- [2012-Nov-12 23:19:17.800326] :- --- Child node  : CD 
+2:- [2012-Nov-12 23:19:17.800416] :- --- Child node  : D 
+3:- [2012-Nov-12 23:19:17.800492] :- --- Child node  : BEF 
+4:- [2012-Nov-12 23:19:17.800565] :- --- Child node  : EF 
+5:- [2012-Nov-12 23:19:17.800637] :- --- Child node  : F 
+6:- [2012-Nov-12 23:19:17.800708] :- ---- Start recursive   
+7:- [2012-Nov-12 23:19:17.800789] :- ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-12 23:19:17.800864] :- ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-12 23:19:17.800946] :- ---- Vertex root size  : 1 
+10:- [2012-Nov-12 23:19:17.801037] :- *** Node last contain data  : BCD 
+11:- [2012-Nov-12 23:19:17.801121] :- *** Node last contain data in size  : 2 
+12:- [2012-Nov-12 23:19:17.801194] :- *** Node data add to tail  : EF 
+13:- [2012-Nov-12 23:19:17.801269] :- ###----End of recursive add node----###  
+14:- [2012-Nov-12 23:19:17.801344] :- --- Child node  : BEG 
+15:- [2012-Nov-12 23:19:17.801420] :- --- Child node  : EG 
+16:- [2012-Nov-12 23:19:17.801494] :- --- Child node  : G 
+17:- [2012-Nov-12 23:19:17.801583] :- ---- Start recursive   
+18:- [2012-Nov-12 23:19:17.801657] :- ---- Start recursive node with data input  : BEG 
+19:- [2012-Nov-12 23:19:17.801730] :- ---- Start recursive node with Vertex input  : BCD 
+20:- [2012-Nov-12 23:19:17.801803] :- ---- Vertex root size  : 1 
+21:- [2012-Nov-12 23:19:17.801882] :- *** Node last contain data  : BCD 
+22:- [2012-Nov-12 23:19:17.801959] :- *** Node last contain data in size  : 2 
+23:- [2012-Nov-12 23:19:17.802034] :- *** Node data add to tail  : EG 
+24:- [2012-Nov-12 23:19:17.802109] :- ###----End of recursive add node----###  
+0:- [2012-Nov-12 23:19:23.420759] :- --- Child node  : BCD 
+1:- [2012-Nov-12 23:19:23.421002] :- --- Child node  : CD 
+2:- [2012-Nov-12 23:19:23.421081] :- --- Child node  : D 
+3:- [2012-Nov-12 23:19:23.421154] :- --- Child node  : BEF 
+4:- [2012-Nov-12 23:19:23.421228] :- --- Child node  : EF 
+5:- [2012-Nov-12 23:19:23.421296] :- --- Child node  : F 
+6:- [2012-Nov-12 23:19:23.421363] :- ---- Start recursive   
+7:- [2012-Nov-12 23:19:23.421428] :- ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-12 23:19:23.421492] :- ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-12 23:19:23.421592] :- ---- Vertex root size  : 1 
+10:- [2012-Nov-12 23:19:23.421678] :- *** Node last contain data  : BCD 
+11:- [2012-Nov-12 23:19:23.421755] :- *** Node last contain data in size  : 2 
+12:- [2012-Nov-12 23:19:23.421819] :- *** Node data add to tail  : EF 
+13:- [2012-Nov-12 23:19:23.421887] :- ###----End of recursive add node----###  
+14:- [2012-Nov-12 23:19:23.421953] :- --- Child node  : BEG 
+15:- [2012-Nov-12 23:19:23.422019] :- --- Child node  : EG 
+16:- [2012-Nov-12 23:19:23.422084] :- --- Child node  : G 
+17:- [2012-Nov-12 23:19:23.422148] :- ---- Start recursive   
+18:- [2012-Nov-12 23:19:23.422212] :- ---- Start recursive node with data input  : BEG 
+19:- [2012-Nov-12 23:19:23.422276] :- ---- Start recursive node with Vertex input  : BCD 
+20:- [2012-Nov-12 23:19:23.422342] :- ---- Vertex root size  : 1 
+21:- [2012-Nov-12 23:19:23.422412] :- *** Node last contain data  : BCD 
+22:- [2012-Nov-12 23:19:23.422476] :- *** Node last contain data in size  : 2 
+23:- [2012-Nov-12 23:19:23.422540] :- *** Node data add to tail  : EG 
+24:- [2012-Nov-12 23:19:23.422610] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 06:42:58.770776] :- --- Child node  : BCD 
+1:- [2012-Nov-13 06:42:58.771060] :- --- Child node  : CD 
+2:- [2012-Nov-13 06:42:58.771213] :- --- Child node  : D 
+3:- [2012-Nov-13 06:42:58.771307] :- --- Child node  : BEF 
+4:- [2012-Nov-13 06:42:58.771396] :- --- Child node  : EF 
+5:- [2012-Nov-13 06:42:58.771488] :- --- Child node  : F 
+6:- [2012-Nov-13 06:42:58.771575] :- ---- Start recursive   
+7:- [2012-Nov-13 06:42:58.771701] :- ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-13 06:42:58.771810] :- ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-13 06:42:58.771914] :- ---- Vertex root size  : 1 
+10:- [2012-Nov-13 06:42:58.772008] :- *** Node last contain data  : BCD 
+11:- [2012-Nov-13 06:42:58.772106] :- *** Node last contain data in size  : 2 
+12:- [2012-Nov-13 06:42:58.772194] :- *** Node data add to tail  : EF 
+13:- [2012-Nov-13 06:42:58.772284] :- ###----End of recursive add node----###  
+14:- [2012-Nov-13 06:42:58.772372] :- --- Child node  : BEG 
+15:- [2012-Nov-13 06:42:58.772469] :- --- Child node  : EG 
+16:- [2012-Nov-13 06:42:58.772555] :- --- Child node  : G 
+17:- [2012-Nov-13 06:42:58.772658] :- ---- Start recursive   
+18:- [2012-Nov-13 06:42:58.772744] :- ---- Start recursive node with data input  : BEG 
+19:- [2012-Nov-13 06:42:58.772831] :- ---- Start recursive node with Vertex input  : BCD 
+20:- [2012-Nov-13 06:42:58.772919] :- ---- Vertex root size  : 1 
+21:- [2012-Nov-13 06:42:58.773013] :- *** Node last contain data  : BCD 
+22:- [2012-Nov-13 06:42:58.773102] :- *** Node last contain data in size  : 2 
+23:- [2012-Nov-13 06:42:58.773187] :- *** Node data add to tail  : EG 
+24:- [2012-Nov-13 06:42:58.773281] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 06:51:00.653676] :- --- Child node  : BCD 
+1:- [2012-Nov-13 06:51:00.653911] :- --- Child node  : CD 
+2:- [2012-Nov-13 06:51:00.654026] :- --- Child node  : D 
+3:- [2012-Nov-13 06:51:00.654122] :- --- Child node  : BEF 
+4:- [2012-Nov-13 06:51:00.654212] :- --- Child node  : EF 
+5:- [2012-Nov-13 06:51:00.654304] :- --- Child node  : F 
+6:- [2012-Nov-13 06:51:00.654393] :- ---- Start recursive   
+7:- [2012-Nov-13 06:51:00.654481] :- ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-13 06:51:00.654570] :- ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-13 06:51:00.654692] :- ---- Vertex root size  : 1 
+10:- [2012-Nov-13 06:51:00.654802] :- *** Node last contain data  : BCD 
+11:- [2012-Nov-13 06:51:00.654893] :- *** Node last contain data in size  : 2 
+12:- [2012-Nov-13 06:51:00.654981] :- *** Node data add to tail  : EF 
+13:- [2012-Nov-13 06:51:00.655070] :- ###----End of recursive add node----###  
+14:- [2012-Nov-13 06:51:00.655158] :- --- Child node  : BEG 
+15:- [2012-Nov-13 06:51:00.655247] :- --- Child node  : EG 
+16:- [2012-Nov-13 06:51:00.655335] :- --- Child node  : G 
+17:- [2012-Nov-13 06:51:00.655423] :- ---- Start recursive   
+18:- [2012-Nov-13 06:51:00.655513] :- ---- Start recursive node with data input  : BEG 
+19:- [2012-Nov-13 06:51:00.655602] :- ---- Start recursive node with Vertex input  : BCD 
+20:- [2012-Nov-13 06:51:00.655688] :- ---- Vertex root size  : 1 
+21:- [2012-Nov-13 06:51:00.655783] :- *** Node last contain data  : BCD 
+22:- [2012-Nov-13 06:51:00.655871] :- *** Node last contain data in size  : 2 
+23:- [2012-Nov-13 06:51:00.655957] :- *** Node data add to tail  : EG 
+24:- [2012-Nov-13 06:51:00.656066] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 06:51:55.024040] :- --- Child node  : BCD 
+1:- [2012-Nov-13 06:51:55.024283] :- --- Child node  : CD 
+2:- [2012-Nov-13 06:51:55.024402] :- --- Child node  : D 
+3:- [2012-Nov-13 06:51:55.024512] :- --- Child node  : BEF 
+4:- [2012-Nov-13 06:51:55.024625] :- --- Child node  : EF 
+5:- [2012-Nov-13 06:51:55.024736] :- --- Child node  : F 
+6:- [2012-Nov-13 06:51:55.024847] :- ---- Start recursive   
+7:- [2012-Nov-13 06:51:55.024968] :- ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-13 06:51:55.025069] :- ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-13 06:51:55.025194] :- ---- Vertex root size  : 1 
+10:- [2012-Nov-13 06:51:55.025291] :- *** Node last contain data  : BCD 
+11:- [2012-Nov-13 06:51:55.025392] :- *** Node last contain data in size  : 2 
+12:- [2012-Nov-13 06:51:55.025477] :- *** Node data add to tail  : EF 
+13:- [2012-Nov-13 06:51:55.025587] :- ###----End of recursive add node----###  
+14:- [2012-Nov-13 06:51:55.025685] :- --- Child node  : BEG 
+15:- [2012-Nov-13 06:51:55.025783] :- --- Child node  : EG 
+16:- [2012-Nov-13 06:51:55.025879] :- --- Child node  : G 
+17:- [2012-Nov-13 06:51:55.025970] :- ---- Start recursive   
+18:- [2012-Nov-13 06:51:55.026056] :- ---- Start recursive node with data input  : BEG 
+19:- [2012-Nov-13 06:51:55.026142] :- ---- Start recursive node with Vertex input  : BCD 
+20:- [2012-Nov-13 06:51:55.026228] :- ---- Vertex root size  : 1 
+21:- [2012-Nov-13 06:51:55.026319] :- *** Node last contain data  : BCD 
+22:- [2012-Nov-13 06:51:55.026405] :- *** Node last contain data in size  : 2 
+23:- [2012-Nov-13 06:51:55.026501] :- *** Node data add to tail  : EG 
+24:- [2012-Nov-13 06:51:55.026590] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 06:52:13.593128] :- --- Child node  : BCD 
+1:- [2012-Nov-13 06:52:13.593369] :- --- Child node  : CD 
+2:- [2012-Nov-13 06:52:13.593441] :- --- Child node  : D 
+3:- [2012-Nov-13 06:52:13.593526] :- --- Child node  : BEF 
+4:- [2012-Nov-13 06:52:13.593602] :- --- Child node  : EF 
+5:- [2012-Nov-13 06:52:13.593672] :- --- Child node  : F 
+6:- [2012-Nov-13 06:52:13.593740] :- ---- Start recursive   
+7:- [2012-Nov-13 06:52:13.593806] :- ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-13 06:52:13.593875] :- ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-13 06:52:13.593973] :- ---- Vertex root size  : 1 
+10:- [2012-Nov-13 06:52:13.594045] :- *** Node last contain data  : BCD 
+11:- [2012-Nov-13 06:52:13.594110] :- *** Node last contain data in size  : 2 
+12:- [2012-Nov-13 06:52:13.594173] :- *** Node data add to tail  : EF 
+13:- [2012-Nov-13 06:52:13.594239] :- ###----End of recursive add node----###  
+14:- [2012-Nov-13 06:52:13.594304] :- --- Child node  : BEG 
+15:- [2012-Nov-13 06:52:13.594369] :- --- Child node  : EG 
+16:- [2012-Nov-13 06:52:13.594433] :- --- Child node  : G 
+17:- [2012-Nov-13 06:52:13.594501] :- ---- Start recursive   
+18:- [2012-Nov-13 06:52:13.594564] :- ---- Start recursive node with data input  : BEG 
+19:- [2012-Nov-13 06:52:13.594629] :- ---- Start recursive node with Vertex input  : BCD 
+20:- [2012-Nov-13 06:52:13.594697] :- ---- Vertex root size  : 1 
+21:- [2012-Nov-13 06:52:13.594767] :- *** Node last contain data  : BCD 
+22:- [2012-Nov-13 06:52:13.594837] :- *** Node last contain data in size  : 2 
+23:- [2012-Nov-13 06:52:13.594900] :- *** Node data add to tail  : EG 
+24:- [2012-Nov-13 06:52:13.594965] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 09:50:12.747369] :- --- Child node  : BCD 
+1:- [2012-Nov-13 09:50:12.747615] :- --- Child node  : CD 
+2:- [2012-Nov-13 09:50:12.747687] :- --- Child node  : D 
+3:- [2012-Nov-13 09:50:12.747763] :- --- Child node  : BEF 
+4:- [2012-Nov-13 09:50:12.747833] :- --- Child node  : EF 
+5:- [2012-Nov-13 09:50:12.747902] :- --- Child node  : F 
+6:- [2012-Nov-13 09:50:12.747970] :- ---- Start recursive   
+7:- [2012-Nov-13 09:50:12.748041] :- ---- Start recursive node with data input  : BEF 
+0:- [2012-Nov-13 09:50:19.430344] :- --- Child node  : BCD 
+1:- [2012-Nov-13 09:50:19.430612] :- --- Child node  : CD 
+2:- [2012-Nov-13 09:50:19.430719] :- --- Child node  : D 
+3:- [2012-Nov-13 09:50:19.430825] :- --- Child node  : BEF 
+4:- [2012-Nov-13 09:50:19.430926] :- --- Child node  : EF 
+5:- [2012-Nov-13 09:50:19.431030] :- --- Child node  : F 
+6:- [2012-Nov-13 09:50:19.431120] :- ---- Start recursive   
+7:- [2012-Nov-13 09:50:19.431208] :- ---- Start recursive node with data input  : BEF 
+0:- [2012-Nov-13 10:01:12.607934] :- --- Child node  : BCD 
+1:- [2012-Nov-13 10:01:12.608180] :- --- Child node  : CD 
+2:- [2012-Nov-13 10:01:12.608290] :- --- Child node  : D 
+3:- [2012-Nov-13 10:01:12.608391] :- --- Child node  : BEF 
+4:- [2012-Nov-13 10:01:12.608479] :- --- Child node  : EF 
+5:- [2012-Nov-13 10:01:12.608566] :- --- Child node  : F 
+6:- [2012-Nov-13 10:01:12.608667] :- ---- Start recursive   
+7:- [2012-Nov-13 10:01:12.608755] :- ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-13 10:01:12.608846] :- ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-13 10:01:12.608946] :- ---- Vertex root size  : 1 
+10:- [2012-Nov-13 10:01:12.609040] :- *** Node last contain data  : D 
+11:- [2012-Nov-13 10:01:12.609140] :- *** Node last contain data in size  : 1 
+12:- [2012-Nov-13 10:01:12.609248] :- *** Node data add to tail  : EF 
+13:- [2012-Nov-13 10:01:12.609347] :- ###----End of recursive add node----###  
+14:- [2012-Nov-13 10:01:12.609447] :- --- Child node  : BEG 
+15:- [2012-Nov-13 10:01:12.609545] :- --- Child node  : EG 
+16:- [2012-Nov-13 10:01:12.609633] :- --- Child node  : G 
+17:- [2012-Nov-13 10:01:12.609718] :- ---- Start recursive   
+18:- [2012-Nov-13 10:01:12.609803] :- ---- Start recursive node with data input  : BEG 
+19:- [2012-Nov-13 10:01:12.609888] :- ---- Start recursive node with Vertex input  : BCD 
+20:- [2012-Nov-13 10:01:12.609974] :- ---- Vertex root size  : 1 
+21:- [2012-Nov-13 10:01:12.610063] :- *** Node last contain data  : D 
+22:- [2012-Nov-13 10:01:12.610148] :- *** Node last contain data in size  : 1 
+23:- [2012-Nov-13 10:01:12.610231] :- *** Node data add to tail  : EG 
+24:- [2012-Nov-13 10:01:12.610316] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 10:04:07.748349] :- --- Child node  : BCD 
+1:- [2012-Nov-13 10:04:07.748590] :- --- Child node  : CD 
+2:- [2012-Nov-13 10:04:07.748698] :- --- Child node  : D 
+3:- [2012-Nov-13 10:04:07.748802] :- --- Child node  : BEF 
+4:- [2012-Nov-13 10:04:07.748904] :- --- Child node  : EF 
+5:- [2012-Nov-13 10:04:07.749009] :- --- Child node  : F 
+6:- [2012-Nov-13 10:04:07.749111] :- ---- Start recursive   
+7:- [2012-Nov-13 10:04:07.749210] :- ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-13 10:04:07.749311] :- ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-13 10:04:07.749415] :- ---- Vertex root size  : 1 
+10:- [2012-Nov-13 10:04:07.749531] :- *** Node last contain data  : BCD 
+11:- [2012-Nov-13 10:04:07.749626] :- *** Node last contain data in size  : 2 
+12:- [2012-Nov-13 10:04:07.749712] :- *** Node data add to tail  : EF 
+13:- [2012-Nov-13 10:04:07.749800] :- ###----End of recursive add node----###  
+14:- [2012-Nov-13 10:04:07.749886] :- --- Child node  : BEG 
+15:- [2012-Nov-13 10:04:07.749974] :- --- Child node  : EG 
+16:- [2012-Nov-13 10:04:07.750059] :- --- Child node  : G 
+17:- [2012-Nov-13 10:04:07.750153] :- ---- Start recursive   
+18:- [2012-Nov-13 10:04:07.750240] :- ---- Start recursive node with data input  : BEG 
+19:- [2012-Nov-13 10:04:07.750328] :- ---- Start recursive node with Vertex input  : BCD 
+20:- [2012-Nov-13 10:04:07.750416] :- ---- Vertex root size  : 1 
+21:- [2012-Nov-13 10:04:07.750509] :- *** Node last contain data  : BCD 
+22:- [2012-Nov-13 10:04:07.750606] :- *** Node last contain data in size  : 2 
+23:- [2012-Nov-13 10:04:07.750689] :- *** Node data add to tail  : EG 
+24:- [2012-Nov-13 10:04:07.750776] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 10:16:54.511437] :- --- Child node  : BCD 
+1:- [2012-Nov-13 10:16:54.511684] :- --- Child node  : CD 
+2:- [2012-Nov-13 10:16:54.511791] :- --- Child node  : D 
+3:- [2012-Nov-13 10:16:54.511898] :- --- Child node  : BEF 
+4:- [2012-Nov-13 10:16:54.512019] :- --- Child node  : EF 
+5:- [2012-Nov-13 10:16:54.512119] :- --- Child node  : F 
+6:- [2012-Nov-13 10:16:54.512221] :- ---- Start recursive   
+7:- [2012-Nov-13 10:16:54.512326] :- ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-13 10:16:54.512426] :- ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-13 10:16:54.512540] :- ---- Vertex root size  : 1 
+10:- [2012-Nov-13 10:16:54.512668] :- *** Node last contain data  : BCD 
+11:- [2012-Nov-13 10:16:54.512772] :- *** Node last contain data in size  : 2 
+12:- [2012-Nov-13 10:16:54.512870] :- *** Node data add to tail  : EF 
+13:- [2012-Nov-13 10:16:54.512960] :- ###----End of recursive add node----###  
+14:- [2012-Nov-13 10:16:54.513072] :- --- Child node  : BEG 
+15:- [2012-Nov-13 10:16:54.513163] :- --- Child node  : EG 
+16:- [2012-Nov-13 10:16:54.513250] :- --- Child node  : G 
+17:- [2012-Nov-13 10:16:54.513337] :- ---- Start recursive   
+18:- [2012-Nov-13 10:16:54.513430] :- ---- Start recursive node with data input  : BEG 
+19:- [2012-Nov-13 10:16:54.513519] :- ---- Start recursive node with Vertex input  : BCD 
+20:- [2012-Nov-13 10:16:54.513605] :- ---- Vertex root size  : 1 
+21:- [2012-Nov-13 10:16:54.513698] :- *** Node last contain data  : BCD 
+22:- [2012-Nov-13 10:16:54.513784] :- *** Node last contain data in size  : 2 
+23:- [2012-Nov-13 10:16:54.513868] :- *** Node data add to tail  : EG 
+24:- [2012-Nov-13 10:16:54.513954] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 11:01:37.499954] :- --- Child node  : BCD 
+1:- [2012-Nov-13 11:01:37.500211] :- --- Child node  : CD 
+2:- [2012-Nov-13 11:01:37.500312] :- --- Child node  : D 
+3:- [2012-Nov-13 11:01:37.500405] :- --- Child node  : BEF 
+4:- [2012-Nov-13 11:01:37.500493] :- --- Child node  : EF 
+5:- [2012-Nov-13 11:01:37.500584] :- --- Child node  : F 
+6:- [2012-Nov-13 11:01:37.500670] :- ---- Start recursive   
+7:- [2012-Nov-13 11:01:37.500756] :- ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-13 11:01:37.500843] :- ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-13 11:01:37.500946] :- ---- Vertex root size  : 1 
+10:- [2012-Nov-13 11:01:37.501066] :- *** Node last contain data  : BCD 
+11:- [2012-Nov-13 11:01:37.501157] :- *** Node last contain data in size  : 2 
+12:- [2012-Nov-13 11:01:37.501244] :- *** Node data add to tail  : BEF 
+13:- [2012-Nov-13 11:01:37.501332] :- ###----End of recursive add node----###  
+14:- [2012-Nov-13 11:01:37.501420] :- --- Child node  : BEG 
+15:- [2012-Nov-13 11:01:37.501508] :- --- Child node  : EG 
+16:- [2012-Nov-13 11:01:37.501594] :- --- Child node  : G 
+17:- [2012-Nov-13 11:01:37.501680] :- ---- Start recursive   
+18:- [2012-Nov-13 11:01:37.501766] :- ---- Start recursive node with data input  : BEG 
+19:- [2012-Nov-13 11:01:37.501863] :- ---- Start recursive node with Vertex input  : BCD 
+20:- [2012-Nov-13 11:01:37.501950] :- ---- Vertex root size  : 1 
+21:- [2012-Nov-13 11:01:37.502070] :- *** Node last contain data  : BCD 
+22:- [2012-Nov-13 11:01:37.502158] :- *** Node last contain data in size  : 2 
+23:- [2012-Nov-13 11:01:37.502255] :- *** Node data add to tail  : BEG 
+24:- [2012-Nov-13 11:01:37.502373] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 11:07:15.106354] :- --- Child node  : BCD 
+1:- [2012-Nov-13 11:07:15.108761] :- --- Child node  : CD 
+2:- [2012-Nov-13 11:07:15.108890] :- --- Child node  : D 
+3:- [2012-Nov-13 11:07:15.108951] :- --- Child node  : BEF 
+4:- [2012-Nov-13 11:07:15.109011] :- --- Child node  : EF 
+5:- [2012-Nov-13 11:07:15.109069] :- --- Child node  : F 
+6:- [2012-Nov-13 11:07:15.109126] :- ---- Start recursive   
+7:- [2012-Nov-13 11:07:15.109183] :- ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-13 11:07:15.109239] :- ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-13 11:07:15.109308] :- ---- Vertex root size  : 1 
+10:- [2012-Nov-13 11:07:15.109370] :- @@@ Node data size  : 2 
+11:- [2012-Nov-13 11:07:15.109431] :- *** Node last contain data  : BCD 
+12:- [2012-Nov-13 11:07:15.109490] :- *** Node last contain data in size  : 2 
+13:- [2012-Nov-13 11:07:15.109546] :- *** Node data add to tail  : BEF 
+14:- [2012-Nov-13 11:07:15.109603] :- ###----End of recursive add node----###  
+15:- [2012-Nov-13 11:07:15.109661] :- --- Child node  : BEG 
+16:- [2012-Nov-13 11:07:15.109722] :- --- Child node  : EG 
+17:- [2012-Nov-13 11:07:15.109801] :- --- Child node  : G 
+18:- [2012-Nov-13 11:07:15.109878] :- ---- Start recursive   
+19:- [2012-Nov-13 11:07:15.109942] :- ---- Start recursive node with data input  : BEG 
+20:- [2012-Nov-13 11:07:15.110008] :- ---- Start recursive node with Vertex input  : BCD 
+21:- [2012-Nov-13 11:07:15.110074] :- ---- Vertex root size  : 1 
+22:- [2012-Nov-13 11:07:15.110149] :- @@@ Node data size  : 2 
+23:- [2012-Nov-13 11:07:15.110434] :- *** Node last contain data  : BCD 
+24:- [2012-Nov-13 11:07:15.110507] :- *** Node last contain data in size  : 2 
+25:- [2012-Nov-13 11:07:15.110569] :- *** Node data add to tail  : BEG 
+26:- [2012-Nov-13 11:07:15.110634] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 11:08:27.569406] :- --- Child node  : BCD 
+1:- [2012-Nov-13 11:08:27.569650] :- --- Child node  : CD 
+2:- [2012-Nov-13 11:08:27.569745] :- --- Child node  : D 
+3:- [2012-Nov-13 11:08:27.569836] :- --- Child node  : BEF 
+4:- [2012-Nov-13 11:08:27.569925] :- --- Child node  : EF 
+5:- [2012-Nov-13 11:08:27.570017] :- --- Child node  : F 
+6:- [2012-Nov-13 11:08:27.570105] :- ---- Start recursive   
+7:- [2012-Nov-13 11:08:27.570190] :- ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-13 11:08:27.570289] :- ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-13 11:08:27.570396] :- ---- Vertex root size  : 1 
+10:- [2012-Nov-13 11:08:27.570491] :- @@@ Node data size  : 2 
+11:- [2012-Nov-13 11:08:27.570587] :- *** Node last contain data  : BCD 
+12:- [2012-Nov-13 11:08:27.570673] :- *** Node last contain data in size  : 2 
+13:- [2012-Nov-13 11:08:27.570757] :- *** Node data add to tail  : EF 
+14:- [2012-Nov-13 11:08:27.570844] :- ###----End of recursive add node----###  
+15:- [2012-Nov-13 11:08:27.570930] :- --- Child node  : BEG 
+16:- [2012-Nov-13 11:08:27.571016] :- --- Child node  : EG 
+17:- [2012-Nov-13 11:08:27.571095] :- --- Child node  : G 
+18:- [2012-Nov-13 11:08:27.571153] :- ---- Start recursive   
+19:- [2012-Nov-13 11:08:27.571208] :- ---- Start recursive node with data input  : BEG 
+20:- [2012-Nov-13 11:08:27.571262] :- ---- Start recursive node with Vertex input  : BCD 
+21:- [2012-Nov-13 11:08:27.571319] :- ---- Vertex root size  : 1 
+22:- [2012-Nov-13 11:08:27.571376] :- @@@ Node data size  : 2 
+23:- [2012-Nov-13 11:08:27.571436] :- *** Node last contain data  : BCD 
+24:- [2012-Nov-13 11:08:27.571492] :- *** Node last contain data in size  : 2 
+25:- [2012-Nov-13 11:08:27.571547] :- *** Node data add to tail  : EG 
+26:- [2012-Nov-13 11:08:27.571603] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 11:16:02.977963] :- --- Child node  : BCD 
+1:- [2012-Nov-13 11:16:02.978453] :- --- Child node  : CD 
+2:- [2012-Nov-13 11:16:02.978623] :- --- Child node  : D 
+3:- [2012-Nov-13 11:16:02.978713] :- --- Child node  : BEF 
+4:- [2012-Nov-13 11:16:02.978786] :- --- Child node  : EF 
+5:- [2012-Nov-13 11:16:02.978857] :- --- Child node  : F 
+6:- [2012-Nov-13 11:16:02.978928] :- ---- Start recursive   
+7:- [2012-Nov-13 11:16:02.978997] :- ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-13 11:16:02.979067] :- ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-13 11:16:02.979171] :- ---- Vertex root size  : 1 
+10:- [2012-Nov-13 11:16:02.979252] :- @@@ Node data size  : 2 
+11:- [2012-Nov-13 11:16:02.979334] :- *** Node last contain data  : BCD 
+12:- [2012-Nov-13 11:16:02.979419] :- *** Node last contain data in size  : 2 
+13:- [2012-Nov-13 11:16:02.979493] :- *** Node data add to tail  : EF 
+14:- [2012-Nov-13 11:16:02.979597] :- ###----End of recursive add node----###  
+15:- [2012-Nov-13 11:16:02.979706] :- --- Child node  : BEG 
+16:- [2012-Nov-13 11:16:02.979794] :- --- Child node  : EG 
+17:- [2012-Nov-13 11:16:02.979879] :- --- Child node  : G 
+18:- [2012-Nov-13 11:16:02.979966] :- ---- Start recursive   
+19:- [2012-Nov-13 11:16:02.980045] :- ---- Start recursive node with data input  : BEG 
+20:- [2012-Nov-13 11:16:02.980122] :- ---- Start recursive node with Vertex input  : BCD 
+21:- [2012-Nov-13 11:16:02.980200] :- ---- Vertex root size  : 1 
+22:- [2012-Nov-13 11:16:02.980282] :- @@@ Node data size  : 2 
+23:- [2012-Nov-13 11:16:02.980370] :- *** Node last contain data  : BCD 
+24:- [2012-Nov-13 11:16:02.980477] :- *** Node last contain data in size  : 2 
+25:- [2012-Nov-13 11:16:02.980559] :- *** Node data add to tail  : EG 
+26:- [2012-Nov-13 11:16:02.980640] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 11:20:15.246413] :- --- Child node  : BCD 
+1:- [2012-Nov-13 11:20:15.246670] :- --- Child node  : CD 
+2:- [2012-Nov-13 11:20:15.246786] :- --- Child node  : D 
+3:- [2012-Nov-13 11:20:15.246899] :- --- Child node  : BEF 
+4:- [2012-Nov-13 11:20:15.247010] :- --- Child node  : EF 
+5:- [2012-Nov-13 11:20:15.247124] :- --- Child node  : F 
+6:- [2012-Nov-13 11:20:15.247233] :- ---- Start recursive   
+7:- [2012-Nov-13 11:20:15.247353] :- ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-13 11:20:15.247465] :- ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-13 11:20:15.247591] :- ---- Vertex root size  : 1 
+10:- [2012-Nov-13 11:20:15.247664] :- @@@ Node data size  : 2 
+11:- [2012-Nov-13 11:20:15.247752] :- *** Node last contain data  : BCD 
+12:- [2012-Nov-13 11:20:15.247824] :- *** Node last contain data in size  : 2 
+13:- [2012-Nov-13 11:20:15.247899] :- *** Node data add to tail  : EF 
+14:- [2012-Nov-13 11:20:15.247965] :- ###----End of recursive add node----###  
+15:- [2012-Nov-13 11:20:15.248031] :- --- Child node  : BEG 
+16:- [2012-Nov-13 11:20:15.248095] :- --- Child node  : EG 
+17:- [2012-Nov-13 11:20:15.248157] :- --- Child node  : G 
+18:- [2012-Nov-13 11:20:15.248219] :- ---- Start recursive   
+19:- [2012-Nov-13 11:20:15.248279] :- ---- Start recursive node with data input  : BEG 
+20:- [2012-Nov-13 11:20:15.248340] :- ---- Start recursive node with Vertex input  : BCD 
+21:- [2012-Nov-13 11:20:15.248406] :- ---- Vertex root size  : 1 
+22:- [2012-Nov-13 11:20:15.248471] :- @@@ Node data size  : 2 
+23:- [2012-Nov-13 11:20:15.248537] :- *** Node last contain data  : BCD 
+24:- [2012-Nov-13 11:20:15.248599] :- *** Node last contain data in size  : 2 
+25:- [2012-Nov-13 11:20:15.248660] :- *** Node data add to tail  : EG 
+26:- [2012-Nov-13 11:20:15.248723] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 11:37:01.622033] :- --- Child node  : BCD 
+1:- [2012-Nov-13 11:37:01.622300] :- --- Child node  : CD 
+2:- [2012-Nov-13 11:37:01.622381] :- --- Child node  : D 
+3:- [2012-Nov-13 11:37:01.622454] :- --- Child node  : BEF 
+4:- [2012-Nov-13 11:37:01.622524] :- --- Child node  : EF 
+5:- [2012-Nov-13 11:37:01.622594] :- --- Child node  : F 
+6:- [2012-Nov-13 11:37:01.622660] :- ---- Start recursive   
+7:- [2012-Nov-13 11:37:01.622725] :- ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-13 11:37:01.622791] :- ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-13 11:37:01.622870] :- ---- Vertex root size  : 1 
+10:- [2012-Nov-13 11:37:01.622940] :- @@@ Node data size  : 2 
+11:- [2012-Nov-13 11:37:01.623019] :- *** Node last contain data  : BCD 
+12:- [2012-Nov-13 11:37:01.623085] :- *** Node last contain data in size  : 2 
+13:- [2012-Nov-13 11:37:01.623149] :- *** Node data add to tail  : EF 
+14:- [2012-Nov-13 11:37:01.623215] :- ###----End of recursive add node----###  
+15:- [2012-Nov-13 11:37:01.623281] :- --- Child node  : BEG 
+16:- [2012-Nov-13 11:37:01.623347] :- --- Child node  : EG 
+17:- [2012-Nov-13 11:37:01.623413] :- --- Child node  : G 
+18:- [2012-Nov-13 11:37:01.623478] :- ---- Start recursive   
+19:- [2012-Nov-13 11:37:01.623543] :- ---- Start recursive node with data input  : BEG 
+20:- [2012-Nov-13 11:37:01.623607] :- ---- Start recursive node with Vertex input  : BCD 
+21:- [2012-Nov-13 11:37:01.623673] :- ---- Vertex root size  : 1 
+22:- [2012-Nov-13 11:37:01.623742] :- @@@ Node data size  : 2 
+23:- [2012-Nov-13 11:37:01.623817] :- *** Node last contain data  : BCD 
+24:- [2012-Nov-13 11:37:01.623881] :- *** Node last contain data in size  : 2 
+25:- [2012-Nov-13 11:37:01.623945] :- *** Node data add to tail  : EG 
+26:- [2012-Nov-13 11:37:01.624012] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 11:40:11.613754] :- --- Child node  : BCD 
+1:- [2012-Nov-13 11:40:11.615365] :- --- Child node  : CD 
+2:- [2012-Nov-13 11:40:11.615491] :- --- Child node  : D 
+3:- [2012-Nov-13 11:40:11.615569] :- --- Child node  : BEF 
+4:- [2012-Nov-13 11:40:11.615640] :- --- Child node  : EF 
+5:- [2012-Nov-13 11:40:11.615710] :- --- Child node  : F 
+6:- [2012-Nov-13 11:40:11.615984] :- ---- Start recursive   
+7:- [2012-Nov-13 11:40:11.616054] :- ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-13 11:40:11.616135] :- ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-13 11:40:11.616215] :- ---- Vertex root size  : 1 
+10:- [2012-Nov-13 11:40:11.616283] :- @@@ Node data size  : 2 
+11:- [2012-Nov-13 11:40:11.616351] :- *** Node last contain data  : D 
+12:- [2012-Nov-13 11:40:11.616416] :- *** Node last contain data in size  : 1 
+13:- [2012-Nov-13 11:40:11.616480] :- *** Node data add to tail  : EF 
+14:- [2012-Nov-13 11:40:11.616544] :- ###----End of recursive add node----###  
+15:- [2012-Nov-13 11:40:11.616609] :- --- Child node  : BEG 
+16:- [2012-Nov-13 11:40:11.616674] :- --- Child node  : EG 
+17:- [2012-Nov-13 11:40:11.616738] :- --- Child node  : G 
+18:- [2012-Nov-13 11:40:11.616802] :- ---- Start recursive   
+19:- [2012-Nov-13 11:40:11.616864] :- ---- Start recursive node with data input  : BEG 
+20:- [2012-Nov-13 11:40:11.616927] :- ---- Start recursive node with Vertex input  : BCD 
+21:- [2012-Nov-13 11:40:11.616992] :- ---- Vertex root size  : 1 
+22:- [2012-Nov-13 11:40:11.617061] :- @@@ Node data size  : 2 
+23:- [2012-Nov-13 11:40:11.617128] :- *** Node last contain data  : D 
+24:- [2012-Nov-13 11:40:11.617191] :- *** Node last contain data in size  : 1 
+25:- [2012-Nov-13 11:40:11.617254] :- *** Node data add to tail  : EG 
+26:- [2012-Nov-13 11:40:11.617318] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 12:01:40.170677] :- --- Child node  : BCD 
+1:- [2012-Nov-13 12:01:40.170912] :- --- Child node  : CD 
+2:- [2012-Nov-13 12:01:40.170980] :- --- Child node  : D 
+3:- [2012-Nov-13 12:01:40.171046] :- --- Child node  : BEF 
+4:- [2012-Nov-13 12:01:40.171107] :- --- Child node  : EF 
+5:- [2012-Nov-13 12:01:40.171166] :- --- Child node  : F 
+6:- [2012-Nov-13 12:01:40.171224] :- ---- Start recursive   
+7:- [2012-Nov-13 12:01:40.171281] :- ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-13 12:01:40.171341] :- ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-13 12:01:40.171407] :- ---- Vertex root size  : 1 
+10:- [2012-Nov-13 12:01:40.171468] :- *** Node last contain data  : D 
+11:- [2012-Nov-13 12:01:40.171526] :- *** Node last contain data in size  : 0 
+12:- [2012-Nov-13 12:01:40.171581] :- *** Node data add to tail  : EF 
+13:- [2012-Nov-13 12:01:40.171642] :- ###----End of recursive add node----###  
+14:- [2012-Nov-13 12:01:40.171706] :- --- Child node  : BEG 
+15:- [2012-Nov-13 12:01:40.171764] :- --- Child node  : EG 
+16:- [2012-Nov-13 12:01:40.171821] :- --- Child node  : G 
+17:- [2012-Nov-13 12:01:40.171878] :- ---- Start recursive   
+18:- [2012-Nov-13 12:01:40.171934] :- ---- Start recursive node with data input  : BEG 
+19:- [2012-Nov-13 12:01:40.171990] :- ---- Start recursive node with Vertex input  : BCD 
+20:- [2012-Nov-13 12:01:40.172048] :- ---- Vertex root size  : 1 
+21:- [2012-Nov-13 12:01:40.172107] :- *** Node last contain data  : D 
+22:- [2012-Nov-13 12:01:40.172165] :- *** Node last contain data in size  : 0 
+23:- [2012-Nov-13 12:01:40.172223] :- *** Node data add to tail  : EG 
+24:- [2012-Nov-13 12:01:40.172281] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 12:03:32.760072] :- --- Child node  : BCD 
+1:- [2012-Nov-13 12:03:32.760310] :- --- Child node  : CD 
+2:- [2012-Nov-13 12:03:32.760377] :- --- Child node  : D 
+3:- [2012-Nov-13 12:03:32.760438] :- --- Child node  : BEF 
+4:- [2012-Nov-13 12:03:32.760497] :- --- Child node  : EF 
+5:- [2012-Nov-13 12:03:32.760555] :- --- Child node  : F 
+6:- [2012-Nov-13 12:03:32.760612] :- ---- Start recursive   
+7:- [2012-Nov-13 12:03:32.760669] :- ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-13 12:03:32.760725] :- ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-13 12:03:32.760794] :- ---- Vertex root size  : 1 
+10:- [2012-Nov-13 12:03:32.760857] :- *** Node last contain data  : BCD 
+11:- [2012-Nov-13 12:03:32.760914] :- *** Node last contain data in size  : 1 
+12:- [2012-Nov-13 12:03:32.760971] :- *** Node data add to tail  : EF 
+13:- [2012-Nov-13 12:03:32.761038] :- ###----End of recursive add node----###  
+14:- [2012-Nov-13 12:03:32.761101] :- --- Child node  : BEG 
+15:- [2012-Nov-13 12:03:32.761185] :- --- Child node  : EG 
+16:- [2012-Nov-13 12:03:32.761250] :- --- Child node  : G 
+17:- [2012-Nov-13 12:03:32.761313] :- ---- Start recursive   
+18:- [2012-Nov-13 12:03:32.761376] :- ---- Start recursive node with data input  : BEG 
+19:- [2012-Nov-13 12:03:32.761441] :- ---- Start recursive node with Vertex input  : BCD 
+20:- [2012-Nov-13 12:03:32.761507] :- ---- Vertex root size  : 1 
+21:- [2012-Nov-13 12:03:32.761573] :- *** Node last contain data  : BCD 
+22:- [2012-Nov-13 12:03:32.761640] :- *** Node last contain data in size  : 1 
+23:- [2012-Nov-13 12:03:32.761702] :- *** Node data add to tail  : EG 
+24:- [2012-Nov-13 12:03:32.761765] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 12:04:27.709776] :- --- Child node  : BCD 
+1:- [2012-Nov-13 12:04:27.710022] :- --- Child node  : CD 
+2:- [2012-Nov-13 12:04:27.710106] :- --- Child node  : D 
+3:- [2012-Nov-13 12:04:27.710178] :- --- Child node  : BEF 
+4:- [2012-Nov-13 12:04:27.710259] :- --- Child node  : EF 
+5:- [2012-Nov-13 12:04:27.710331] :- --- Child node  : F 
+6:- [2012-Nov-13 12:04:27.710399] :- ---- Start recursive   
+7:- [2012-Nov-13 12:04:27.710466] :- ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-13 12:04:27.710533] :- ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-13 12:04:27.710613] :- ---- Vertex root size  : 1 
+10:- [2012-Nov-13 12:04:27.710683] :- *** Node last contain data  : BCD 
+11:- [2012-Nov-13 12:04:27.710750] :- *** Node last contain data in size  : 1 
+12:- [2012-Nov-13 12:04:27.710815] :- *** Node data add to tail  : EF 
+13:- [2012-Nov-13 12:04:27.710881] :- ###----End of recursive add node----###  
+14:- [2012-Nov-13 12:04:27.710947] :- --- Child node  : BEG 
+15:- [2012-Nov-13 12:04:27.711014] :- --- Child node  : EG 
+16:- [2012-Nov-13 12:04:27.711084] :- --- Child node  : G 
+17:- [2012-Nov-13 12:04:27.711155] :- ---- Start recursive   
+18:- [2012-Nov-13 12:04:27.711219] :- ---- Start recursive node with data input  : BEG 
+19:- [2012-Nov-13 12:04:27.711285] :- ---- Start recursive node with Vertex input  : BCD 
+20:- [2012-Nov-13 12:04:27.711351] :- ---- Vertex root size  : 1 
+21:- [2012-Nov-13 12:04:27.711422] :- *** Node last contain data  : BCD 
+22:- [2012-Nov-13 12:04:27.711488] :- *** Node last contain data in size  : 1 
+23:- [2012-Nov-13 12:04:27.711553] :- *** Node data add to tail  : EG 
+24:- [2012-Nov-13 12:04:27.711621] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 12:06:54.678559] :- --- Child node  : BCD 
+1:- [2012-Nov-13 12:06:54.678800] :- --- Child node  : CD 
+2:- [2012-Nov-13 12:06:54.678901] :- --- Child node  : D 
+3:- [2012-Nov-13 12:06:54.678988] :- --- Child node  : BEF 
+4:- [2012-Nov-13 12:06:54.679076] :- --- Child node  : EF 
+5:- [2012-Nov-13 12:06:54.679159] :- --- Child node  : F 
+6:- [2012-Nov-13 12:06:54.679242] :- ### ---- Start recursive ---- ### 
+7:- [2012-Nov-13 12:06:54.679325] :- ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-13 12:06:54.679404] :- ---- Start recursive node with Vertex input  : BCD 
+9:- [2012-Nov-13 12:06:54.679478] :- ---- Vertex root size  : 1 
+10:- [2012-Nov-13 12:06:54.679562] :- *** Node last contain data  : BCD 
+11:- [2012-Nov-13 12:06:54.679628] :- *** Node last contain data in size  : 1 
+12:- [2012-Nov-13 12:06:54.679693] :- *** Node data add to tail  : EF 
+13:- [2012-Nov-13 12:06:54.679760] :- ###----End of recursive add node----###  
+14:- [2012-Nov-13 12:06:54.679826] :- --- Child node  : BEG 
+15:- [2012-Nov-13 12:06:54.679897] :- --- Child node  : EG 
+16:- [2012-Nov-13 12:06:54.679966] :- --- Child node  : G 
+17:- [2012-Nov-13 12:06:54.680032] :- ### ---- Start recursive ---- ### 
+18:- [2012-Nov-13 12:06:54.680095] :- ---- Start recursive node with data input  : BEG 
+19:- [2012-Nov-13 12:06:54.680160] :- ---- Start recursive node with Vertex input  : BCD 
+20:- [2012-Nov-13 12:06:54.680234] :- ---- Vertex root size  : 1 
+21:- [2012-Nov-13 12:06:54.680323] :- *** Node last contain data  : BCD 
+22:- [2012-Nov-13 12:06:54.680392] :- *** Node last contain data in size  : 1 
+23:- [2012-Nov-13 12:06:54.680456] :- *** Node data add to tail  : EG 
+24:- [2012-Nov-13 12:06:54.680522] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 12:25:35.858665] :- --- Child node  : BCD 
+1:- [2012-Nov-13 12:25:35.858915] :- --- Child node  : CD 
+2:- [2012-Nov-13 12:25:35.858982] :- --- Child node  : D 
+3:- [2012-Nov-13 12:25:35.859043] :- --- Child node  : BEF 
+4:- [2012-Nov-13 12:25:35.859100] :- --- Child node  : EF 
+5:- [2012-Nov-13 12:25:35.859158] :- --- Child node  : F 
+6:- [2012-Nov-13 12:25:35.859214] :- ### ---- Start recursive ---- ### 
+7:- [2012-Nov-13 12:25:35.859269] :- ---- Start recursive node with data input  : BEF 
+0:- [2012-Nov-13 12:26:18.926031] :- --- Child node  : BCD 
+1:- [2012-Nov-13 12:26:18.926299] :- --- Child node  : CD 
+2:- [2012-Nov-13 12:26:18.926365] :- --- Child node  : D 
+3:- [2012-Nov-13 12:26:18.926425] :- --- Child node  : BEF 
+4:- [2012-Nov-13 12:26:18.926482] :- --- Child node  : EF 
+5:- [2012-Nov-13 12:26:18.926539] :- --- Child node  : F 
+6:- [2012-Nov-13 12:26:18.926595] :- ### ---- Start recursive ---- ### 
+7:- [2012-Nov-13 12:26:18.926651] :- ---- Start recursive node with data input  : BEF 
+0:- [2012-Nov-13 12:27:24.895049] :- --- Child node  : BCD 
+1:- [2012-Nov-13 12:27:24.895286] :- --- Child node  : CD 
+2:- [2012-Nov-13 12:27:24.895365] :- --- Child node  : D 
+3:- [2012-Nov-13 12:27:24.895443] :- --- Child node  : BEF 
+4:- [2012-Nov-13 12:27:24.895511] :- --- Child node  : EF 
+5:- [2012-Nov-13 12:27:24.895583] :- --- Child node  : F 
+6:- [2012-Nov-13 12:27:24.895652] :- ### ---- Start recursive ---- ### 
+7:- [2012-Nov-13 12:27:24.895720] :- ---- Start recursive node with data input  : BEF 
+8:- [2012-Nov-13 12:27:24.895792] :- ---- Start recursive node with Vertex input  : ABCD 
+9:- [2012-Nov-13 12:27:24.895868] :- ---- Vertex root size  : 0 
+10:- [2012-Nov-13 12:27:24.895948] :- ###----End of recursive add node----###  
+11:- [2012-Nov-13 12:27:24.896019] :- --- Child node  : BEG 
+12:- [2012-Nov-13 12:27:24.896087] :- --- Child node  : EG 
+13:- [2012-Nov-13 12:27:24.896154] :- --- Child node  : G 
+14:- [2012-Nov-13 12:27:24.896221] :- ### ---- Start recursive ---- ### 
+15:- [2012-Nov-13 12:27:24.896287] :- ---- Start recursive node with data input  : BEG 
+16:- [2012-Nov-13 12:27:24.896358] :- ---- Start recursive node with Vertex input  : ABCD 
+17:- [2012-Nov-13 12:27:24.896429] :- ---- Vertex root size  : 0 
+18:- [2012-Nov-13 12:27:24.896496] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 12:29:59.899809] :- --- Child node  : BCD 
+1:- [2012-Nov-13 12:29:59.900042] :- --- Child node  : CD 
+2:- [2012-Nov-13 12:29:59.900129] :- --- Child node  : D 
+3:- [2012-Nov-13 12:29:59.900204] :- --- Child node  : BEF 
+4:- [2012-Nov-13 12:29:59.900276] :- --- Child node  : EF 
+5:- [2012-Nov-13 12:29:59.900347] :- --- Child node  : F 
+6:- [2012-Nov-13 12:29:59.900416] :- ### ---- Start recursive ---- ### 
+7:- [2012-Nov-13 12:29:59.900484] :- ---- Start recursive node with data input  : BEF 
+0:- [2012-Nov-13 12:45:35.616161] :- Create root element  : ABCD 
+1:- [2012-Nov-13 12:45:35.616396] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 12:45:35.616464] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 12:45:35.616525] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 12:45:35.616585] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 12:45:35.616642] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 12:45:35.616699] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 12:45:35.616756] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 12:45:35.616814] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 12:45:35.616870] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 12:45:35.616931] :- ---- Start recursive node with Vertex input  : ABCD 
+11:- [2012-Nov-13 12:45:35.616995] :- ---- Vertex root size  : 0 
+12:- [2012-Nov-13 12:45:35.617053] :- ###----End of recursive add node----###  
+13:- [2012-Nov-13 12:45:35.617120] :- Create temp element  : ABEG 
+14:- [2012-Nov-13 12:45:35.617185] :- @@@ Create Child node  : BEG 
+15:- [2012-Nov-13 12:45:35.617247] :- @@@ Create Child node  : EG 
+16:- [2012-Nov-13 12:45:35.617303] :- @@@ Create Child node  : G 
+17:- [2012-Nov-13 12:45:35.617359] :- ### ---- Start recursive ---- ### 
+18:- [2012-Nov-13 12:45:35.617414] :- ---- Start recursive node with data input  : BEG 
+19:- [2012-Nov-13 12:45:35.617470] :- ---- Start recursive node with Vertex input  : ABCD 
+20:- [2012-Nov-13 12:45:35.617525] :- ---- Vertex root size  : 0 
+21:- [2012-Nov-13 12:45:35.617581] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 12:46:10.892515] :- Create root element  : ABCD 
+1:- [2012-Nov-13 12:46:10.892747] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 12:46:10.892815] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 12:46:10.892875] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 12:46:10.892935] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 12:46:10.892992] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 12:46:10.893050] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 12:46:10.893108] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 12:46:10.893165] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 12:46:10.893225] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 12:46:10.893287] :- ---- Start recursive node with Vertex input  : ABCD 
+11:- [2012-Nov-13 12:46:10.893350] :- ---- Vertex root size  : 0 
+12:- [2012-Nov-13 12:46:10.893410] :- ###----End of recursive add node----###  
+13:- [2012-Nov-13 12:46:10.893468] :- Create temp element  : ABEG 
+14:- [2012-Nov-13 12:46:10.893533] :- @@@ Create Child node  : BEG 
+15:- [2012-Nov-13 12:46:10.893590] :- @@@ Create Child node  : EG 
+16:- [2012-Nov-13 12:46:10.893647] :- @@@ Create Child node  : G 
+17:- [2012-Nov-13 12:46:10.893704] :- ### ---- Start recursive ---- ### 
+18:- [2012-Nov-13 12:46:10.893760] :- ---- Start recursive node with data input  : BEG 
+19:- [2012-Nov-13 12:46:10.893815] :- ---- Start recursive node with Vertex input  : ABCD 
+20:- [2012-Nov-13 12:46:10.893872] :- ---- Vertex root size  : 0 
+21:- [2012-Nov-13 12:46:10.893929] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 12:47:35.760098] :- Create root element  : ABCD 
+1:- [2012-Nov-13 12:47:35.760330] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 12:47:35.760398] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 12:47:35.760459] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 12:47:35.760520] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 12:47:35.760578] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 12:47:35.760637] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 12:47:35.760696] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 12:47:35.760753] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 12:47:35.760811] :- ---- Start recursive node with data input  : BEF 
+0:- [2012-Nov-13 12:49:58.593520] :- Create root element  : ABCD 
+1:- [2012-Nov-13 12:49:58.593757] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 12:49:58.593850] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 12:49:58.593938] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 12:49:58.594028] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 12:49:58.594108] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 12:49:58.594191] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 12:49:58.594283] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 12:49:58.594362] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 12:49:58.594428] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 12:49:58.594499] :- ---- Start recursive node with Vertex input  : ABCD 
+11:- [2012-Nov-13 12:49:58.594573] :- ---- Vertex root size  : 0 
+0:- [2012-Nov-13 12:51:36.431927] :- Create root element  : ABCD 
+1:- [2012-Nov-13 12:51:36.432164] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 12:51:36.432273] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 12:51:36.432377] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 12:51:36.432481] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 12:51:36.432589] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 12:51:36.432693] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 12:51:36.432796] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 12:51:36.432896] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 12:51:36.432984] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 12:51:36.433077] :- ---- Start recursive node with Vertex input  : ABCD 
+11:- [2012-Nov-13 12:51:36.433194] :- ---- Vertex root size  : 0 
+0:- [2012-Nov-13 12:52:15.458646] :- Create root element  : ABCD 
+1:- [2012-Nov-13 12:52:15.458885] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 12:52:15.458963] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 12:52:15.459041] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 12:52:15.459113] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 12:52:15.459180] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 12:52:15.459248] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 12:52:15.459316] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 12:52:15.459383] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 12:52:15.459448] :- ---- Start recursive node with data input  : BEF 
+0:- [2012-Nov-13 12:52:43.925060] :- Create root element  : ABCD 
+1:- [2012-Nov-13 12:52:43.925299] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 12:52:43.925394] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 12:52:43.925484] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 12:52:43.925570] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 12:52:43.925650] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 12:52:43.925733] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 12:52:43.925819] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 12:52:43.925894] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 12:52:43.925959] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 12:52:43.926031] :- ---- Start recursive node with Vertex input  : ABCD 
+11:- [2012-Nov-13 12:52:43.926103] :- ---- Vertex root size  : 0 
+12:- [2012-Nov-13 12:52:43.926168] :- ###----End of recursive add node----###  
+13:- [2012-Nov-13 12:52:43.926244] :- Create temp element  : ABEG 
+14:- [2012-Nov-13 12:52:43.926310] :- @@@ Create Child node  : BEG 
+15:- [2012-Nov-13 12:52:43.926379] :- @@@ Create Child node  : EG 
+16:- [2012-Nov-13 12:52:43.926445] :- @@@ Create Child node  : G 
+17:- [2012-Nov-13 12:52:43.926510] :- ### ---- Start recursive ---- ### 
+18:- [2012-Nov-13 12:52:43.926573] :- ---- Start recursive node with data input  : BEG 
+19:- [2012-Nov-13 12:52:43.926637] :- ---- Start recursive node with Vertex input  : ABCD 
+20:- [2012-Nov-13 12:52:43.926701] :- ---- Vertex root size  : 0 
+21:- [2012-Nov-13 12:52:43.926774] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 12:54:01.531389] :- Create root element  : ABCD 
+1:- [2012-Nov-13 12:54:01.531628] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 12:54:01.531706] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 12:54:01.531778] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 12:54:01.531847] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 12:54:01.531912] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 12:54:01.531979] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 12:54:01.532046] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 12:54:01.532110] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 12:54:01.532174] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 12:54:01.532246] :- ---- Start recursive node with Vertex input  : ABCD 
+11:- [2012-Nov-13 12:54:01.532331] :- ---- Vertex root size  : 0 
+0:- [2012-Nov-13 12:55:02.170933] :- Create root element  : ABCD 
+1:- [2012-Nov-13 12:55:02.171169] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 12:55:02.171276] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 12:55:02.171378] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 12:55:02.171461] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 12:55:02.171526] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 12:55:02.171608] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 12:55:02.171675] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 12:55:02.171739] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 12:55:02.171802] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 12:55:02.171869] :- ---- Start recursive node with Vertex input  : ABCD 
+11:- [2012-Nov-13 12:55:02.171938] :- ---- Vertex root size  : 0 
+12:- [2012-Nov-13 12:55:02.172002] :- ###----End of recursive add node----###  
+13:- [2012-Nov-13 12:55:02.172064] :- Create temp element  : ABEG 
+14:- [2012-Nov-13 12:55:02.172126] :- @@@ Create Child node  : BEG 
+15:- [2012-Nov-13 12:55:02.172198] :- @@@ Create Child node  : EG 
+16:- [2012-Nov-13 12:55:02.172261] :- @@@ Create Child node  : G 
+17:- [2012-Nov-13 12:55:02.172323] :- ### ---- Start recursive ---- ### 
+18:- [2012-Nov-13 12:55:02.172383] :- ---- Start recursive node with data input  : BEG 
+19:- [2012-Nov-13 12:55:02.172445] :- ---- Start recursive node with Vertex input  : ABCD 
+20:- [2012-Nov-13 12:55:02.172507] :- ---- Vertex root size  : 0 
+21:- [2012-Nov-13 12:55:02.172568] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 12:55:39.323925] :- Create root element  : ABCD 
+1:- [2012-Nov-13 12:55:39.324162] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 12:55:39.324271] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 12:55:39.324377] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 12:55:39.324480] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 12:55:39.324583] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 12:55:39.324685] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 12:55:39.324775] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 12:55:39.324865] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 12:55:39.324953] :- ---- Start recursive node with data input  : BEF 
+0:- [2012-Nov-13 12:58:06.903008] :- Create root element  : ABCD 
+1:- [2012-Nov-13 12:58:06.903241] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 12:58:06.903313] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 12:58:06.903375] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 12:58:06.903447] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 12:58:06.903505] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 12:58:06.903564] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 12:58:06.903622] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 12:58:06.903680] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 12:58:06.903741] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 12:58:06.903803] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 12:58:06.903869] :- ---- Vertex root size  : 1 
+0:- [2012-Nov-13 12:58:21.406329] :- Create root element  : ABCD 
+1:- [2012-Nov-13 12:58:21.406565] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 12:58:21.406633] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 12:58:21.406693] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 12:58:21.406752] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 12:58:21.406809] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 12:58:21.406867] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 12:58:21.406924] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 12:58:21.406981] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 12:58:21.407041] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 12:58:21.407108] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 12:58:21.407172] :- ---- Vertex root size  : 1 
+0:- [2012-Nov-13 13:01:23.198976] :- Create root element  : ABCD 
+1:- [2012-Nov-13 13:01:23.199704] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 13:01:23.199880] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 13:01:23.199976] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 13:01:23.200071] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 13:01:23.200167] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 13:01:23.200252] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 13:01:23.200336] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 13:01:23.200418] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 13:01:23.200530] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 13:01:23.200616] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 13:01:23.200691] :- ---- Vertex root size  : 1 
+0:- [2012-Nov-13 13:02:32.455357] :- Create root element  : ABCD 
+1:- [2012-Nov-13 13:02:32.455880] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 13:02:32.455999] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 13:02:32.456074] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 13:02:32.456145] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 13:02:32.456226] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 13:02:32.456296] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 13:02:32.456376] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 13:02:32.456442] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 13:02:32.456517] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 13:02:32.456587] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 13:02:32.456671] :- ---- Vertex root size  : 1 
+12:- [2012-Nov-13 13:02:32.456764] :- ---- Vertex branch data  : BCD 
+0:- [2012-Nov-13 13:03:46.932280] :- Create root element  : ABCD 
+1:- [2012-Nov-13 13:03:46.932516] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 13:03:46.932585] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 13:03:46.932646] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 13:03:46.932707] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 13:03:46.932765] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 13:03:46.932823] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 13:03:46.932882] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 13:03:46.932940] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 13:03:46.932998] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 13:03:46.933061] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 13:03:46.933127] :- ---- Vertex root size  : 1 
+12:- [2012-Nov-13 13:03:46.933187] :- ---- Vertex branch data  : BCD 
+0:- [2012-Nov-13 13:04:31.393279] :- Create root element  : ABCD 
+1:- [2012-Nov-13 13:04:31.393521] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 13:04:31.393632] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 13:04:31.393738] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 13:04:31.393843] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 13:04:31.393947] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 13:04:31.394051] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 13:04:31.394153] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 13:04:31.394257] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 13:04:31.394358] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 13:04:31.394489] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 13:04:31.394587] :- ---- Vertex root size  : 1 
+12:- [2012-Nov-13 13:04:32.931427] :- ---- Vertex branch data  : BCD 
+0:- [2012-Nov-13 13:06:47.268046] :- Create root element  : ABCD 
+1:- [2012-Nov-13 13:06:47.268275] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 13:06:47.268391] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 13:06:47.268497] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 13:06:47.268596] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 13:06:47.268697] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 13:06:47.268798] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 13:06:47.268888] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 13:06:47.268977] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 13:06:47.269062] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 13:06:47.269182] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 13:06:47.269281] :- ---- Vertex root size  : 1 
+12:- [2012-Nov-13 13:06:47.269370] :- ---- Vertex branch data  : BCD 
+13:- [2012-Nov-13 13:06:47.269458] :-  --- While loop : vertex branch  : BCD 
+0:- [2012-Nov-13 13:53:37.644467] :- Create root element  : ABCD 
+1:- [2012-Nov-13 13:53:37.644719] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 13:53:37.644785] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 13:53:37.644845] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 13:53:37.644902] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 13:53:37.644959] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 13:53:37.645016] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 13:53:37.645072] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 13:53:37.645127] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 13:53:37.645182] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 13:53:37.645243] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 13:53:37.645305] :- ---- Vertex root size  : 1 
+12:- [2012-Nov-13 13:53:37.645362] :- ---- Vertex branch data  : BCD 
+13:- [2012-Nov-13 13:53:37.645416] :-  --- While loop : vertex branch  : BCD 
+0:- [2012-Nov-13 13:58:47.801221] :- Create root element  : ABCD 
+1:- [2012-Nov-13 13:58:47.801513] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 13:58:47.801582] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 13:58:47.801642] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 13:58:47.801701] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 13:58:47.801763] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 13:58:47.801847] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 13:58:47.801913] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 13:58:47.801978] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 13:58:47.802041] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 13:58:47.802119] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 13:58:47.802193] :- ---- Vertex root size  : 1 
+12:- [2012-Nov-13 13:58:47.802273] :- ---- Vertex branch data  : BCD 
+13:- [2012-Nov-13 13:58:47.802338] :-  --- While loop : vertex branch  : BCD 
+0:- [2012-Nov-13 14:01:01.003482] :- Create root element  : ABCD 
+1:- [2012-Nov-13 14:01:01.004387] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 14:01:01.004457] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 14:01:01.004518] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 14:01:01.004582] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 14:01:01.004679] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 14:01:01.004740] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 14:01:01.004797] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 14:01:01.004853] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 14:01:01.004909] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 14:01:01.004972] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 14:01:01.005037] :- ---- Vertex root size  : 1 
+12:- [2012-Nov-13 14:01:01.005094] :- ---- Vertex branch data  : BCD 
+13:- [2012-Nov-13 14:01:01.005148] :-  --- While loop : vertex branch  : BCD 
+0:- [2012-Nov-13 14:01:23.574943] :- Create root element  : ABCD 
+1:- [2012-Nov-13 14:01:23.575183] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 14:01:23.575254] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 14:01:23.575316] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 14:01:23.575374] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 14:01:23.575432] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 14:01:23.575489] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 14:01:23.575546] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 14:01:23.575604] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 14:01:23.575659] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 14:01:23.575721] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 14:01:23.575787] :- ---- Vertex root size  : 1 
+12:- [2012-Nov-13 14:01:23.575858] :- ---- Vertex branch data  : BCD 
+13:- [2012-Nov-13 14:01:23.575914] :-  --- While loop : vertex branch  : BCD 
+0:- [2012-Nov-13 14:02:58.668362] :- Create root element  : ABCD 
+1:- [2012-Nov-13 14:02:58.668602] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 14:02:58.668696] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 14:02:58.668798] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 14:02:58.668867] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 14:02:58.668935] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 14:02:58.669001] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 14:02:58.669067] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 14:02:58.669131] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 14:02:58.669194] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 14:02:58.669265] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 14:02:58.669338] :- ---- Vertex root size  : 1 
+12:- [2012-Nov-13 14:02:58.669402] :- ---- Vertex branch data  : BCD 
+13:- [2012-Nov-13 14:02:58.669465] :-  --- While loop : vertex branch  : BCD 
+14:- [2012-Nov-13 14:02:58.669532] :-  --- While loop : vertex branch  : CD 
+15:- [2012-Nov-13 14:02:58.669614] :-  --- While loop : vertex branch  : €T× 
+0:- [2012-Nov-13 14:03:12.509356] :- Create root element  : ABCD 
+1:- [2012-Nov-13 14:03:12.509635] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 14:03:12.509710] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 14:03:12.509777] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 14:03:12.509879] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 14:03:12.509947] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 14:03:12.510016] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 14:03:12.510081] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 14:03:12.510145] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 14:03:12.510207] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 14:03:12.510292] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 14:03:12.510366] :- ---- Vertex root size  : 1 
+12:- [2012-Nov-13 14:03:12.510431] :- ---- Vertex branch data  : BCD 
+13:- [2012-Nov-13 14:03:12.510493] :-  --- While loop : vertex branch  : BCD 
+14:- [2012-Nov-13 14:03:12.510559] :-  --- While loop : vertex branch  : CD 
+15:- [2012-Nov-13 14:03:12.510637] :-  --- While loop : vertex branch  : €äø 
+0:- [2012-Nov-13 14:04:42.923173] :- Create root element  : ABCD 
+1:- [2012-Nov-13 14:04:42.923422] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 14:04:42.923501] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 14:04:42.923567] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 14:04:42.923662] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 14:04:42.923734] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 14:04:42.923801] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 14:04:42.923867] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 14:04:42.923930] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 14:04:42.923992] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 14:04:42.924062] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 14:04:42.924133] :- ---- Vertex root size  : 1 
+12:- [2012-Nov-13 14:04:42.924197] :- ---- Vertex branch data  : BCD 
+13:- [2012-Nov-13 14:04:42.924262] :-  --- While loop : vertex branch  : BCD 
+14:- [2012-Nov-13 14:04:42.924326] :-  --- While loop : vertex branch  : CD 
+15:- [2012-Nov-13 14:04:42.924388] :- Vertex branch  : D 
+16:- [2012-Nov-13 14:04:42.924450] :-  --- While loop : vertex branch  : €Tt 
+0:- [2012-Nov-13 14:06:59.498679] :- Create root element  : ABCD 
+1:- [2012-Nov-13 14:06:59.498933] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 14:06:59.499001] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 14:06:59.499060] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 14:06:59.499120] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 14:06:59.499186] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 14:06:59.499248] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 14:06:59.499305] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 14:06:59.499361] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 14:06:59.499422] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 14:06:59.499483] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 14:06:59.499547] :- ---- Vertex root size  : 1 
+12:- [2012-Nov-13 14:06:59.499611] :- ---- Vertex branch data  : BCD 
+13:- [2012-Nov-13 14:06:59.499667] :-  --- While loop : vertex branch  : BCD 
+14:- [2012-Nov-13 14:06:59.499725] :-  --- While loop : vertex branch  : CD 
+15:- [2012-Nov-13 14:06:59.499783] :- Vertex branch  : D 
+16:- [2012-Nov-13 14:06:59.499840] :-  --- While loop : vertex branch  : €4¦ 
+0:- [2012-Nov-13 14:07:21.128174] :- Create root element  : ABCD 
+1:- [2012-Nov-13 14:07:21.128416] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 14:07:21.128484] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 14:07:21.128545] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 14:07:21.128604] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 14:07:21.128661] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 14:07:21.128718] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 14:07:21.128774] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 14:07:21.128831] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 14:07:21.128887] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 14:07:21.128949] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 14:07:21.129021] :- ---- Vertex root size  : 1 
+12:- [2012-Nov-13 14:07:21.129086] :- ---- Vertex branch data  : BCD 
+13:- [2012-Nov-13 14:07:21.129141] :-  --- While loop : vertex branch  : BCD 
+14:- [2012-Nov-13 14:07:21.129199] :-  --- While loop : vertex branch  : CD 
+15:- [2012-Nov-13 14:07:21.129255] :- Vertex branch  : D 
+16:- [2012-Nov-13 14:07:21.129310] :-  --- While loop : vertex branch  : €Ôa 
+0:- [2012-Nov-13 14:10:41.006365] :- Create root element  : ABCD 
+1:- [2012-Nov-13 14:10:41.006646] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 14:10:41.006751] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 14:10:41.006854] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 14:10:41.006941] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 14:10:41.007031] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 14:10:41.007120] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 14:10:41.007213] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 14:10:41.007303] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 14:10:41.007390] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 14:10:41.007487] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 14:10:41.007624] :- ---- Vertex root size  : 1 
+12:- [2012-Nov-13 14:10:41.007817] :- ---- Vertex branch data  : BCD 
+13:- [2012-Nov-13 14:10:41.007940] :-  --- While loop : vertex branch  : BCD 
+14:- [2012-Nov-13 14:10:41.008052] :-  --- While loop : vertex branch  : CD 
+15:- [2012-Nov-13 14:10:44.284894] :- Vertex branch  : D 
+16:- [2012-Nov-13 14:11:01.974756] :-  --- While loop : vertex branch  : @j 
+0:- [2012-Nov-13 14:15:39.825769] :- Create root element  : ABCD 
+1:- [2012-Nov-13 14:15:39.826009] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 14:15:39.826093] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 14:15:39.826159] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 14:15:39.826236] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 14:15:39.826319] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 14:15:39.826385] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 14:15:39.826449] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 14:15:39.826511] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 14:15:39.826572] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 14:15:39.826641] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 14:15:39.826712] :- ---- Vertex root size  : 1 
+12:- [2012-Nov-13 14:15:39.826775] :- ---- Vertex branch data  : BCD 
+13:- [2012-Nov-13 14:15:39.826841] :-  --- While loop : vertex branch  : BCD 
+14:- [2012-Nov-13 14:15:39.826907] :- ### Node data  : EF 
+15:- [2012-Nov-13 14:15:39.826969] :- ### Vertex branch  : CD 
+16:- [2012-Nov-13 14:15:39.827030] :-  --- While loop : vertex branch  : CD 
+17:- [2012-Nov-13 14:15:39.827092] :- Vertex branch  : D 
+0:- [2012-Nov-13 14:18:22.335890] :- Create root element  : ABCD 
+1:- [2012-Nov-13 14:18:22.336153] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 14:18:22.336221] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 14:18:22.336284] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 14:18:22.336342] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 14:18:22.336399] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 14:18:22.336455] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 14:18:22.336512] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 14:18:22.336569] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 14:18:22.336625] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 14:18:22.336685] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 14:18:22.336762] :- ---- Vertex root size  : 1 
+12:- [2012-Nov-13 14:18:22.336826] :- ---- Vertex branch data  : BCD 
+13:- [2012-Nov-13 14:18:22.336889] :-  --- While loop : vertex branch  : BCD 
+14:- [2012-Nov-13 14:18:22.336956] :- ### Node data  : EF 
+15:- [2012-Nov-13 14:18:22.337011] :- ### Vertex branch  : CD 
+16:- [2012-Nov-13 14:18:22.337066] :-  --- While loop : vertex branch  : CD 
+17:- [2012-Nov-13 14:18:22.337121] :- Vertex branch  : D 
+0:- [2012-Nov-13 14:19:27.733341] :- Create root element  : ABCD 
+1:- [2012-Nov-13 14:19:27.733577] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 14:19:27.733646] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 14:19:27.733709] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 14:19:27.733769] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 14:19:27.733827] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 14:19:27.733884] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 14:19:27.733941] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 14:19:27.733998] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 14:19:27.734055] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 14:19:27.734117] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 14:19:27.734180] :- ---- Vertex root size  : 1 
+12:- [2012-Nov-13 14:19:27.734271] :- ---- Vertex branch data  : BCD 
+13:- [2012-Nov-13 14:19:27.734341] :- @@@ Node data  : EF 
+14:- [2012-Nov-13 14:19:27.734398] :- @@@ Vertex branch  : CD 
+0:- [2012-Nov-13 14:19:39.926692] :- Create root element  : ABCD 
+1:- [2012-Nov-13 14:19:39.926936] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 14:19:39.927003] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 14:19:39.927067] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 14:19:39.927126] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 14:19:39.927182] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 14:19:39.927239] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 14:19:39.927296] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 14:19:39.927352] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 14:19:39.927407] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 14:19:39.927469] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 14:19:39.927533] :- ---- Vertex root size  : 1 
+12:- [2012-Nov-13 14:19:39.927594] :- ---- Vertex branch data  : BCD 
+13:- [2012-Nov-13 14:19:39.927662] :- @@@ Node data  : EF 
+14:- [2012-Nov-13 14:19:39.927717] :- @@@ Vertex branch  : CD 
+0:- [2012-Nov-13 14:20:07.937774] :- Create root element  : ABCD 
+1:- [2012-Nov-13 14:20:07.938057] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 14:20:07.938162] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 14:20:07.938268] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 14:20:07.938376] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 14:20:07.938465] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 14:20:07.938551] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 14:20:07.938639] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 14:20:07.938724] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 14:20:07.938807] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 14:20:07.938903] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 14:20:07.939020] :- ---- Vertex root size  : 1 
+12:- [2012-Nov-13 14:20:07.939190] :- ---- Vertex branch data  : BCD 
+13:- [2012-Nov-13 14:20:07.939295] :- @@@ Node data  : EF 
+14:- [2012-Nov-13 14:20:07.939366] :- @@@ Vertex branch  : CD 
+0:- [2012-Nov-13 14:22:42.443423] :- Create root element  : ABCD 
+1:- [2012-Nov-13 14:22:42.443668] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 14:22:42.443747] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 14:22:42.443813] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 14:22:42.443871] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 14:22:42.443927] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 14:22:42.443986] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 14:22:42.444043] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 14:22:42.444098] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 14:22:42.444153] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 14:22:42.444214] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 14:22:42.444277] :- ---- Vertex root size  : 1 
+12:- [2012-Nov-13 14:22:42.444333] :- ---- Vertex branch data  : BCD 
+13:- [2012-Nov-13 14:22:42.444391] :- @@@ Node data  : EF 
+14:- [2012-Nov-13 14:22:42.444446] :- @@@ Vertex branch  : CD 
+15:- [2012-Nov-13 14:22:42.444519] :- *** Node last contain data  : BCD 
+16:- [2012-Nov-13 14:22:42.444582] :- *** Node last contain data in size  : 1 
+17:- [2012-Nov-13 14:22:42.444637] :- *** Node data add to tail  : àÚú 
+18:- [2012-Nov-13 14:22:42.444692] :- ###----End of recursive add node----###  
+19:- [2012-Nov-13 14:22:42.444749] :- Create temp element  : ABEG 
+20:- [2012-Nov-13 14:22:42.444803] :- @@@ Create Child node  : BEG 
+21:- [2012-Nov-13 14:22:42.444858] :- @@@ Create Child node  : EG 
+22:- [2012-Nov-13 14:22:42.444914] :- @@@ Create Child node  : G 
+23:- [2012-Nov-13 14:22:42.444969] :- ### ---- Start recursive ---- ### 
+24:- [2012-Nov-13 14:22:42.445023] :- ---- Start recursive node with data input  : BEG 
+25:- [2012-Nov-13 14:22:42.445079] :- ---- Start recursive node with Vertex input  : BCD 
+26:- [2012-Nov-13 14:22:42.445134] :- ---- Vertex root size  : 1 
+27:- [2012-Nov-13 14:22:42.445193] :- ---- Vertex branch data  : BCD 
+28:- [2012-Nov-13 14:22:42.445249] :- @@@ Node data  : EG 
+29:- [2012-Nov-13 14:22:42.445303] :- @@@ Vertex branch  : CD 
+0:- [2012-Nov-13 14:27:40.270047] :- Create root element  : ABCD 
+1:- [2012-Nov-13 14:27:40.270316] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 14:27:40.270400] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 14:27:40.270468] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 14:27:40.270535] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 14:27:40.270599] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 14:27:40.270662] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 14:27:40.270725] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 14:27:40.270789] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 14:27:40.270855] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 14:27:40.270922] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 14:27:40.270999] :- ---- Vertex root size  : 1 
+12:- [2012-Nov-13 14:27:40.271072] :- ---- Vertex branch data  : BCD 
+13:- [2012-Nov-13 14:27:40.271135] :- @@@ Node data  : EF 
+14:- [2012-Nov-13 14:27:40.271196] :- @@@ Vertex branch  : CD 
+15:- [2012-Nov-13 14:27:40.271260] :- --- Node data  : F 
+16:- [2012-Nov-13 14:27:40.271321] :- --- Vertex branch  : CD 
+17:- [2012-Nov-13 14:27:40.271383] :- --- Node data  :  ¾a 
+18:- [2012-Nov-13 14:27:40.271443] :- --- Vertex branch  :  
+19:- [2012-Nov-13 14:27:40.271504] :- *** Node last contain data  : BCD 
+20:- [2012-Nov-13 14:27:40.271567] :- *** Node last contain data in size  : 1 
+21:- [2012-Nov-13 14:27:40.271633] :- *** Node data add to tail  : 0½a 
+22:- [2012-Nov-13 14:27:40.271695] :- ###----End of recursive add node----###  
+23:- [2012-Nov-13 14:27:40.271757] :- Create temp element  : ABEG 
+24:- [2012-Nov-13 14:27:40.271819] :- @@@ Create Child node  : BEG 
+25:- [2012-Nov-13 14:27:40.271880] :- @@@ Create Child node  : EG 
+26:- [2012-Nov-13 14:27:40.271952] :- @@@ Create Child node  : G 
+27:- [2012-Nov-13 14:27:40.272015] :- ### ---- Start recursive ---- ### 
+28:- [2012-Nov-13 14:27:40.272076] :- ---- Start recursive node with data input  : BEG 
+29:- [2012-Nov-13 14:27:40.272137] :- ---- Start recursive node with Vertex input  : BCD 
+30:- [2012-Nov-13 14:27:40.272202] :- ---- Vertex root size  : 1 
+31:- [2012-Nov-13 14:27:40.272266] :- ---- Vertex branch data  : BCD 
+32:- [2012-Nov-13 14:27:40.272331] :- @@@ Node data  : EG 
+33:- [2012-Nov-13 14:27:40.272391] :- @@@ Vertex branch  : CD 
+34:- [2012-Nov-13 14:27:40.272457] :- --- Node data  : G 
+35:- [2012-Nov-13 14:27:40.272517] :- --- Vertex branch  : CD 
+0:- [2012-Nov-13 14:31:51.668215] :- Create root element  : ABCD 
+1:- [2012-Nov-13 14:31:51.668455] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 14:31:51.668538] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 14:31:51.668604] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 14:31:51.668672] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 14:31:51.668743] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 14:31:51.668813] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 14:31:51.668878] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 14:31:51.668941] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 14:31:51.669002] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 14:31:51.669070] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 14:31:51.669140] :- ---- Vertex root size  : 1 
+12:- [2012-Nov-13 14:31:51.669203] :- ---- Vertex branch data  : BCD 
+13:- [2012-Nov-13 14:31:51.669280] :- @@@ Node data  : EF 
+14:- [2012-Nov-13 14:31:51.669342] :- @@@ Vertex branch  : CD 
+15:- [2012-Nov-13 14:31:51.669403] :- $$$ vertex branch is null  
+16:- [2012-Nov-13 14:31:51.669466] :- *** Node last contain data  : BCD 
+17:- [2012-Nov-13 14:31:51.669528] :- *** Node last contain data in size  : 1 
+18:- [2012-Nov-13 14:31:51.669589] :- *** Node data add to tail  : EF 
+19:- [2012-Nov-13 14:31:51.669652] :- ###----End of recursive add node----###  
+20:- [2012-Nov-13 14:31:51.669715] :- Create temp element  : ABEG 
+21:- [2012-Nov-13 14:31:51.669776] :- @@@ Create Child node  : BEG 
+22:- [2012-Nov-13 14:31:51.669843] :- @@@ Create Child node  : EG 
+23:- [2012-Nov-13 14:31:51.669906] :- @@@ Create Child node  : G 
+24:- [2012-Nov-13 14:31:51.669968] :- ### ---- Start recursive ---- ### 
+25:- [2012-Nov-13 14:31:51.670029] :- ---- Start recursive node with data input  : BEG 
+26:- [2012-Nov-13 14:31:51.670089] :- ---- Start recursive node with Vertex input  : BCD 
+27:- [2012-Nov-13 14:31:51.670151] :- ---- Vertex root size  : 1 
+28:- [2012-Nov-13 14:31:51.670212] :- ---- Vertex branch data  : BCD 
+29:- [2012-Nov-13 14:31:51.670297] :- @@@ Node data  : EG 
+30:- [2012-Nov-13 14:31:51.670360] :- @@@ Vertex branch  : CD 
+31:- [2012-Nov-13 14:31:51.670423] :- $$$ vertex branch is null  
+32:- [2012-Nov-13 14:31:51.670489] :- *** Node last contain data  : BCD 
+33:- [2012-Nov-13 14:31:51.670550] :- *** Node last contain data in size  : 1 
+34:- [2012-Nov-13 14:31:51.670613] :- *** Node data add to tail  : EG 
+35:- [2012-Nov-13 14:31:51.670674] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 14:34:32.344425] :- Create root element  : ABCD 
+1:- [2012-Nov-13 14:34:32.344677] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 14:34:32.344743] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 14:34:32.344803] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 14:34:32.344862] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 14:34:32.344918] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 14:34:32.344975] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 14:34:32.345032] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 14:34:32.345089] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 14:34:32.345145] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 14:34:32.345206] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 14:34:32.345264] :- ---- Vertex branch data  : BCD 
+12:- [2012-Nov-13 14:34:32.345333] :- @@@ Node data  : EF 
+13:- [2012-Nov-13 14:34:32.345389] :- @@@ Vertex branch  : CD 
+14:- [2012-Nov-13 14:34:32.345450] :- *** Node last contain data  : BCD 
+15:- [2012-Nov-13 14:34:32.345524] :- *** Node last contain data in size  : 1 
+16:- [2012-Nov-13 14:34:32.345583] :- *** Node data add to tail  : EF 
+17:- [2012-Nov-13 14:34:32.345642] :- ###----End of recursive add node----###  
+18:- [2012-Nov-13 14:34:32.345698] :- Create temp element  : ABEG 
+19:- [2012-Nov-13 14:34:32.345754] :- @@@ Create Child node  : BEG 
+20:- [2012-Nov-13 14:34:32.345810] :- @@@ Create Child node  : EG 
+21:- [2012-Nov-13 14:34:32.345865] :- @@@ Create Child node  : G 
+22:- [2012-Nov-13 14:34:32.345921] :- ### ---- Start recursive ---- ### 
+23:- [2012-Nov-13 14:34:32.345977] :- ---- Start recursive node with data input  : BEG 
+24:- [2012-Nov-13 14:34:32.346032] :- ---- Start recursive node with Vertex input  : BCD 
+25:- [2012-Nov-13 14:34:32.346086] :- ---- Vertex branch data  : BCD 
+26:- [2012-Nov-13 14:34:32.346142] :- @@@ Node data  : EG 
+27:- [2012-Nov-13 14:34:32.346200] :- @@@ Vertex branch  : CD 
+28:- [2012-Nov-13 14:34:32.346274] :- *** Node last contain data  : BCD 
+29:- [2012-Nov-13 14:34:32.346331] :- *** Node last contain data in size  : 1 
+30:- [2012-Nov-13 14:34:32.346385] :- *** Node data add to tail  : EG 
+31:- [2012-Nov-13 14:34:32.346443] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 14:37:53.508545] :- Create root element  : ABCD 
+1:- [2012-Nov-13 14:37:53.508779] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 14:37:53.508864] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 14:37:53.508932] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 14:37:53.509003] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 14:37:53.509072] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 14:37:53.509139] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 14:37:53.509204] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 14:37:53.509267] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 14:37:53.509330] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 14:37:53.509400] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 14:37:53.509463] :- ---- Vertex branch data  : BCD 
+12:- [2012-Nov-13 14:37:53.509530] :- *** Node last contain data  : BCD 
+13:- [2012-Nov-13 14:37:53.509612] :- *** Node last contain data in size  : 2 
+14:- [2012-Nov-13 14:37:53.509674] :- *** Node data add to tail  : EF 
+15:- [2012-Nov-13 14:37:53.509737] :- ###----End of recursive add node----###  
+16:- [2012-Nov-13 14:37:53.509800] :- Create temp element  : ABEG 
+17:- [2012-Nov-13 14:37:53.509861] :- @@@ Create Child node  : BEG 
+18:- [2012-Nov-13 14:37:53.509924] :- @@@ Create Child node  : EG 
+19:- [2012-Nov-13 14:37:53.509986] :- @@@ Create Child node  : G 
+20:- [2012-Nov-13 14:37:53.510048] :- ### ---- Start recursive ---- ### 
+21:- [2012-Nov-13 14:37:53.510137] :- ---- Start recursive node with data input  : BEG 
+22:- [2012-Nov-13 14:37:53.510205] :- ---- Start recursive node with Vertex input  : BCD 
+23:- [2012-Nov-13 14:37:53.510285] :- ---- Vertex branch data  : BCD 
+24:- [2012-Nov-13 14:37:53.510352] :- *** Node last contain data  : BCD 
+25:- [2012-Nov-13 14:37:53.510415] :- *** Node last contain data in size  : 2 
+26:- [2012-Nov-13 14:37:53.510477] :- *** Node data add to tail  : EG 
+27:- [2012-Nov-13 14:37:53.510539] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 14:39:46.499907] :- Create root element  : ABCD 
+1:- [2012-Nov-13 14:39:46.500139] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 14:39:46.500205] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 14:39:46.500263] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 14:39:46.500322] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 14:39:46.500384] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 14:39:46.500449] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 14:39:46.500505] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 14:39:46.500559] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 14:39:46.500623] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 14:39:46.500684] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 14:39:46.500740] :- ---- Vertex branch data  : BCD 
+12:- [2012-Nov-13 14:39:46.500807] :- *** Vertex root  size  : 1 
+13:- [2012-Nov-13 14:39:46.500862] :- *** Node last contain data  : BCD 
+14:- [2012-Nov-13 14:39:46.500917] :- *** Node last contain data in size  : 2 
+15:- [2012-Nov-13 14:39:46.500971] :- *** Node data add to tail  : EF 
+16:- [2012-Nov-13 14:39:46.501026] :- ###----End of recursive add node----###  
+17:- [2012-Nov-13 14:39:46.501085] :- Create temp element  : ABEG 
+18:- [2012-Nov-13 14:39:46.501140] :- @@@ Create Child node  : BEG 
+19:- [2012-Nov-13 14:39:46.501194] :- @@@ Create Child node  : EG 
+20:- [2012-Nov-13 14:39:46.501248] :- @@@ Create Child node  : G 
+21:- [2012-Nov-13 14:39:46.501303] :- ### ---- Start recursive ---- ### 
+22:- [2012-Nov-13 14:39:46.501356] :- ---- Start recursive node with data input  : BEG 
+23:- [2012-Nov-13 14:39:46.501410] :- ---- Start recursive node with Vertex input  : BCD 
+24:- [2012-Nov-13 14:39:46.501464] :- ---- Vertex branch data  : BCD 
+25:- [2012-Nov-13 14:39:46.501522] :- *** Vertex root  size  : 1 
+26:- [2012-Nov-13 14:39:46.501577] :- *** Node last contain data  : BCD 
+27:- [2012-Nov-13 14:39:46.501649] :- *** Node last contain data in size  : 2 
+28:- [2012-Nov-13 14:39:46.501707] :- *** Node data add to tail  : EG 
+29:- [2012-Nov-13 14:39:46.501762] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 14:40:45.489091] :- Create root element  : ABCD 
+1:- [2012-Nov-13 14:40:45.489333] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 14:40:45.489398] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 14:40:45.489455] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 14:40:45.489513] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 14:40:45.489568] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 14:40:45.489623] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 14:40:45.489679] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 14:40:45.489734] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 14:40:45.489789] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 14:40:45.489850] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 14:40:45.489905] :- ---- Vertex branch data  : BCD 
+12:- [2012-Nov-13 14:40:45.489971] :- *** Vertex root  size  : 1 
+13:- [2012-Nov-13 14:40:45.490026] :- *** Node last contain data  : BCD 
+14:- [2012-Nov-13 14:40:45.490082] :- *** Node last contain data in size  : 2 
+15:- [2012-Nov-13 14:40:45.490136] :- *** Node data add to tail  : EF 
+16:- [2012-Nov-13 14:40:45.490201] :- ###----End of recursive add node----###  
+17:- [2012-Nov-13 14:40:45.490271] :- Create temp element  : ABEG 
+18:- [2012-Nov-13 14:40:45.490326] :- @@@ Create Child node  : BEG 
+19:- [2012-Nov-13 14:40:45.490381] :- @@@ Create Child node  : EG 
+20:- [2012-Nov-13 14:40:45.490435] :- @@@ Create Child node  : G 
+21:- [2012-Nov-13 14:40:45.490490] :- ### ---- Start recursive ---- ### 
+22:- [2012-Nov-13 14:40:45.490544] :- ---- Start recursive node with data input  : BEG 
+23:- [2012-Nov-13 14:40:45.490598] :- ---- Start recursive node with Vertex input  : BCD 
+24:- [2012-Nov-13 14:40:45.490652] :- ---- Vertex branch data  : BCD 
+25:- [2012-Nov-13 14:40:45.490710] :- *** Vertex root  size  : 1 
+26:- [2012-Nov-13 14:40:45.490765] :- *** Node last contain data  : BCD 
+27:- [2012-Nov-13 14:40:45.490822] :- *** Node last contain data in size  : 2 
+28:- [2012-Nov-13 14:40:45.490876] :- *** Node data add to tail  : EG 
+29:- [2012-Nov-13 14:40:45.490931] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 14:47:27.044427] :- Create root element  : ABCD 
+1:- [2012-Nov-13 14:47:27.044673] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 14:47:27.044754] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 14:47:27.044821] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 14:47:27.044896] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 14:47:27.044997] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 14:47:27.045065] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 14:47:27.045132] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 14:47:27.045195] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 14:47:27.045257] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 14:47:27.045325] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 14:47:27.045389] :- ---- Vertex branch data  : BCD 
+12:- [2012-Nov-13 14:47:27.045467] :- *** Vertex root  size  : 1 
+13:- [2012-Nov-13 14:47:27.045530] :- *** Node last contain data  : BCD 
+14:- [2012-Nov-13 14:47:27.045598] :- *** Node last contain data in size  : 2 
+15:- [2012-Nov-13 14:47:27.045660] :- *** Node data add to tail  : EF 
+16:- [2012-Nov-13 14:47:27.045723] :- ###----End of recursive add node----###  
+17:- [2012-Nov-13 14:47:27.045786] :- Create temp element  : ABEG 
+18:- [2012-Nov-13 14:47:27.045848] :- @@@ Create Child node  : BEG 
+19:- [2012-Nov-13 14:47:27.045912] :- @@@ Create Child node  : EG 
+20:- [2012-Nov-13 14:47:27.045976] :- @@@ Create Child node  : G 
+21:- [2012-Nov-13 14:47:27.046039] :- ### ---- Start recursive ---- ### 
+22:- [2012-Nov-13 14:47:27.046102] :- ---- Start recursive node with data input  : BEG 
+23:- [2012-Nov-13 14:47:27.046165] :- ---- Start recursive node with Vertex input  : BCD 
+24:- [2012-Nov-13 14:47:27.046244] :- ---- Vertex branch data  : BCD 
+25:- [2012-Nov-13 14:47:27.046315] :- *** Vertex root  size  : 1 
+26:- [2012-Nov-13 14:47:27.046377] :- *** Node last contain data  : BCD 
+27:- [2012-Nov-13 14:47:27.046440] :- *** Node last contain data in size  : 2 
+28:- [2012-Nov-13 14:47:27.046503] :- *** Node data add to tail  : EG 
+29:- [2012-Nov-13 14:47:27.046567] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 15:39:46.923791] :- Create root element  : ABCD 
+1:- [2012-Nov-13 15:39:46.924052] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 15:39:46.924121] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 15:39:46.924210] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 15:39:46.924271] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 15:39:46.924329] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 15:39:46.924387] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 15:39:46.924444] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 15:39:46.924502] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 15:39:46.924559] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 15:39:46.924622] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 15:39:46.924680] :- ---- Vertex branch data  : BCD 
+12:- [2012-Nov-13 15:39:46.924749] :- *** Vertex root  size  : 0 
+13:- [2012-Nov-13 15:39:46.924817] :- *** Node last contain data  : BCD 
+14:- [2012-Nov-13 15:39:46.924879] :- *** Node last contain data in size  : 2 
+15:- [2012-Nov-13 15:39:46.924937] :- *** Node data add to tail  : EF 
+16:- [2012-Nov-13 15:39:46.924995] :- ###----End of recursive add node----###  
+17:- [2012-Nov-13 15:39:46.925052] :- Create temp element  : ABEG 
+18:- [2012-Nov-13 15:39:46.925110] :- @@@ Create Child node  : BEG 
+19:- [2012-Nov-13 15:39:46.925167] :- @@@ Create Child node  : EG 
+20:- [2012-Nov-13 15:39:46.925225] :- @@@ Create Child node  : G 
+21:- [2012-Nov-13 15:39:46.925282] :- ### ---- Start recursive ---- ### 
+22:- [2012-Nov-13 15:39:46.925338] :- ---- Start recursive node with data input  : BEG 
+23:- [2012-Nov-13 15:39:46.925394] :- ---- Start recursive node with Vertex input  : BCD 
+24:- [2012-Nov-13 15:39:46.925450] :- ---- Vertex branch data  : BCD 
+25:- [2012-Nov-13 15:39:46.925511] :- *** Vertex root  size  : 1 
+26:- [2012-Nov-13 15:39:46.925568] :- *** Node last contain data  : BCD 
+27:- [2012-Nov-13 15:39:46.925625] :- *** Node last contain data in size  : 2 
+28:- [2012-Nov-13 15:39:46.925687] :- *** Node data add to tail  : EG 
+29:- [2012-Nov-13 15:39:46.925746] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 15:58:13.638168] :- Create root element  : ABCD 
+1:- [2012-Nov-13 15:58:13.638448] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 15:58:13.638553] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 15:58:13.638646] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 15:58:13.638759] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 15:58:13.638862] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 15:58:13.638955] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 15:58:13.639043] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 15:58:13.639129] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 15:58:13.639214] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 15:58:13.639306] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 15:58:13.639392] :- ---- Vertex branch data  : BCD 
+12:- [2012-Nov-13 15:58:13.639492] :- *** Vertex root  size  : 0 
+13:- [2012-Nov-13 15:58:13.639576] :- *** Node last contain data  : BCD 
+14:- [2012-Nov-13 15:58:13.639667] :- *** Node last contain data in size  : 2 
+15:- [2012-Nov-13 15:58:13.639772] :- *** Node data add to tail  : EF 
+0:- [2012-Nov-13 15:59:02.485553] :- Create root element  : ABCD 
+1:- [2012-Nov-13 15:59:02.485803] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 15:59:02.485875] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 15:59:02.485937] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 15:59:02.485995] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 15:59:02.486053] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 15:59:02.486110] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 15:59:02.486168] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 15:59:02.486234] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 15:59:02.486296] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 15:59:02.486358] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 15:59:02.486419] :- ---- Vertex branch data  : BCD 
+12:- [2012-Nov-13 15:59:08.756803] :- *** Vertex root  size  : 0 
+13:- [2012-Nov-13 15:59:09.602747] :- *** Node last contain data  : BCD 
+14:- [2012-Nov-13 15:59:10.556147] :- *** Node last contain data in size  : 2 
+15:- [2012-Nov-13 15:59:11.320445] :- *** Node data add to tail  : EF 
+0:- [2012-Nov-13 16:00:17.482090] :- Create root element  : ABCD 
+1:- [2012-Nov-13 16:00:17.482467] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 16:00:17.482591] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 16:00:17.482679] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 16:00:17.482757] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 16:00:17.482827] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 16:00:17.482899] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 16:00:17.482969] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 16:00:17.483038] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 16:00:17.483103] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 16:00:17.483182] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 16:00:17.483249] :- ---- Vertex branch data  : BCD 
+12:- [2012-Nov-13 16:00:17.483364] :- *** Vertex root  size  : 0 
+13:- [2012-Nov-13 16:00:17.483430] :- *** Node last contain data  : BCD 
+14:- [2012-Nov-13 16:00:17.483496] :- *** Node last contain data in size  : 2 
+15:- [2012-Nov-13 16:00:17.483559] :- *** Node data add to tail  : EF 
+16:- [2012-Nov-13 16:00:17.483626] :- ###----End of recursive add node----###  
+17:- [2012-Nov-13 16:00:17.483689] :- Create temp element  : ABEG 
+18:- [2012-Nov-13 16:00:17.483754] :- @@@ Create Child node  : BEG 
+19:- [2012-Nov-13 16:00:17.483817] :- @@@ Create Child node  : EG 
+20:- [2012-Nov-13 16:00:17.483882] :- @@@ Create Child node  : G 
+21:- [2012-Nov-13 16:00:17.483947] :- ### ---- Start recursive ---- ### 
+22:- [2012-Nov-13 16:00:17.484027] :- ---- Start recursive node with data input  : BEG 
+23:- [2012-Nov-13 16:00:17.484097] :- ---- Start recursive node with Vertex input  : BCD 
+24:- [2012-Nov-13 16:00:17.484162] :- ---- Vertex branch data  : BCD 
+25:- [2012-Nov-13 16:00:17.484231] :- *** Vertex root  size  : 1 
+26:- [2012-Nov-13 16:00:17.484295] :- *** Node last contain data  : BCD 
+27:- [2012-Nov-13 16:00:17.484377] :- *** Node last contain data in size  : 2 
+28:- [2012-Nov-13 16:00:17.484481] :- *** Node data add to tail  : EG 
+29:- [2012-Nov-13 16:00:17.484574] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 16:00:41.631038] :- Create root element  : ABCD 
+1:- [2012-Nov-13 16:00:41.631421] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 16:00:41.631537] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 16:00:41.631676] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 16:00:41.631800] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 16:00:41.631890] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 16:00:41.631968] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 16:00:41.632045] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 16:00:41.632128] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 16:00:41.632220] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 16:00:41.632358] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 16:00:41.632470] :- ---- Vertex branch data  : BCD 
+12:- [2012-Nov-13 16:00:43.197212] :- *** Vertex root  size  : 0 
+13:- [2012-Nov-13 16:00:43.827597] :- *** Node last contain data  : BCD 
+14:- [2012-Nov-13 16:00:44.746445] :- *** Node last contain data in size  : 2 
+15:- [2012-Nov-13 16:00:45.423518] :- *** Node data add to tail  : EF 
+16:- [2012-Nov-13 16:00:47.004089] :- ###----End of recursive add node----###  
+17:- [2012-Nov-13 16:00:53.411164] :- Create temp element  : ABEG 
+18:- [2012-Nov-13 16:00:53.411327] :- @@@ Create Child node  : BEG 
+19:- [2012-Nov-13 16:00:53.411392] :- @@@ Create Child node  : EG 
+20:- [2012-Nov-13 16:00:53.411452] :- @@@ Create Child node  : G 
+21:- [2012-Nov-13 16:00:53.411510] :- ### ---- Start recursive ---- ### 
+22:- [2012-Nov-13 16:00:53.411568] :- ---- Start recursive node with data input  : BEG 
+23:- [2012-Nov-13 16:00:53.411648] :- ---- Start recursive node with Vertex input  : BCD 
+24:- [2012-Nov-13 16:00:53.411708] :- ---- Vertex branch data  : BCD 
+25:- [2012-Nov-13 16:00:57.837095] :- *** Vertex root  size  : 1 
+26:- [2012-Nov-13 16:00:59.033308] :- *** Node last contain data  : BCD 
+27:- [2012-Nov-13 16:00:59.798578] :- *** Node last contain data in size  : 2 
+28:- [2012-Nov-13 16:01:00.544594] :- *** Node data add to tail  : EG 
+29:- [2012-Nov-13 16:01:05.340568] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 16:05:50.721056] :- Create root element  : ABCD 
+1:- [2012-Nov-13 16:05:50.721307] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 16:05:50.721375] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 16:05:50.721439] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 16:05:50.721510] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 16:05:50.721595] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 16:05:50.721664] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 16:05:50.721730] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 16:05:50.721796] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 16:05:50.721860] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 16:05:50.721930] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 16:05:50.721994] :- ---- Vertex branch data  : BCD 
+12:- [2012-Nov-13 16:05:50.722071] :- *** Vertex root  size  : 0 
+13:- [2012-Nov-13 16:05:50.722134] :- *** Node last contain data  : BCD 
+14:- [2012-Nov-13 16:05:50.722199] :- *** Node last contain data in size  : 2 
+15:- [2012-Nov-13 16:05:50.722283] :- *** Node data add to tail  : EF 
+16:- [2012-Nov-13 16:05:50.722348] :- ###----End of recursive add node----###  
+17:- [2012-Nov-13 16:05:50.722411] :- Create temp element  : ABEG 
+18:- [2012-Nov-13 16:05:50.722472] :- @@@ Create Child node  : BEG 
+19:- [2012-Nov-13 16:05:50.722535] :- @@@ Create Child node  : EG 
+20:- [2012-Nov-13 16:05:50.722599] :- @@@ Create Child node  : G 
+21:- [2012-Nov-13 16:05:50.722661] :- ### ---- Start recursive ---- ### 
+22:- [2012-Nov-13 16:05:50.722721] :- ---- Start recursive node with data input  : BEG 
+23:- [2012-Nov-13 16:05:50.722795] :- ---- Start recursive node with Vertex input  : BCD 
+24:- [2012-Nov-13 16:05:50.722863] :- ---- Vertex branch data  : BCD 
+25:- [2012-Nov-13 16:05:50.722934] :- *** Vertex root  size  : 1 
+26:- [2012-Nov-13 16:05:50.722995] :- *** Node last contain data  : BCD 
+27:- [2012-Nov-13 16:05:50.723057] :- *** Node last contain data in size  : 2 
+28:- [2012-Nov-13 16:05:50.723117] :- *** Node data add to tail  : EG 
+29:- [2012-Nov-13 16:05:50.723178] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 16:13:29.865868] :- Create root element  : ABCD 
+1:- [2012-Nov-13 16:13:29.866114] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 16:13:29.866182] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 16:13:29.866258] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 16:13:29.866318] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 16:13:29.866375] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 16:13:29.866432] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 16:13:29.866488] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 16:13:29.866544] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 16:13:29.866600] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 16:13:29.866663] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 16:13:29.866730] :- @@@ Vertex more data  : 1 
+12:- [2012-Nov-13 16:13:29.866791] :- *** Vertex root  size  : 0 
+13:- [2012-Nov-13 16:13:29.866854] :- *** Node last contain data  : BCD 
+14:- [2012-Nov-13 16:13:29.866916] :- *** Node last contain data in size  : 2 
+15:- [2012-Nov-13 16:13:29.866972] :- *** Node data add to tail  : EF 
+16:- [2012-Nov-13 16:13:29.867029] :- ###----End of recursive add node----###  
+17:- [2012-Nov-13 16:13:29.867086] :- Create temp element  : ABEG 
+18:- [2012-Nov-13 16:13:29.867141] :- @@@ Create Child node  : BEG 
+19:- [2012-Nov-13 16:13:29.867197] :- @@@ Create Child node  : EG 
+20:- [2012-Nov-13 16:13:29.867252] :- @@@ Create Child node  : G 
+21:- [2012-Nov-13 16:13:29.867307] :- ### ---- Start recursive ---- ### 
+22:- [2012-Nov-13 16:13:29.867362] :- ---- Start recursive node with data input  : BEG 
+23:- [2012-Nov-13 16:13:29.867417] :- ---- Start recursive node with Vertex input  : BCD 
+24:- [2012-Nov-13 16:13:29.867481] :- @@@ Vertex more data  : 1 
+25:- [2012-Nov-13 16:13:29.867541] :- *** Vertex root  size  : 1 
+26:- [2012-Nov-13 16:13:29.867596] :- *** Node last contain data  : BCD 
+27:- [2012-Nov-13 16:13:29.867653] :- *** Node last contain data in size  : 2 
+28:- [2012-Nov-13 16:13:29.867709] :- *** Node data add to tail  : EG 
+29:- [2012-Nov-13 16:13:29.867765] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 16:14:28.787474] :- Create root element  : ABCD 
+1:- [2012-Nov-13 16:14:28.787720] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 16:14:28.787791] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 16:14:28.787853] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 16:14:28.787914] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 16:14:28.787973] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 16:14:28.788030] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 16:14:28.788088] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 16:14:28.788146] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 16:14:28.788208] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 16:14:28.788270] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 16:14:28.788338] :- @@@ Vertex more data  : 1 
+12:- [2012-Nov-13 16:14:28.788403] :- ### Node Branch Data  : D 
+13:- [2012-Nov-13 16:14:28.788466] :- ### Node Data  : EF 
+14:- [2012-Nov-13 16:14:28.788529] :- *** Vertex root  size  : 0 
+15:- [2012-Nov-13 16:14:28.788587] :- *** Node last contain data  : BCD 
+16:- [2012-Nov-13 16:14:28.788645] :- *** Node last contain data in size  : 2 
+17:- [2012-Nov-13 16:14:28.788701] :- *** Node data add to tail  : EF 
+18:- [2012-Nov-13 16:14:28.788758] :- ###----End of recursive add node----###  
+19:- [2012-Nov-13 16:14:28.788816] :- Create temp element  : ABEG 
+20:- [2012-Nov-13 16:14:28.788886] :- @@@ Create Child node  : BEG 
+21:- [2012-Nov-13 16:14:28.788943] :- @@@ Create Child node  : EG 
+22:- [2012-Nov-13 16:14:28.789000] :- @@@ Create Child node  : G 
+23:- [2012-Nov-13 16:14:28.789058] :- ### ---- Start recursive ---- ### 
+24:- [2012-Nov-13 16:14:28.789115] :- ---- Start recursive node with data input  : BEG 
+25:- [2012-Nov-13 16:14:28.789174] :- ---- Start recursive node with Vertex input  : BCD 
+26:- [2012-Nov-13 16:14:28.789234] :- @@@ Vertex more data  : 1 
+27:- [2012-Nov-13 16:14:28.789291] :- ### Node Branch Data  : D 
+28:- [2012-Nov-13 16:14:28.789347] :- ### Node Data  : EG 
+29:- [2012-Nov-13 16:14:28.789405] :- *** Vertex root  size  : 1 
+30:- [2012-Nov-13 16:14:28.789461] :- *** Node last contain data  : BCD 
+31:- [2012-Nov-13 16:14:28.789518] :- *** Node last contain data in size  : 2 
+32:- [2012-Nov-13 16:14:28.789574] :- *** Node data add to tail  : EG 
+33:- [2012-Nov-13 16:14:28.789631] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 16:16:07.189378] :- Create root element  : ABCD 
+1:- [2012-Nov-13 16:16:07.189616] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 16:16:07.189682] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 16:16:07.189741] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 16:16:07.189799] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 16:16:07.189871] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 16:16:07.189932] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 16:16:07.189989] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 16:16:07.190045] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 16:16:07.190101] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 16:16:07.190164] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 16:16:07.190224] :- @@@ Vertex more data  : CD 
+12:- [2012-Nov-13 16:16:07.190298] :- ### Node Branch Data  : D 
+13:- [2012-Nov-13 16:16:07.190353] :- ### Node Data  : EF 
+14:- [2012-Nov-13 16:16:07.190418] :- *** Vertex root  size  : 0 
+15:- [2012-Nov-13 16:16:07.190475] :- *** Node last contain data  : BCD 
+16:- [2012-Nov-13 16:16:07.190532] :- *** Node last contain data in size  : 2 
+17:- [2012-Nov-13 16:16:07.190593] :- *** Node data add to tail  : EF 
+18:- [2012-Nov-13 16:16:07.190651] :- ###----End of recursive add node----###  
+19:- [2012-Nov-13 16:16:07.190707] :- Create temp element  : ABEG 
+20:- [2012-Nov-13 16:16:07.190766] :- @@@ Create Child node  : BEG 
+21:- [2012-Nov-13 16:16:07.190836] :- @@@ Create Child node  : EG 
+22:- [2012-Nov-13 16:16:07.190904] :- @@@ Create Child node  : G 
+23:- [2012-Nov-13 16:16:07.190969] :- ### ---- Start recursive ---- ### 
+24:- [2012-Nov-13 16:16:07.191034] :- ---- Start recursive node with data input  : BEG 
+25:- [2012-Nov-13 16:16:07.191098] :- ---- Start recursive node with Vertex input  : BCD 
+26:- [2012-Nov-13 16:16:07.191165] :- @@@ Vertex more data  : CD 
+27:- [2012-Nov-13 16:16:07.191227] :- ### Node Branch Data  : D 
+28:- [2012-Nov-13 16:16:07.191289] :- ### Node Data  : EG 
+29:- [2012-Nov-13 16:16:07.191352] :- *** Vertex root  size  : 1 
+30:- [2012-Nov-13 16:16:07.191412] :- *** Node last contain data  : BCD 
+31:- [2012-Nov-13 16:16:07.191474] :- *** Node last contain data in size  : 2 
+32:- [2012-Nov-13 16:16:07.191537] :- *** Node data add to tail  : EG 
+33:- [2012-Nov-13 16:16:07.191599] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 16:17:36.317540] :- Create root element  : ABCD 
+1:- [2012-Nov-13 16:17:36.317797] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 16:17:36.317876] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 16:17:36.317943] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 16:17:36.318019] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 16:17:36.318086] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 16:17:36.318152] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 16:17:36.318218] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 16:17:36.318295] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 16:17:36.318358] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 16:17:36.318434] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 16:17:36.318517] :- @@@ Vertex more data  : BCD 
+12:- [2012-Nov-13 16:17:36.318613] :- ### Node Branch Data  : CD 
+13:- [2012-Nov-13 16:17:36.318711] :- ### Node Data  : EF 
+14:- [2012-Nov-13 16:17:36.318809] :- *** Vertex root  size  : 2 
+15:- [2012-Nov-13 16:17:36.318872] :- *** Node last contain data  : BCD 
+16:- [2012-Nov-13 16:17:36.318935] :- *** Node last contain data in size  : 2 
+17:- [2012-Nov-13 16:17:36.319020] :- *** Node data add to tail  : EF 
+18:- [2012-Nov-13 16:17:36.319137] :- ###----End of recursive add node----###  
+19:- [2012-Nov-13 16:17:36.319222] :- Create temp element  : ABEG 
+20:- [2012-Nov-13 16:17:36.319284] :- @@@ Create Child node  : BEG 
+21:- [2012-Nov-13 16:17:36.319348] :- @@@ Create Child node  : EG 
+22:- [2012-Nov-13 16:17:36.319410] :- @@@ Create Child node  : G 
+23:- [2012-Nov-13 16:17:36.319472] :- ### ---- Start recursive ---- ### 
+24:- [2012-Nov-13 16:17:36.319533] :- ---- Start recursive node with data input  : BEG 
+25:- [2012-Nov-13 16:17:36.319595] :- ---- Start recursive node with Vertex input  : BCD 
+26:- [2012-Nov-13 16:17:36.319660] :- @@@ Vertex more data  : BCD 
+27:- [2012-Nov-13 16:17:36.319725] :- ### Node Branch Data  : CD 
+28:- [2012-Nov-13 16:17:36.319787] :- ### Node Data  : EG 
+29:- [2012-Nov-13 16:17:36.319850] :- *** Vertex root  size  : 2 
+30:- [2012-Nov-13 16:17:36.319912] :- *** Node last contain data  : BCD 
+31:- [2012-Nov-13 16:17:36.319975] :- *** Node last contain data in size  : 2 
+32:- [2012-Nov-13 16:17:36.320036] :- *** Node data add to tail  : EG 
+33:- [2012-Nov-13 16:17:36.320098] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 16:19:30.173027] :- Create root element  : ABCD 
+1:- [2012-Nov-13 16:19:30.173268] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 16:19:30.173350] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 16:19:30.173416] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 16:19:30.173486] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 16:19:30.173580] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 16:19:30.173645] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 16:19:30.173711] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 16:19:30.173773] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 16:19:30.173833] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 16:19:30.173902] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 16:19:30.173967] :- @@@ Vertex more data  : BCD 
+12:- [2012-Nov-13 16:19:30.174028] :- ### Node Branch Data  : CD 
+13:- [2012-Nov-13 16:19:30.174088] :- ### Node Data  : EF 
+14:- [2012-Nov-13 16:19:30.174170] :- *** Vertex root  size  : 1 
+15:- [2012-Nov-13 16:19:30.174243] :- *** Node last contain data  : BCD 
+16:- [2012-Nov-13 16:19:30.174310] :- *** Node last contain data in size  : 2 
+17:- [2012-Nov-13 16:19:30.174386] :- *** Node data add to tail  : EF 
+18:- [2012-Nov-13 16:19:30.174449] :- ###----End of recursive add node----###  
+19:- [2012-Nov-13 16:19:30.174511] :- Create temp element  : ABEG 
+20:- [2012-Nov-13 16:19:30.174572] :- @@@ Create Child node  : BEG 
+21:- [2012-Nov-13 16:19:30.174634] :- @@@ Create Child node  : EG 
+22:- [2012-Nov-13 16:19:30.174696] :- @@@ Create Child node  : G 
+23:- [2012-Nov-13 16:19:30.174759] :- ### ---- Start recursive ---- ### 
+24:- [2012-Nov-13 16:19:30.174820] :- ---- Start recursive node with data input  : BEG 
+25:- [2012-Nov-13 16:19:30.174881] :- ---- Start recursive node with Vertex input  : ABEG 
+26:- [2012-Nov-13 16:19:30.174948] :- *** Vertex root  size  : 1 
+27:- [2012-Nov-13 16:19:30.175009] :- *** Node last contain data  : BCD 
+28:- [2012-Nov-13 16:19:30.175071] :- *** Node last contain data in size  : 2 
+29:- [2012-Nov-13 16:19:30.175132] :- *** Node data add to tail  : BEG 
+30:- [2012-Nov-13 16:19:30.175195] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 16:22:47.782598] :- Create root element  : ABCD 
+1:- [2012-Nov-13 16:22:47.782849] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 16:22:47.782926] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 16:22:47.782985] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 16:22:47.783046] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 16:22:47.783103] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 16:22:47.783158] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 16:22:47.783214] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 16:22:47.783269] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 16:22:47.783324] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 16:22:47.783386] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 16:22:47.783444] :- @@@ Vertex more data  : BCD 
+12:- [2012-Nov-13 16:22:47.783500] :- ### Node Branch Data  : CD 
+13:- [2012-Nov-13 16:22:47.783554] :- ### Node Data  : EF 
+14:- [2012-Nov-13 16:22:47.783618] :- *** Vertex root  size  : 1 
+15:- [2012-Nov-13 16:22:47.783685] :- *** Node last contain data  : BCD 
+16:- [2012-Nov-13 16:22:47.783746] :- *** Node last contain data in size  : 2 
+17:- [2012-Nov-13 16:22:47.783800] :- *** Node data add to tail  : EF 
+18:- [2012-Nov-13 16:22:47.783856] :- ###----End of recursive add node----###  
+19:- [2012-Nov-13 16:22:47.783912] :- Create temp element  : ABEG 
+20:- [2012-Nov-13 16:22:47.783966] :- @@@ Create Child node  : BEG 
+21:- [2012-Nov-13 16:22:47.784022] :- @@@ Create Child node  : EG 
+22:- [2012-Nov-13 16:22:47.784077] :- @@@ Create Child node  : G 
+23:- [2012-Nov-13 16:22:47.784132] :- ### ---- Start recursive ---- ### 
+24:- [2012-Nov-13 16:22:47.784186] :- ---- Start recursive node with data input  : BEG 
+25:- [2012-Nov-13 16:22:47.784240] :- ---- Start recursive node with Vertex input  : ABEG 
+26:- [2012-Nov-13 16:22:47.784303] :- *** Vertex root  size  : 1 
+27:- [2012-Nov-13 16:22:47.784361] :- *** Node last contain data  : BCD 
+28:- [2012-Nov-13 16:22:47.784417] :- *** Node last contain data in size  : 2 
+29:- [2012-Nov-13 16:22:47.784473] :- *** Node data add to tail  : BEG 
+30:- [2012-Nov-13 16:22:47.784527] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 16:25:53.993953] :- Create root element  : ABCD 
+1:- [2012-Nov-13 16:25:53.994188] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 16:25:53.994270] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 16:25:53.994331] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 16:25:53.994392] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 16:25:53.994450] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 16:25:53.994507] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 16:25:53.994565] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 16:25:53.994622] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 16:25:53.994684] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 16:25:53.994760] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 16:25:53.994829] :- ### Node Branch Data  : CD 
+12:- [2012-Nov-13 16:25:53.994895] :- ### Node Data  : BEF 
+13:- [2012-Nov-13 16:25:53.994974] :- *** Vertex root  size  : 1 
+14:- [2012-Nov-13 16:25:53.995038] :- *** Node last contain data  : BCD 
+15:- [2012-Nov-13 16:25:53.995105] :- *** Node last contain data in size  : 2 
+16:- [2012-Nov-13 16:25:53.995189] :- *** Node data add to tail  : EF 
+17:- [2012-Nov-13 16:25:53.995291] :- ###----End of recursive add node----###  
+18:- [2012-Nov-13 16:25:53.995407] :- Create temp element  : ABEG 
+19:- [2012-Nov-13 16:25:53.995500] :- @@@ Create Child node  : BEG 
+20:- [2012-Nov-13 16:25:53.995597] :- @@@ Create Child node  : EG 
+21:- [2012-Nov-13 16:25:53.995689] :- @@@ Create Child node  : G 
+22:- [2012-Nov-13 16:25:53.995781] :- ### ---- Start recursive ---- ### 
+23:- [2012-Nov-13 16:25:53.995871] :- ---- Start recursive node with data input  : BEG 
+24:- [2012-Nov-13 16:25:53.995964] :- ---- Start recursive node with Vertex input  : ABEG 
+25:- [2012-Nov-13 16:25:53.996066] :- *** Vertex root  size  : 1 
+26:- [2012-Nov-13 16:25:53.996158] :- *** Node last contain data  : BCD 
+27:- [2012-Nov-13 16:25:53.996250] :- *** Node last contain data in size  : 2 
+28:- [2012-Nov-13 16:25:53.996383] :- *** Node data add to tail  : BEG 
+29:- [2012-Nov-13 16:25:53.996489] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 16:27:06.482863] :- Create root element  : ABCD 
+1:- [2012-Nov-13 16:27:06.483136] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 16:27:06.483215] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 16:27:06.483310] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 16:27:06.483395] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 16:27:06.483477] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 16:27:06.483591] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 16:27:06.483694] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 16:27:06.483793] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 16:27:06.483879] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 16:27:06.483988] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 16:27:06.484081] :- ### Node Branch Data  : CD 
+12:- [2012-Nov-13 16:27:06.484154] :- ### Node Data  : EF 
+13:- [2012-Nov-13 16:27:06.484248] :- *** Vertex root  size  : 1 
+14:- [2012-Nov-13 16:27:06.484323] :- *** Node last contain data  : BCD 
+15:- [2012-Nov-13 16:27:06.484399] :- *** Node last contain data in size  : 2 
+16:- [2012-Nov-13 16:27:06.484472] :- *** Node data add to tail  : F 
+17:- [2012-Nov-13 16:27:06.484547] :- ###----End of recursive add node----###  
+18:- [2012-Nov-13 16:27:06.484626] :- Create temp element  : ABEG 
+19:- [2012-Nov-13 16:27:06.484717] :- @@@ Create Child node  : BEG 
+20:- [2012-Nov-13 16:27:06.484872] :- @@@ Create Child node  : EG 
+21:- [2012-Nov-13 16:27:06.484975] :- @@@ Create Child node  : G 
+22:- [2012-Nov-13 16:27:06.485048] :- ### ---- Start recursive ---- ### 
+23:- [2012-Nov-13 16:27:06.485118] :- ---- Start recursive node with data input  : BEG 
+24:- [2012-Nov-13 16:27:06.485191] :- ---- Start recursive node with Vertex input  : ABEG 
+25:- [2012-Nov-13 16:27:06.485296] :- *** Vertex root  size  : 1 
+26:- [2012-Nov-13 16:27:06.485418] :- *** Node last contain data  : BCD 
+27:- [2012-Nov-13 16:27:06.485494] :- *** Node last contain data in size  : 2 
+28:- [2012-Nov-13 16:27:06.485563] :- *** Node data add to tail  : BEG 
+29:- [2012-Nov-13 16:27:06.485674] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 16:33:58.102079] :- Create root element  : ABCD 
+1:- [2012-Nov-13 16:33:58.102388] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 16:33:58.102463] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 16:33:58.102524] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 16:33:58.102585] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 16:33:58.102648] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 16:33:58.102729] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 16:33:58.102796] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 16:33:58.102863] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 16:33:58.102928] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 16:33:58.103013] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 16:33:58.103082] :- ### Node Branch Data  : CD 
+12:- [2012-Nov-13 16:33:58.103145] :- ### Node Data  : EF 
+13:- [2012-Nov-13 16:33:58.103241] :- *** Vertex root  size  : 1 
+14:- [2012-Nov-13 16:33:58.103331] :- *** Node last contain data  : BCD 
+15:- [2012-Nov-13 16:33:58.103430] :- *** Node last contain data in size  : 2 
+16:- [2012-Nov-13 16:33:58.103523] :- *** Node data add to tail  : EF 
+17:- [2012-Nov-13 16:33:58.103729] :- ###----End of recursive add node----###  
+18:- [2012-Nov-13 16:33:58.103855] :- Create temp element  : ABEG 
+19:- [2012-Nov-13 16:33:58.103945] :- @@@ Create Child node  : BEG 
+20:- [2012-Nov-13 16:33:58.104031] :- @@@ Create Child node  : EG 
+21:- [2012-Nov-13 16:33:58.104110] :- @@@ Create Child node  : G 
+22:- [2012-Nov-13 16:33:58.104185] :- ### ---- Start recursive ---- ### 
+23:- [2012-Nov-13 16:33:58.104259] :- ---- Start recursive node with data input  : BEG 
+24:- [2012-Nov-13 16:33:58.104333] :- ---- Start recursive node with Vertex input  : ABEG 
+25:- [2012-Nov-13 16:33:58.104550] :- *** Vertex root  size  : 1 
+26:- [2012-Nov-13 16:33:58.104707] :- *** Node last contain data  : BCD 
+27:- [2012-Nov-13 16:33:58.104791] :- *** Node last contain data in size  : 2 
+28:- [2012-Nov-13 16:33:58.104864] :- *** Node data add to tail  : BEG 
+29:- [2012-Nov-13 16:33:58.104953] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 16:40:40.880500] :- Create root element  : ABCD 
+1:- [2012-Nov-13 16:40:47.125880] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 16:40:47.126082] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 16:40:47.126202] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 16:40:51.813973] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 16:40:51.814145] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 16:40:51.814212] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 16:40:51.814291] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 16:40:51.814349] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 16:40:51.814407] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 16:40:51.814472] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 16:40:51.814532] :- ### Node Branch Data  : CD 
+12:- [2012-Nov-13 16:40:51.814588] :- ### Node Data  : EF 
+13:- [2012-Nov-13 16:40:51.814656] :- *** Vertex root  size  : 1 
+14:- [2012-Nov-13 16:40:51.814713] :- *** Node last contain data  : BCD 
+15:- [2012-Nov-13 16:40:51.814771] :- *** Node last contain data in size  : 2 
+16:- [2012-Nov-13 16:40:51.814828] :- *** Node data add to tail  : EF 
+17:- [2012-Nov-13 16:40:51.814898] :- ###----End of recursive add node----###  
+18:- [2012-Nov-13 16:41:51.527635] :- Create temp element  : ABEG 
+19:- [2012-Nov-13 16:42:44.665046] :- @@@ Create Child node  : BEG 
+20:- [2012-Nov-13 16:43:12.346442] :- @@@ Create Child node  : EG 
+21:- [2012-Nov-13 16:43:17.727922] :- @@@ Create Child node  : G 
+22:- [2012-Nov-13 16:44:39.765775] :- ### ---- Start recursive ---- ### 
+23:- [2012-Nov-13 16:44:39.765933] :- ---- Start recursive node with data input  : BEG 
+24:- [2012-Nov-13 16:44:39.765997] :- ---- Start recursive node with Vertex input  : ABEG 
+25:- [2012-Nov-13 16:44:39.766062] :- *** Vertex root  size  : 1 
+26:- [2012-Nov-13 16:44:39.766119] :- *** Node last contain data  : BCD 
+27:- [2012-Nov-13 16:44:39.766176] :- *** Node last contain data in size  : 2 
+28:- [2012-Nov-13 16:44:39.766243] :- *** Node data add to tail  : BEG 
+29:- [2012-Nov-13 16:44:39.766302] :- ###----End of recursive add node----###  
+0:- [2012-Nov-13 16:46:01.979543] :- Create root element  : ABCD 
+1:- [2012-Nov-13 16:46:01.979998] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 16:46:01.980199] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 16:46:01.980339] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 16:46:08.585087] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 16:46:08.585248] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 16:46:08.585315] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 16:46:08.585374] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 16:46:12.252772] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 16:46:12.252960] :- ---- Start recursive node with data input  : BEF 
+10:- [2012-Nov-13 16:46:12.253033] :- ---- Start recursive node with Vertex input  : BCD 
+11:- [2012-Nov-13 16:46:12.253097] :- ### Node Branch Data  : CD 
+12:- [2012-Nov-13 16:46:12.253154] :- ### Node Data  : EF 
+13:- [2012-Nov-13 16:46:12.253224] :- *** Vertex root  size  : 1 
+14:- [2012-Nov-13 16:46:12.253281] :- *** Node last contain data  : BCD 
+15:- [2012-Nov-13 16:46:12.253338] :- *** Node last contain data in size  : 2 
+16:- [2012-Nov-13 16:46:12.253394] :- *** Node data add to tail  : EF 
+17:- [2012-Nov-13 16:46:12.253451] :- ###----End of recursive add node----###  
+18:- [2012-Nov-13 16:46:12.253509] :- Create temp element  : ABEG 
+19:- [2012-Nov-13 16:46:12.253565] :- @@@ Create Child node  : BEG 
+20:- [2012-Nov-13 16:46:12.253621] :- @@@ Create Child node  : EG 
+21:- [2012-Nov-13 16:46:12.253687] :- @@@ Create Child node  : G 
+0:- [2012-Nov-13 16:51:09.091541] :- Create root element  : ABCD 
+1:- [2012-Nov-13 16:51:09.091792] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 16:51:09.091885] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 16:51:09.091954] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 16:51:09.092025] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 16:51:09.092099] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 16:51:09.092167] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 16:51:09.092234] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 16:51:09.092298] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 16:51:09.092360] :- ---- Start recursive node with Vertex input  : ABCD 
+10:- [2012-Nov-13 16:51:09.092430] :- ---- Start recursive node with Data input  : ABEF 
+11:- [2012-Nov-13 16:51:09.092497] :- ### Node Branch Data  : BCD 
+12:- [2012-Nov-13 16:51:09.092559] :- ### Node Data  : BEF 
+13:- [2012-Nov-13 16:51:09.092627] :- --- Node Branch Data  : BCD 
+14:- [2012-Nov-13 16:51:09.092690] :- --- Node Data  : BEF 
+15:- [2012-Nov-13 16:51:09.092763] :- *** Vertex root  size  : 1 
+16:- [2012-Nov-13 16:51:09.092826] :- *** Node last contain data  : BCD 
+17:- [2012-Nov-13 16:51:09.092889] :- *** Node last contain data in size  : 2 
+18:- [2012-Nov-13 16:51:09.092952] :- *** Node data add to tail  : BEF 
+19:- [2012-Nov-13 16:51:09.093015] :- ###----End of recursive add node----###  
+20:- [2012-Nov-13 16:51:09.093080] :- Create temp element  : ABEG 
+21:- [2012-Nov-13 16:51:09.093142] :- @@@ Create Child node  : BEG 
+22:- [2012-Nov-13 16:51:09.093208] :- @@@ Create Child node  : EG 
+23:- [2012-Nov-13 16:51:09.093271] :- @@@ Create Child node  : G 
+24:- [2012-Nov-13 16:51:09.093334] :- ### ---- Start recursive ---- ### 
+25:- [2012-Nov-13 16:51:09.093396] :- ---- Start recursive node with Vertex input  : ABEG 
+26:- [2012-Nov-13 16:51:09.093458] :- ---- Start recursive node with Data input  : ABEG 
+27:- [2012-Nov-13 16:51:09.093523] :- ### Node Branch Data  : EG 
+28:- [2012-Nov-13 16:51:09.093585] :- ### Node Data  : BEG 
+29:- [2012-Nov-13 16:51:09.093650] :- ### Node Branch Data  : G 
+30:- [2012-Nov-13 16:51:09.093712] :- ### Node Data  : EG 
+31:- [2012-Nov-13 16:51:09.093776] :- ### Node Branch Data  : G 
+32:- [2012-Nov-13 16:51:09.093841] :- ### Node Data  : G 
+33:- [2012-Nov-13 16:51:09.093904] :- --- Node Branch Data  : G 
+34:- [2012-Nov-13 16:51:09.093965] :- --- Node Data  : G 
+0:- [2012-Nov-13 16:55:50.974463] :- Create root element  : ABCD 
+1:- [2012-Nov-13 16:55:50.974705] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 16:55:50.974789] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 16:55:50.974857] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 16:55:50.974923] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 16:55:50.974985] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 16:55:50.975048] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 16:55:50.975111] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 16:55:50.975173] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 16:55:50.975234] :- ---- Start recursive node with Vertex input  : ABCD 
+10:- [2012-Nov-13 16:55:50.975320] :- ---- Start recursive node with Data input  : ABEF 
+11:- [2012-Nov-13 16:55:50.975385] :- ### Node Branch Data  : BCD 
+12:- [2012-Nov-13 16:55:50.975446] :- ### Node Data  : BEF 
+13:- [2012-Nov-13 16:55:50.975507] :- --- Node Branch Data  : BCD 
+14:- [2012-Nov-13 16:55:50.975569] :- --- Node Data  : BEF 
+0:- [2012-Nov-13 16:56:18.959646] :- Create root element  : ABCD 
+1:- [2012-Nov-13 16:56:18.959890] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 16:56:18.959973] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 16:56:18.960039] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 16:56:18.960108] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 16:56:18.960176] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 16:56:18.960239] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 16:56:18.960301] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 16:56:18.960364] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 16:56:18.960424] :- ---- Start recursive node with Vertex input  : ABCD 
+10:- [2012-Nov-13 16:56:18.960501] :- ---- Start recursive node with Data input  : ABEF 
+11:- [2012-Nov-13 16:56:18.960567] :- ### Node Branch Data  : BCD 
+12:- [2012-Nov-13 16:56:18.960639] :- ### Node Data  : BEF 
+13:- [2012-Nov-13 16:56:18.960702] :- --- Node Branch Data  : BCD 
+14:- [2012-Nov-13 16:56:18.960762] :- --- Node Data  : BEF 
+0:- [2012-Nov-13 16:59:33.649710] :- Create root element  : ABCD 
+1:- [2012-Nov-13 16:59:33.649949] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 16:59:33.650036] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 16:59:33.650102] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 16:59:33.650170] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 16:59:33.650245] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 16:59:33.650312] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 16:59:33.650376] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 16:59:33.650438] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 16:59:33.650499] :- ---- Start recursive node with Vertex input  : ABCD 
+10:- [2012-Nov-13 16:59:33.650590] :- ---- Start recursive node with Data input  : ABEF 
+11:- [2012-Nov-13 16:59:33.650661] :- ### Node Branch Data  : BCD 
+12:- [2012-Nov-13 16:59:33.650721] :- ### Node Data  : BEF 
+13:- [2012-Nov-13 16:59:33.650783] :- --- Node Branch Data  : BCD 
+14:- [2012-Nov-13 16:59:33.650845] :- --- Node Data  : BEF 
+0:- [2012-Nov-13 16:59:39.927885] :- Create root element  : ABCD 
+1:- [2012-Nov-13 16:59:39.928139] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 16:59:39.928205] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 16:59:39.928264] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 16:59:39.928322] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 16:59:39.928378] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 16:59:39.928433] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 16:59:39.928490] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 16:59:39.928546] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 16:59:39.928600] :- ---- Start recursive node with Vertex input  : ABCD 
+10:- [2012-Nov-13 16:59:39.928661] :- ---- Start recursive node with Data input  : ABEF 
+11:- [2012-Nov-13 16:59:39.928720] :- ### Node Branch Data  : BCD 
+12:- [2012-Nov-13 16:59:39.928775] :- ### Node Data  : BEF 
+13:- [2012-Nov-13 16:59:39.928830] :- --- Node Branch Data  : BCD 
+14:- [2012-Nov-13 16:59:39.928883] :- --- Node Data  : BEF 
+0:- [2012-Nov-13 17:00:51.807821] :- Create root element  : ABCD 
+1:- [2012-Nov-13 17:00:51.808067] :- @@@ Create Child node  : BCD 
+2:- [2012-Nov-13 17:00:51.808136] :- @@@ Create Child node  : CD 
+3:- [2012-Nov-13 17:00:51.808199] :- @@@ Create Child node  : D 
+4:- [2012-Nov-13 17:00:51.808258] :- Create temp element  : ABEF 
+5:- [2012-Nov-13 17:00:51.808315] :- @@@ Create Child node  : BEF 
+6:- [2012-Nov-13 17:00:51.808371] :- @@@ Create Child node  : EF 
+7:- [2012-Nov-13 17:00:51.808428] :- @@@ Create Child node  : F 
+8:- [2012-Nov-13 17:00:51.808483] :- ### ---- Start recursive ---- ### 
+9:- [2012-Nov-13 17:00:51.808539] :- ---- Start recursive node with Vertex input  : ABCD 
+10:- [2012-Nov-13 17:00:51.808600] :- ---- Start recursive node with Data input  : ABEF 
+11:- [2012-Nov-13 17:00:51.808661] :- ### Node Branch Data  : BCD 
+12:- [2012-Nov-13 17:00:51.808728] :- ### Node Data  : BEF 
+13:- [2012-Nov-13 17:00:51.808784] :- --- Node Branch Data  : BCD 
+14:- [2012-Nov-13 17:00:51.808839] :- --- Node Data  : BEF 
+15:- [2012-Nov-13 17:00:51.808896] :- *** Node last contain data  : BCD 
+16:- [2012-Nov-13 17:00:51.808961] :- *** Node last contain data in size  : 2 
+17:- [2012-Nov-13 17:00:51.809018] :- *** Node data add to tail  : BEF 
+18:- [2012-Nov-13 17:00:51.809075] :- ###----End of recursive add node----###  
+19:- [2012-Nov-13 17:00:51.809132] :- Create temp element  : ABEG 
+20:- [2012-Nov-13 17:00:51.809187] :- @@@ Create Child node  : BEG 
+21:- [2012-Nov-13 17:00:51.809243] :- @@@ Create Child node  : EG 
+22:- [2012-Nov-13 17:00:51.809300] :- @@@ Create Child node  : G 
+23:- [2012-Nov-13 17:00:51.809359] :- ### ---- Start recursive ---- ### 
+24:- [2012-Nov-13 17:00:51.809428] :- ---- Start recursive node with Vertex input  : ABEG 
+25:- [2012-Nov-13 17:00:51.809485] :- ---- Start recursive node with Data input  : ABEG 
+26:- [2012-Nov-13 17:00:51.809543] :- ### Node Branch Data  : EG 
+27:- [2012-Nov-13 17:00:51.809598] :- ### Node Data  : BEG 
+28:- [2012-Nov-13 17:00:51.809654] :- ### Node Branch Data  : G 
+29:- [2012-Nov-13 17:00:51.809708] :- ### Node Data  : EG 
+30:- [2012-Nov-13 17:00:51.809763] :- ### Node Branch Data  : G 
+31:- [2012-Nov-13 17:00:51.809818] :- ### Node Data  : G 
+32:- [2012-Nov-13 17:00:51.809873] :- --- Node Branch Data  : G 
+33:- [2012-Nov-13 17:00:51.809928] :- --- Node Data  : G 
