@@ -13,3 +13,9 @@ Makefile.in
 /missing
 *.o
 .*.cpp.swp
+*.swp
+*.orig
+!*.c
+!*.h
+!*.hpp
+!*.cpp
