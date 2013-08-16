@@ -9,22 +9,29 @@ int refer_strdata(struct data_b * str_data_b)
   printf("Value of str_a : %d \n", *(&str_data_b->str_a) );
 
  	str_data_b->str_a = (struct data_a*)malloc(sizeof(str_data_b->str_a));	
+
 	if(*(&str_data_b->str_a) == NULL) return 0;
 
-  printf("After assigned malloc address to str_a of *(&str_data_b->str_a) : %d \n", *(&str_data_b->str_a) );
-  printf("After assigned malloc address to str_a of &str_data_b->str_a : %d \n", &str_data_b->str_a );
+ printf("After assigned malloc address to str_a of *(&str_data_b->str_a) : %d \n", *(&str_data_b->str_a) );
 
-	str_data_b->str_a->input_a_a = (int*) malloc(sizeof(str_data_b->str_a->input_a_a));
+ str_data_b->str_a->input_a_a = (int*) malloc(sizeof(str_data_b->str_a->input_a_a));
 
  printf("Print value address of input_a_a, &str_data_b->str_a->input_a_a : %d \n", &str_data_b->str_a->input_a_a);
+
+ printf("Print value address of input_a_a, str_data_b->str_a->input_a_a : %d \n", str_data_b->str_a->input_a_a);
+
+
+ printf("After assigned malloc address to str_a of &str_data_b->str_a : %d \n", &str_data_b->str_a );
+
+
 	
  printf("Print value address of input_a_a, *(&str_data_b->str_a->input_a_a) : %d \n", *(&str_data_b->str_a->input_a_a));
 
-	
   *(*(&str_data_b->str_a->input_a_a)) = 10; 
 	//str_data_b->str_a->input_a_a = 10; 
   //*(&str_data_b->str_a->input_a_a) = 10; 
-     
+  *str_data_b->str_a->input_a_a = 10; 
+
   printf("Print value struct a pointer of input_a_a value : %d  *(*(&sb->sa->iaa)) \n",*(*(&str_data_b->str_a->input_a_a)));
   printf("Print value struct a pointer of input_a_a value : %d, *(sb->sa->iaa) \n", *(str_data_b->str_a->input_a_a) );
 
