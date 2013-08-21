@@ -20,6 +20,13 @@ namespace internal
 				}
 				return result;
 		}
+
+		template<typename dest_type>
+		dest_type string_to(std::string const & s)
+		{
+			dest_type result;
+			return string_to(s, result);
+		}
 }
 
 }
@@ -31,4 +38,7 @@ int main()
 	int a;
 	int value_re = utility::internal::string_to<int>(value,a);
 	std::cout<<"Result from a : "<< value_re <<std::endl;
+	int value_re2 = utility::internal::string_to<int>(value);
+		std::cout<<"Result from a : "<< value_re2 <<std::endl;
+
 }
