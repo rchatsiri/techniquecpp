@@ -1,0 +1,1 @@
+g++ -o average_count average_count.cpp -L/home/chatsiri/workspacecpp/tbb/tbb41_20121003oss/build/linux_intel64_gcc_cc4.6_libc2.15_kernel3.2.0_debug -ltbb_debug -I/home/chatsiri/workspacecpp/tbb/tbb41_20121003oss/include
