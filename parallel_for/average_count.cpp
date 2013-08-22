@@ -9,9 +9,10 @@ struct Average{
 	float * output;
 	void operator()(const blocked_range<int> & range) const
 	{
-		for(int i = 0; i < range.begin(); ++i)
+		for(int i = range.begin(); i != range.end(); ++i)
 		{
 			output[i] = (input[i-1]+input[1]+input[i+1])*(1/3.0f);
+			std::cout<<" Print output : " << output[i] <<std::endl;
 		}
 	}
 };
@@ -28,7 +29,8 @@ int main()
 {
 		float * output;
 		float input  = 5.0f;
-		size_t size   = 6;
+		size_t size   = 9;
 		ParallelAverage(output, &input, size);
-		std::cout<<" Input : " << input <<", Output : " << *output <<std::endl;
+		for(int i = 0; i < size; ++i)
+			std::cout<<" Input : " << input <<", Output : " << output[i] <<std::endl;
 }
