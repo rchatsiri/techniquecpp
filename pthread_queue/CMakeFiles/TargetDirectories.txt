@@ -1,0 +1,2 @@
+/home/chatsiri/workspacecpp/techniquecpp/pthread_queue/src/mqueue/CMakeFiles/mqueue.dir
+/home/chatsiri/workspacecpp/techniquecpp/pthread_queue/src/CMakeFiles/queue_processes.dir
