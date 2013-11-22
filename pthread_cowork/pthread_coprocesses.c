@@ -59,7 +59,7 @@ void work_scanfile(void *param)
 	
 							printf("@@ Work_execuate, tbuf change to Empty data, thread_num : [ %d ], buffer_index [ %d ]  \n", pthread_self(), count_buf);
 
-							//sleep(2);
+							sleep(2);
 						  tpf->thread_num  = PROXY_UNLOCK_BUF;
 								//broadcast to next thread
 					}
@@ -139,7 +139,7 @@ int main()
         tpf[count_t]->file_name = (char *)malloc(sizeof(char *));
         tpf[count_t]->file_name = "/home/test";
 				tpf[count_t]->thread_num = PROXY_UNLOCK_BUF;
-				threads[count_t] = (struct thread_profile*)malloc(sizeof(threads));
+				//threads[count_t] = (struct thread_profile*)malloc(sizeof(threads));
         pthread_create(&threads[count_t], 0, work_scanfile, tpf[count_t]);
 
         printf("### Main, Create thread [%d] completed \n", count_t);

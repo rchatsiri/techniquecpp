@@ -3,7 +3,7 @@
 
 
 template<typename FileQueue>
-std::vector<FileQueue> mqueue_controller<FileQueue>:pop()
+std::vector<FileQueue> mqueue_controller<FileQueue>::pop()
 {
-
+	
 }

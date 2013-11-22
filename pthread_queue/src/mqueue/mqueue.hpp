@@ -15,12 +15,13 @@ public:
 };
 
 template<typename FileQueue>
-class mqueue_controller : public mqueue, public std::iterator<std::input_iterator_tag, int>
+class mqueue_controller : public mqueue<FileQueue>, public std::iterator<std::input_iterator_tag, int>
 {
 	public:
 		virtual std::vector<FileQueue> pop();
 		virtual void push(std::vector<FileQueue> fileQueue);
 //		virtual ~mqueue_controller();
 	public:
-		FileQueue * fqueue; 
+		FileQueue * fqueue;	
+		typedef struct apr_queue_t * queue; 
 };

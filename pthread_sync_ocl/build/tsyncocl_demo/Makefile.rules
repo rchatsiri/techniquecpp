@@ -1,0 +1,10 @@
+CXX=g++ -Wall -Wno-sign-compare -Werror -O3
+
+AR=ar rcs
+
+BOOST_BASE_DIR = /home/chatsiri/workspacecpp/boost-truck
+BOOST_CXX_FLAGS = -I/home/chatsiri/workspacecpp/boost-truck/
+BOOST_LD_FLAGS  = -L/home/chatsiri/workspacecpp/boost-truck/stage/lib  -lboost_system -lboost_filesystem -lpthread
+
+CXXFLAGS = $(BOOST_CXX_FLAGS) -I../include/
+LDFLAGS=-static $(BOOST_LD_FLAGS)
